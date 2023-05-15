@@ -1,0 +1,820 @@
+,name,sportsref_url,school,avg_min,avg_pts,total_min,total_pts,transfer
+0,Zia Cooke,https://www.sports-reference.com/cbb/players/zia-cooke-1.html,South Carolina,26.7,15.4,987,569,False
+1,Aliyah Boston,https://www.sports-reference.com/cbb/players/aliyah-boston-1.html,South Carolina,26.2,13.0,969,482,False
+2,Kamilla Cardoso,https://www.sports-reference.com/cbb/players/kamilla-cardoso-1.html,South Carolina,18.8,9.8,678,353,False
+3,Laeticia Amihere,https://www.sports-reference.com/cbb/players/laeticia-amihere-1.html,South Carolina,15.9,7.1,573,255,False
+4,Brea Beal,https://www.sports-reference.com/cbb/players/brea-beal-1.html,South Carolina,25.2,6.4,934,238,False
+5,Bree Hall,https://www.sports-reference.com/cbb/players/bree-hall-1.html,South Carolina,13.9,5.0,487,174,False
+6,Sania Feagin,https://www.sports-reference.com/cbb/players/sania-feagin-1.html,South Carolina,7.9,4.9,213,131,False
+7,Victaria Saxton,https://www.sports-reference.com/cbb/players/victaria-saxton-1.html,South Carolina,16.1,4.9,596,182,False
+8,Ashlyn Watkins,https://www.sports-reference.com/cbb/players/ashlyn-watkins-1.html,South Carolina,10.7,4.9,342,158,False
+9,Kierra Fletcher,https://www.sports-reference.com/cbb/players/kierra-fletcher-1.html,South Carolina,15.9,4.4,574,160,False
+10,Raven Johnson,https://www.sports-reference.com/cbb/players/raven-johnson-3.html,South Carolina,18.7,4.2,674,151,False
+11,Talaysia Cooper,https://www.sports-reference.com/cbb/players/talaysia-cooper-1.html,South Carolina,8.4,2.9,201,69,False
+12,Chloe Kitts,https://www.sports-reference.com/cbb/players/chloe-kitts-1.html,South Carolina,6.9,1.6,124,29,False
+13,Olivia Thompson,https://www.sports-reference.com/cbb/players/olivia-thompson-1.html,South Carolina,3.9,0.8,98,21,False
+14,Camille Downs,https://www.sports-reference.com/cbb/players/camille-downs-1.html,Norfolk State,24.6,11.8,762,365,False
+15,Kierra Wheeler,https://www.sports-reference.com/cbb/players/kierra-wheeler-1.html,Norfolk State,26.8,10.9,831,337,False
+16,Deja Francis,https://www.sports-reference.com/cbb/players/deja-francis-1.html,Norfolk State,29.7,10.8,890,325,False
+17,Niya Fields,https://www.sports-reference.com/cbb/players/niya-fields-1.html,Norfolk State,30.3,6.5,938,203,False
+18,Makoye Diawara,https://www.sports-reference.com/cbb/players/makoye-diawara-1.html,Norfolk State,23.9,5.9,766,189,False
+19,Danaijah Williams,https://www.sports-reference.com/cbb/players/danaijah-williams-1.html,Norfolk State,17.5,4.8,508,140,False
+20,Mahoganie Williams,https://www.sports-reference.com/cbb/players/mahoganie-williams-1.html,Norfolk State,15.2,4.4,472,135,False
+21,Crystal White,https://www.sports-reference.com/cbb/players/crystal-white-2.html,Norfolk State,15.8,3.8,507,121,False
+22,Danielle Robinson,https://www.sports-reference.com/cbb/players/danielle-robinson-4.html,Norfolk State,9.4,2.5,151,40,True
+23,Skye Robinson,https://www.sports-reference.com/cbb/players/skye-robinson-1.html,Norfolk State,13.4,2.2,430,71,False
+24,Alana Swift,https://www.sports-reference.com/cbb/players/alana-swift-1.html,Norfolk State,6.6,1.6,118,29,False
+25,Tamiya Santos,https://www.sports-reference.com/cbb/players/tamiya-santos-1.html,Norfolk State,5.9,1.0,53,9,False
+26,Elena Tsineke,https://www.sports-reference.com/cbb/players/elena-tsineke-1.html,South Florida,35.2,17.9,1162,591,False
+27,Dulcy Fankam Mendjiadeu,https://www.sports-reference.com/cbb/players/dulcy-fankam-mendjiadeu-1.html,South Florida,33.5,16.5,1140,560,False
+28,Sammie Puisis,https://www.sports-reference.com/cbb/players/sammie-puisis-1.html,South Florida,35.6,15.6,1210,532,True
+29,Carla Brito,https://www.sports-reference.com/cbb/players/carla-brito-1.html,South Florida,24.5,8.6,833,293,False
+30,Daniela Gonzalez,https://www.sports-reference.com/cbb/players/daniela-gonzalez-1.html,South Florida,15.9,4.1,540,138,False
+31,Maria Alvarez,https://www.sports-reference.com/cbb/players/maria-alvarez-1.html,South Florida,10.3,2.5,196,47,False
+32,Priscilla Williams,https://www.sports-reference.com/cbb/players/priscilla-williams-1.html,South Florida,6.6,2.2,113,38,False
+33,Marina Asensio,https://www.sports-reference.com/cbb/players/marina-asensio-1.html,South Florida,10.4,1.8,322,55,False
+34,Emma Johansson,https://www.sports-reference.com/cbb/players/emma-johansson-1.html,South Florida,8.7,1.7,270,53,False
+35,Janette Aarnio,https://www.sports-reference.com/cbb/players/janette-aarnio-1.html,South Florida,6.3,1.4,158,35,False
+36,Aerial Wilson,https://www.sports-reference.com/cbb/players/aerial-wilson-2.html,South Florida,27.2,1.3,925,43,False
+37,Caitlin McGee,https://www.sports-reference.com/cbb/players/caitlin-mcgee-1.html,South Florida,3.0,0.0,6,0,True
+38,Jordan King,https://www.sports-reference.com/cbb/players/jordan-king-2.html,Marquette,34.3,15.9,1096,510,False
+39,Chloe Marotta,https://www.sports-reference.com/cbb/players/chloe-marotta-1.html,Marquette,32.5,14.8,1040,474,False
+40,Liza Karlen,https://www.sports-reference.com/cbb/players/liza-karlen-1.html,Marquette,31.3,11.4,782,286,False
+41,Mackenzie Hare,https://www.sports-reference.com/cbb/players/mackenzie-hare-1.html,Marquette,17.6,7.2,547,222,False
+42,Emily La Chapell,https://www.sports-reference.com/cbb/players/emily-la-chapell-1.html,Marquette,21.2,5.3,677,171,False
+43,Rose Nkumu,https://www.sports-reference.com/cbb/players/rose-nkumu-1.html,Marquette,28.8,4.8,920,152,False
+44,Nia Clark,https://www.sports-reference.com/cbb/players/nia-clark-1.html,Marquette,15.3,3.1,412,85,True
+45,Claire Kaifes,https://www.sports-reference.com/cbb/players/claire-kaifes-1.html,Marquette,14.2,2.6,283,52,False
+46,Makiyah Williams,https://www.sports-reference.com/cbb/players/makiyah-williams-1.html,Marquette,10.0,2.6,230,59,False
+47,Kennedi Myles,https://www.sports-reference.com/cbb/players/kennedi-myles-1.html,Marquette,11.4,1.9,331,54,False
+48,Julianna Okosun,https://www.sports-reference.com/cbb/players/julianna-okosun-1.html,Marquette,5.2,0.8,57,9,False
+49,Charia Smith,https://www.sports-reference.com/cbb/players/charia-smith-1.html,Marquette,4.5,0.4,76,6,False
+50,Madi Williams,https://www.sports-reference.com/cbb/players/madi-williams-1.html,Oklahoma,25.6,15.7,846,518,False
+51,Ana Llanusa,https://www.sports-reference.com/cbb/players/ana-llanusa-1.html,Oklahoma,26.4,11.8,870,390,False
+52,Skylar Vann,https://www.sports-reference.com/cbb/players/skylar-vann-1.html,Oklahoma,20.4,11.5,672,381,False
+53,Taylor Robertson,https://www.sports-reference.com/cbb/players/taylor-robertson-1.html,Oklahoma,26.9,11.3,888,374,False
+54,Liz Scott,https://www.sports-reference.com/cbb/players/liz-scott-1.html,Oklahoma,16.0,8.6,529,285,False
+55,Nevaeh Tot,https://www.sports-reference.com/cbb/players/nevaeh-tot-1.html,Oklahoma,27.9,7.5,920,248,False
+56,Aubrey Joens,https://www.sports-reference.com/cbb/players/aubrey-joens-1.html,Oklahoma,15.8,6.1,521,202,True
+57,Beatrice Culliton,https://www.sports-reference.com/cbb/players/beatrice-culliton-1.html,Oklahoma,10.3,4.2,339,138,False
+58,Kiersten Johnson,https://www.sports-reference.com/cbb/players/kiersten-johnson-1.html,Oklahoma,9.2,3.0,230,76,False
+59,Reyna Scott,https://www.sports-reference.com/cbb/players/reyna-scott-1.html,Oklahoma,9.3,3.0,224,71,False
+60,Kennady Tucker,https://www.sports-reference.com/cbb/players/kennady-tucker-1.html,Oklahoma,17.8,2.7,587,89,False
+61,Emma Svoboda,https://www.sports-reference.com/cbb/players/emma-svoboda-1.html,Oklahoma,2.0,0.8,10,4,False
+62,Jordan Moser,https://www.sports-reference.com/cbb/players/jordan-moser-1.html,Oklahoma,1.0,0.3,3,1,False
+63,Kayla Cooper,https://www.sports-reference.com/cbb/players/kayla-cooper-2.html,Oklahoma,3.2,0.0,19,0,False
+64,Alex Fowler,https://www.sports-reference.com/cbb/players/alex-fowler-1.html,Portland,28.9,17.8,924,571,False
+65,Haylee Andrews,https://www.sports-reference.com/cbb/players/haylee-andrews-1.html,Portland,26.7,12.4,294,136,False
+66,Maisie Burnham,https://www.sports-reference.com/cbb/players/maisie-burnham-1.html,Portland,24.4,11.0,782,352,False
+67,Emme Shearer,https://www.sports-reference.com/cbb/players/emme-shearer-1.html,Portland,24.7,10.0,790,321,False
+68,Lucy Cochrane,https://www.sports-reference.com/cbb/players/lucy-cochrane-1.html,Portland,23.6,5.9,495,123,False
+69,Liana Kaitu'u,https://www.sports-reference.com/cbb/players/liana-kaituu-1.html,Portland,18.6,5.8,596,185,False
+70,McKelle Meek,https://www.sports-reference.com/cbb/players/mckelle-meek-1.html,Portland,21.8,5.3,655,160,False
+71,Keeley Frawley,https://www.sports-reference.com/cbb/players/keeley-frawley-1.html,Portland,23.3,3.8,746,121,False
+72,MJ Bruno,https://www.sports-reference.com/cbb/players/mj-bruno-1.html,Portland,14.4,3.2,361,79,False
+73,Kelsey Lenzie,https://www.sports-reference.com/cbb/players/kelsey-lenzie-1.html,Portland,12.8,2.9,396,90,False
+74,Melika Samia,https://www.sports-reference.com/cbb/players/melika-samia-1.html,Portland,5.0,1.3,114,31,False
+75,Emily Sewell,https://www.sports-reference.com/cbb/players/emily-sewell-1.html,Portland,7.0,1.1,146,24,False
+76,Chance Bucher,https://www.sports-reference.com/cbb/players/chance-bucher-1.html,Portland,2.7,0.8,43,13,False
+77,Emma Strelein,https://www.sports-reference.com/cbb/players/emma-strelein-1.html,Portland,3.3,0.6,56,10,False
+78,Maddi Condron,https://www.sports-reference.com/cbb/players/maddi-condron-1.html,Portland,2.3,0.2,27,2,False
+79,Charisma Osborne,https://www.sports-reference.com/cbb/players/charisma-osborne-1.html,UCLA,33.1,15.9,1190,571,False
+80,Kiki Rice,https://www.sports-reference.com/cbb/players/kiki-rice-1.html,UCLA,28.1,11.6,1039,430,False
+81,Emily Bessoir,https://www.sports-reference.com/cbb/players/emily-bessoir-1.html,UCLA,25.1,9.4,929,346,False
+82,Londynn Jones,https://www.sports-reference.com/cbb/players/londynn-jones-1.html,UCLA,19.9,8.6,736,317,False
+83,Gina Conti,https://www.sports-reference.com/cbb/players/gina-conti-1.html,UCLA,26.9,6.6,968,239,False
+84,Gabriela Jaquez,https://www.sports-reference.com/cbb/players/gabriela-jaquez-1.html,UCLA,17.4,6.3,645,234,False
+85,Lina Sontag,https://www.sports-reference.com/cbb/players/lina-sontag-1.html,UCLA,17.2,4.9,601,171,False
+86,Camryn Brown,https://www.sports-reference.com/cbb/players/camryn-brown-1.html,UCLA,20.9,3.0,753,107,False
+87,Dominique Onu,https://www.sports-reference.com/cbb/players/dominique-onu-1.html,UCLA,10.3,3.0,62,18,False
+88,Christeen Iwuala,https://www.sports-reference.com/cbb/players/christeen-iwuala-1.html,UCLA,12.2,2.9,426,103,False
+89,Brynn Masikewich,https://www.sports-reference.com/cbb/players/brynn-masikewich-1.html,UCLA,5.6,1.7,135,40,False
+90,Izzy Anstey,https://www.sports-reference.com/cbb/players/izzy-anstey-1.html,UCLA,3.0,0.7,18,4,False
+91,Kahlaijah Dean,https://www.sports-reference.com/cbb/players/kahlaijah-dean-1.html,Sacramento State,36.1,20.8,1191,685,True
+92,Isnelle Natabou,https://www.sports-reference.com/cbb/players/isnelle-natabou-1.html,Sacramento State,34.2,15.8,1130,522,False
+93,Kaylin Randhawa,https://www.sports-reference.com/cbb/players/kaylin-randhawa-1.html,Sacramento State,29.8,9.2,984,302,True
+94,Katie Peneueta,https://www.sports-reference.com/cbb/players/katie-peneueta-1.html,Sacramento State,35.3,8.4,1023,245,False
+95,Solape Amusan,https://www.sports-reference.com/cbb/players/solape-amusan-1.html,Sacramento State,17.1,4.8,496,138,True
+96,Jordan Olivares,https://www.sports-reference.com/cbb/players/jordan-olivares-1.html,Sacramento State,18.7,4.7,597,149,False
+97,Madison Butcher,https://www.sports-reference.com/cbb/players/madison-butcher-1.html,Sacramento State,19.0,4.4,474,109,False
+98,Benthe Versteeg,https://www.sports-reference.com/cbb/players/benthe-versteeg-1.html,Sacramento State,19.4,2.1,602,64,False
+99,Kaylie Edge,https://www.sports-reference.com/cbb/players/kaylie-edge-1.html,Sacramento State,5.1,1.8,77,27,False
+100,Irune Orio,https://www.sports-reference.com/cbb/players/irune-orio-1.html,Sacramento State,3.3,1.8,13,7,False
+101,Erin Hedman,https://www.sports-reference.com/cbb/players/erin-hedman-1.html,Sacramento State,4.8,1.1,48,11,True
+102,Akaysha Muggeridge,https://www.sports-reference.com/cbb/players/akaysha-muggeridge-1.html,Sacramento State,2.5,0.3,15,2,False
+103,Lauren Jensen,https://www.sports-reference.com/cbb/players/lauren-jensen-1.html,Creighton,33.7,16.1,1044,500,False
+104,Morgan Maly,https://www.sports-reference.com/cbb/players/morgan-maly-1.html,Creighton,28.0,14.6,868,454,False
+105,Emma Ronsiek,https://www.sports-reference.com/cbb/players/emma-ronsiek-1.html,Creighton,29.7,13.2,921,410,False
+106,Molly Mogensen,https://www.sports-reference.com/cbb/players/molly-mogensen-1.html,Creighton,28.7,7.0,889,217,False
+107,Rachael Saunders,https://www.sports-reference.com/cbb/players/rachael-saunders-1.html,Creighton,25.4,7.0,635,175,False
+108,Carly Bachelor,https://www.sports-reference.com/cbb/players/carly-bachelor-1.html,Creighton,21.8,5.7,676,177,False
+109,Jayme Horan,https://www.sports-reference.com/cbb/players/jayme-horan-1.html,Creighton,11.2,2.8,346,86,False
+110,Mallory Brake,https://www.sports-reference.com/cbb/players/mallory-brake-1.html,Creighton,10.9,2.3,337,70,False
+111,Kennedy Townsend,https://www.sports-reference.com/cbb/players/kennedy-townsend-1.html,Creighton,8.3,2.0,250,61,False
+112,Kiani Lockett,https://www.sports-reference.com/cbb/players/kiani-lockett-1.html,Creighton,9.6,1.9,258,50,False
+113,Jessika Carter,https://www.sports-reference.com/cbb/players/jessika-carter-1.html,Mississippi State,27.5,14.8,853,458,False
+114,Jerkaila Jordan,https://www.sports-reference.com/cbb/players/jerkaila-jordan-1.html,Mississippi State,27.5,11.9,907,393,False
+115,Ahlana Smith,https://www.sports-reference.com/cbb/players/ahlana-smith-1.html,Mississippi State,27.3,9.3,875,298,True
+116,Anastasia Hayes,https://www.sports-reference.com/cbb/players/anastasia-hayes-1.html,Mississippi State,29.4,8.2,942,261,False
+117,Asianae Johnson,https://www.sports-reference.com/cbb/players/asianae-johnson-1.html,Mississippi State,20.8,8.2,688,272,True
+118,Debreasha Powe,https://www.sports-reference.com/cbb/players/debreasha-powe-1.html,Mississippi State,27.5,8.2,906,272,False
+119,Ramani Parker,https://www.sports-reference.com/cbb/players/ramani-parker-1.html,Mississippi State,15.3,4.8,337,105,True
+120,Denae Carter,https://www.sports-reference.com/cbb/players/denae-carter-1.html,Mississippi State,15.4,4.2,431,117,False
+121,Kourtney Weber,https://www.sports-reference.com/cbb/players/kourtney-weber-1.html,Mississippi State,14.7,3.7,486,123,True
+122,Alasia Hayes,https://www.sports-reference.com/cbb/players/alasia-hayes-1.html,Mississippi State,7.6,1.6,76,16,False
+123,Charlotte Kohl,https://www.sports-reference.com/cbb/players/charlotte-kohl-1.html,Mississippi State,6.6,1.1,138,24,False
+124,Mia Moore,https://www.sports-reference.com/cbb/players/mia-moore-1.html,Mississippi State,2.5,0.8,10,3,False
+125,Nyayongah Gony,https://www.sports-reference.com/cbb/players/nyayongah-gony-1.html,Mississippi State,4.4,0.4,35,3,False
+126,Sonia Citron,https://www.sports-reference.com/cbb/players/sonia-citron-1.html,Notre Dame,33.5,14.7,1107,484,False
+127,Olivia Miles,https://www.sports-reference.com/cbb/players/olivia-miles-1.html,Notre Dame,31.6,14.3,885,400,False
+128,Maddy Westbeld,https://www.sports-reference.com/cbb/players/maddy-westbeld-1.html,Notre Dame,27.5,11.2,906,368,False
+129,Dara Mabrey,https://www.sports-reference.com/cbb/players/dara-mabrey-1.html,Notre Dame,29.3,9.3,528,168,False
+130,Lauren Ebo,https://www.sports-reference.com/cbb/players/lauren-ebo-1.html,Notre Dame,21.5,9.0,603,253,True
+131,KK Bransford,https://www.sports-reference.com/cbb/players/kk-bransford-1.html,Notre Dame,24.2,8.2,800,270,False
+132,Kylee Watson,https://www.sports-reference.com/cbb/players/kylee-watson-1.html,Notre Dame,23.5,6.8,777,226,True
+133,Cassandre Prosper,https://www.sports-reference.com/cbb/players/cassandre-prosper-1.html,Notre Dame,21.9,5.2,482,115,False
+134,Natalija Marshall,https://www.sports-reference.com/cbb/players/natalija-marshall-1.html,Notre Dame,10.4,3.5,292,98,False
+135,Jenna Brown,https://www.sports-reference.com/cbb/players/jenna-brown-2.html,Notre Dame,8.0,2.0,217,53,False
+136,Sarah Cernugel,https://www.sports-reference.com/cbb/players/sarah-cernugel-1.html,Notre Dame,1.8,0.2,21,2,False
+137,Trinity Cha,https://www.sports-reference.com/cbb/players/trinity-cha-1.html,Notre Dame,1.2,0.2,6,1,False
+138,Cherita Daugherty,https://www.sports-reference.com/cbb/players/cherita-daugherty-1.html,Southern Utah,33.9,15.1,1119,499,False
+139,Tomekia Whitman,https://www.sports-reference.com/cbb/players/tomekia-whitman-1.html,Southern Utah,24.5,11.8,514,248,True
+140,Megan Jensen,https://www.sports-reference.com/cbb/players/megan-jensen-1.html,Southern Utah,28.2,11.3,929,373,True
+141,Daylani Ballena,https://www.sports-reference.com/cbb/players/daylani-ballena-1.html,Southern Utah,34.1,11.1,1126,367,False
+142,Lizzy Williamson,https://www.sports-reference.com/cbb/players/lizzy-williamson-1.html,Southern Utah,31.2,9.6,1029,317,False
+143,Samantha Johnston,https://www.sports-reference.com/cbb/players/samantha-johnston-1.html,Southern Utah,32.3,8.1,1032,258,False
+144,Alexa Lord,https://www.sports-reference.com/cbb/players/alexa-lord-1.html,Southern Utah,15.7,3.4,518,113,False
+145,Lexi Jensen,https://www.sports-reference.com/cbb/players/lexi-jensen-1.html,Southern Utah,10.8,2.5,43,10,False
+146,Ashley Banks,https://www.sports-reference.com/cbb/players/ashley-banks-2.html,Southern Utah,8.7,1.8,208,43,False
+147,Bryar Tronnier,https://www.sports-reference.com/cbb/players/bryar-tronnier-1.html,Southern Utah,6.1,1.3,140,31,False
+148,Emmy Clarke,https://www.sports-reference.com/cbb/players/emmy-clarke-1.html,Southern Utah,8.5,0.9,68,7,False
+149,Shaina Pellington,https://www.sports-reference.com/cbb/players/shaina-pellington-1.html,Arizona,27.9,13.4,837,403,False
+150,Cate Reese,https://www.sports-reference.com/cbb/players/cate-reese-1.html,Arizona,28.4,13.2,910,423,False
+151,Esmery Martinez,https://www.sports-reference.com/cbb/players/esmery-martinez-1.html,Arizona,25.8,10.5,827,337,True
+152,Jade Loville,https://www.sports-reference.com/cbb/players/jade-loville-1.html,Arizona,22.7,9.8,726,313,True
+153,Madison Conner,https://www.sports-reference.com/cbb/players/madison-conner-1.html,Arizona,14.3,5.8,457,187,False
+154,Helena Pueyo,https://www.sports-reference.com/cbb/players/helena-pueyo-1.html,Arizona,25.1,5.3,804,168,False
+155,Kailyn Gilbert,https://www.sports-reference.com/cbb/players/kailyn-gilbert-1.html,Arizona,10.6,4.9,340,157,False
+156,Lauren Fields,https://www.sports-reference.com/cbb/players/lauren-fields-1.html,Arizona,24.0,4.5,769,145,True
+157,Maya Nnaji,https://www.sports-reference.com/cbb/players/maya-nnaji-1.html,Arizona,13.0,4.4,365,123,False
+158,Paris Clark,https://www.sports-reference.com/cbb/players/paris-clark-1.html,Arizona,13.3,3.8,318,92,False
+159,Lemyah Hylton,https://www.sports-reference.com/cbb/players/lemyah-hylton-1.html,Arizona,8.1,1.5,121,22,False
+160,Ja'Naiya Quinerly,https://www.sports-reference.com/cbb/players/janaiya-quinerly-1.html,West Virginia,28.0,14.5,869,448,False
+161,Madisen Smith,https://www.sports-reference.com/cbb/players/madisen-smith-1.html,West Virginia,34.2,14.1,1027,423,False
+162,Jayla Hemingway,https://www.sports-reference.com/cbb/players/jayla-hemingway-1.html,West Virginia,27.3,9.4,818,281,False
+163,Kyah Watson,https://www.sports-reference.com/cbb/players/kyah-watson-1.html,West Virginia,30.2,7.3,935,226,True
+164,Kylee Blacksten,https://www.sports-reference.com/cbb/players/kylee-blacksten-1.html,West Virginia,20.7,6.0,622,180,True
+165,Danni Nichols,https://www.sports-reference.com/cbb/players/danni-nichols-1.html,West Virginia,17.7,4.7,550,145,True
+166,Imarianah Russell,https://www.sports-reference.com/cbb/players/imarianah-russell-1.html,West Virginia,12.0,4.0,12,4,False
+167,Savannah Samuel,https://www.sports-reference.com/cbb/players/savannah-samuel-1.html,West Virginia,14.7,3.9,352,94,False
+168,Isis Beh,https://www.sports-reference.com/cbb/players/isis-beh-1.html,West Virginia,10.2,3.1,276,83,False
+169,Sarah Bates,https://www.sports-reference.com/cbb/players/sarah-bates-1.html,West Virginia,13.6,2.3,394,67,True
+170,Tavy Diggs,https://www.sports-reference.com/cbb/players/tavy-diggs-1.html,West Virginia,9.5,2.2,296,67,True
+171,Wynter Rogers,https://www.sports-reference.com/cbb/players/wynter-rogers-1.html,West Virginia,3.1,1.1,43,15,False
+172,Messiah Hunter,https://www.sports-reference.com/cbb/players/messiah-hunter-1.html,West Virginia,4.0,0.9,56,12,False
+173,Diamond Miller,https://www.sports-reference.com/cbb/players/diamond-miller-1.html,Maryland,28.8,19.7,978,671,False
+174,Abby Meyers,https://www.sports-reference.com/cbb/players/abby-meyers-1.html,Maryland,30.5,14.3,1067,501,True
+175,Shyanne Sellers,https://www.sports-reference.com/cbb/players/shyanne-sellers-1.html,Maryland,28.3,13.9,989,486,False
+176,Brinae Alexander,https://www.sports-reference.com/cbb/players/brinae-alexander-1.html,Maryland,22.7,9.0,794,315,True
+177,Lavender Briggs,https://www.sports-reference.com/cbb/players/lavender-briggs-1.html,Maryland,24.8,7.2,867,253,True
+178,Faith Masonius,https://www.sports-reference.com/cbb/players/faith-masonius-1.html,Maryland,27.3,6.9,955,240,False
+179,Elisa Pinzan,https://www.sports-reference.com/cbb/players/elisa-pinzan-1.html,Maryland,20.2,3.3,707,115,True
+180,Bri McDaniel,https://www.sports-reference.com/cbb/players/bri-mcdaniel-1.html,Maryland,9.5,3.0,323,103,False
+181,Gia Cooke,https://www.sports-reference.com/cbb/players/gia-cooke-1.html,Maryland,6.4,2.2,160,56,False
+182,Mila Reynolds,https://www.sports-reference.com/cbb/players/mila-reynolds-1.html,Maryland,5.0,1.0,111,23,False
+183,Ava Sciolla,https://www.sports-reference.com/cbb/players/ava-sciolla-1.html,Maryland,2.8,0.4,44,7,False
+184,Emma Chardon,https://www.sports-reference.com/cbb/players/emma-chardon-1.html,Maryland,4.0,0.0,4,0,False
+185,Bronagh Power-Cassidy,https://www.sports-reference.com/cbb/players/bronagh-power-cassidy-1.html,Holy Cross,30.6,13.6,1010,448,False
+186,Janelle Allen,https://www.sports-reference.com/cbb/players/janelle-allen-1.html,Holy Cross,23.0,10.4,666,303,False
+187,Lindsay Berger,https://www.sports-reference.com/cbb/players/lindsay-berger-1.html,Holy Cross,24.8,9.8,817,324,False
+188,Cara McCormack,https://www.sports-reference.com/cbb/players/cara-mccormack-1.html,Holy Cross,27.1,9.5,705,246,False
+189,Kaitlyn Flanagan,https://www.sports-reference.com/cbb/players/kaitlyn-flanagan-1.html,Holy Cross,30.5,6.7,1008,220,False
+190,Simone Foreman,https://www.sports-reference.com/cbb/players/simone-foreman-1.html,Holy Cross,15.4,5.0,463,149,False
+191,Addisyn Cross,https://www.sports-reference.com/cbb/players/addisyn-cross-1.html,Holy Cross,29.2,4.2,934,135,False
+192,Mary-Elizabeth Donnelly,https://www.sports-reference.com/cbb/players/mary-elizabeth-donnelly-1.html,Holy Cross,15.3,3.2,491,101,False
+193,Callie Wright,https://www.sports-reference.com/cbb/players/callie-wright-1.html,Holy Cross,8.5,1.9,256,56,True
+194,Meg Cahalan,https://www.sports-reference.com/cbb/players/meg-cahalan-1.html,Holy Cross,2.8,1.4,36,18,False
+195,Grace Munt,https://www.sports-reference.com/cbb/players/grace-munt-1.html,Holy Cross,6.8,1.1,156,26,False
+196,Lauren Huber,https://www.sports-reference.com/cbb/players/lauren-huber-2.html,Holy Cross,6.4,0.7,109,12,False
+197,MacKenzie Holmes,https://www.sports-reference.com/cbb/players/mackenzie-holmes-1.html,Indiana,30.7,22.3,953,692,False
+198,Grace Berger,https://www.sports-reference.com/cbb/players/grace-berger-1.html,Indiana,32.0,12.9,767,310,False
+199,Sydney Parrish,https://www.sports-reference.com/cbb/players/sydney-parrish-1.html,Indiana,29.1,12.0,930,385,True
+200,Yarden Garzon,https://www.sports-reference.com/cbb/players/yarden-garzon-1.html,Indiana,29.8,11.1,955,355,False
+201,Chloe Moore-McNeil,https://www.sports-reference.com/cbb/players/chloe-moore-mcneil-1.html,Indiana,33.5,9.5,1073,305,False
+202,Sara Scalia,https://www.sports-reference.com/cbb/players/sara-scalia-1.html,Indiana,26.8,9.5,857,303,True
+203,Kaitlin Peterson,https://www.sports-reference.com/cbb/players/kaitlin-peterson-1.html,Indiana,13.0,4.0,78,24,False
+204,Lilly Meister,https://www.sports-reference.com/cbb/players/lilly-meister-1.html,Indiana,6.4,2.4,199,75,False
+205,Alyssa Geary,https://www.sports-reference.com/cbb/players/alyssa-geary-1.html,Indiana,6.9,2.2,145,46,True
+206,Lexus Bargesser,https://www.sports-reference.com/cbb/players/lexus-bargesser-1.html,Indiana,7.8,2.1,226,60,False
+207,Mona Zaric,https://www.sports-reference.com/cbb/players/mona-zaric-1.html,Indiana,4.6,1.0,65,14,False
+208,Henna Sandvik,https://www.sports-reference.com/cbb/players/henna-sandvik-1.html,Indiana,6.6,0.6,151,13,False
+209,Arielle Wisne,https://www.sports-reference.com/cbb/players/arielle-wisne-1.html,Indiana,1.5,0.5,17,5,False
+210,Kiandra Browne,https://www.sports-reference.com/cbb/players/kiandra-browne-1.html,Indiana,1.4,0.3,10,2,False
+211,Maaliya Owens,https://www.sports-reference.com/cbb/players/maaliya-owens-1.html,Tennessee Tech,32.2,14.9,1030,476,False
+212,Jada Guinn,https://www.sports-reference.com/cbb/players/jada-guinn-1.html,Tennessee Tech,28.3,10.7,933,352,False
+213,Anna Walker,https://www.sports-reference.com/cbb/players/anna-walker-1.html,Tennessee Tech,21.3,9.8,660,303,False
+214,Reghan Grimes,https://www.sports-reference.com/cbb/players/reghan-grimes-1.html,Tennessee Tech,27.7,8.3,886,265,False
+215,Reagan Hurst,https://www.sports-reference.com/cbb/players/reagan-hurst-1.html,Tennessee Tech,23.1,7.3,646,204,False
+216,Jordan Brock,https://www.sports-reference.com/cbb/players/jordan-brock-1.html,Tennessee Tech,23.5,6.7,775,221,False
+217,Peyton Carter,https://www.sports-reference.com/cbb/players/peyton-carter-3.html,Tennessee Tech,21.9,6.0,724,198,False
+218,Kiera Hill,https://www.sports-reference.com/cbb/players/kiera-hill-1.html,Tennessee Tech,12.6,3.9,417,129,False
+219,Ansley Hall,https://www.sports-reference.com/cbb/players/ansley-hall-1.html,Tennessee Tech,9.6,2.3,231,56,False
+220,Cayla Cowart,https://www.sports-reference.com/cbb/players/cayla-cowart-1.html,Tennessee Tech,8.5,1.8,178,38,False
+221,DJ McFarlane,https://www.sports-reference.com/cbb/players/dj-mcfarlane-1.html,Tennessee Tech,3.9,1.2,51,16,False
+222,Jennifer Sullivan,https://www.sports-reference.com/cbb/players/jennifer-sullivan-2.html,Tennessee Tech,5.8,0.8,69,10,False
+223,Naomie Alnatas,https://www.sports-reference.com/cbb/players/naomie-alnatas-1.html,Oklahoma State,29.8,13.6,985,450,True
+224,Lior Garzon,https://www.sports-reference.com/cbb/players/lior-garzon-1.html,Oklahoma State,23.8,10.8,784,356,True
+225,Terryn Milton,https://www.sports-reference.com/cbb/players/terryn-milton-1.html,Oklahoma State,30.8,10.1,1016,332,True
+226,Claire Chastain,https://www.sports-reference.com/cbb/players/claire-chastain-1.html,Oklahoma State,24.9,9.6,747,288,True
+227,Taylen Collins,https://www.sports-reference.com/cbb/players/taylen-collins-1.html,Oklahoma State,27.5,9.5,909,314,False
+228,Lexy Keys,https://www.sports-reference.com/cbb/players/lexy-keys-1.html,Oklahoma State,31.5,9.4,1009,302,False
+229,Anna Gret Asi,https://www.sports-reference.com/cbb/players/anna-gret-asi-1.html,Oklahoma State,17.0,7.2,528,224,True
+230,Kassidy De Lapp,https://www.sports-reference.com/cbb/players/kassidy-de-lapp-1.html,Oklahoma State,13.6,4.0,422,125,False
+231,Makyra Tramble,https://www.sports-reference.com/cbb/players/makyra-tramble-1.html,Oklahoma State,11.6,3.7,116,37,False
+232,Trinitee Jackson,https://www.sports-reference.com/cbb/players/trinitee-jackson-1.html,Oklahoma State,5.4,2.7,98,48,True
+233,Macie James,https://www.sports-reference.com/cbb/players/macie-james-1.html,Oklahoma State,5.2,0.9,52,9,False
+234,Landry Williams,https://www.sports-reference.com/cbb/players/landry-williams-1.html,Oklahoma State,2.0,0.0,8,0,True
+235,Haley Cavinder,https://www.sports-reference.com/cbb/players/haley-cavinder-1.html,Miami (FL),30.9,12.2,1083,426,True
+236,Destiny Harden,https://www.sports-reference.com/cbb/players/destiny-harden-1.html,Miami (FL),27.6,11.9,912,394,False
+237,Jasmyne Roberts,https://www.sports-reference.com/cbb/players/jasmyne-roberts-1.html,Miami (FL),23.4,9.3,818,326,False
+238,Lola Pendande,https://www.sports-reference.com/cbb/players/lola-pendande-1.html,Miami (FL),21.7,8.0,761,280,False
+239,Latasha Lattimore,https://www.sports-reference.com/cbb/players/latasha-lattimore-1.html,Miami (FL),14.2,7.7,128,69,True
+240,Ja'Leah Williams,https://www.sports-reference.com/cbb/players/jaleah-williams-1.html,Miami (FL),24.6,6.5,862,229,False
+241,Lashae Dwyer,https://www.sports-reference.com/cbb/players/lashae-dwyer-1.html,Miami (FL),14.6,5.9,511,205,False
+242,Lazaria Spearman,https://www.sports-reference.com/cbb/players/lazaria-spearman-1.html,Miami (FL),13.0,5.3,390,158,False
+243,Kyla Oldacre,https://www.sports-reference.com/cbb/players/kyla-oldacre-1.html,Miami (FL),11.4,4.0,263,91,False
+244,Hanna Cavinder,https://www.sports-reference.com/cbb/players/hanna-cavinder-1.html,Miami (FL),16.7,3.8,568,128,True
+245,Karla Erjavec,https://www.sports-reference.com/cbb/players/karla-erjavec-1.html,Miami (FL),19.1,3.3,669,116,False
+246,Kenza Salgues,https://www.sports-reference.com/cbb/players/kenza-salgues-1.html,Miami (FL),4.1,1.0,45,11,False
+247,Moulayna Johnson Sidi Baba,https://www.sports-reference.com/cbb/players/moulayna-johnson-sidi-baba-1.html,Miami (FL),5.6,0.6,39,4,False
+248,Charlisse Leger-Walker,https://www.sports-reference.com/cbb/players/charlisse-leger-walker-1.html,Washington State,36.8,17.7,1104,530,False
+249,Bella Murekatete,https://www.sports-reference.com/cbb/players/bella-murekatete-1.html,Washington State,26.1,13.8,888,469,False
+250,Tara Wallack,https://www.sports-reference.com/cbb/players/tara-wallack-1.html,Washington State,32.1,9.4,1093,318,False
+251,Johanna Teder,https://www.sports-reference.com/cbb/players/johanna-teder-1.html,Washington State,26.7,7.9,908,267,False
+252,Ula Motuga,https://www.sports-reference.com/cbb/players/ula-motuga-1.html,Washington State,28.8,7.0,980,237,False
+253,Astera Tuhina,https://www.sports-reference.com/cbb/players/astera-tuhina-1.html,Washington State,27.7,7.0,885,224,False
+254,Jessica Clarke,https://www.sports-reference.com/cbb/players/jessica-clarke-1.html,Washington State,10.9,4.6,228,96,False
+255,Lauren Glazier,https://www.sports-reference.com/cbb/players/lauren-glazier-1.html,Washington State,5.7,1.8,63,20,False
+256,Kyra Gardner,https://www.sports-reference.com/cbb/players/kyra-gardner-1.html,Washington State,5.6,1.7,141,43,False
+257,Grace Sarver,https://www.sports-reference.com/cbb/players/grace-sarver-1.html,Washington State,13.2,1.6,449,56,False
+258,Emma Nankervis,https://www.sports-reference.com/cbb/players/emma-nankervis-1.html,Washington State,5.9,1.0,94,16,False
+259,Kaia Woods,https://www.sports-reference.com/cbb/players/kaia-woods-1.html,Washington State,4.6,0.3,41,3,False
+260,Tishara Morehouse,https://www.sports-reference.com/cbb/players/tishara-morehouse-1.html,Florida Gulf Coast,30.6,15.7,1133,581,False
+261,Sha Carter,https://www.sports-reference.com/cbb/players/sha-carter-1.html,Florida Gulf Coast,25.3,14.1,936,520,False
+262,Alyza Winston,https://www.sports-reference.com/cbb/players/alyza-winston-1.html,Florida Gulf Coast,27.2,12.2,980,439,True
+263,Sophia Stiles,https://www.sports-reference.com/cbb/players/sophia-stiles-1.html,Florida Gulf Coast,24.9,7.1,895,257,True
+264,Uju Ezeudu,https://www.sports-reference.com/cbb/players/uju-ezeudu-1.html,Florida Gulf Coast,14.5,6.6,535,246,True
+265,Brylee Bartram,https://www.sports-reference.com/cbb/players/brylee-bartram-1.html,Florida Gulf Coast,11.9,5.2,429,186,True
+266,Kaela Webb,https://www.sports-reference.com/cbb/players/kaela-webb-1.html,Florida Gulf Coast,16.0,4.9,592,183,False
+267,Emma List,https://www.sports-reference.com/cbb/players/emma-list-1.html,Florida Gulf Coast,25.2,4.4,907,157,False
+268,Maddie Antenucci,https://www.sports-reference.com/cbb/players/maddie-antenucci-1.html,Florida Gulf Coast,13.2,4.3,488,159,False
+269,Seneca Hackley,https://www.sports-reference.com/cbb/players/seneca-hackley-1.html,Florida Gulf Coast,7.9,3.1,55,22,False
+270,Kierra Adams,https://www.sports-reference.com/cbb/players/kierra-adams-2.html,Florida Gulf Coast,8.4,2.1,295,74,False
+271,Milan Schimmel,https://www.sports-reference.com/cbb/players/milan-schimmel-1.html,Florida Gulf Coast,4.3,0.9,119,24,False
+272,Jordan Campbell,https://www.sports-reference.com/cbb/players/jordan-campbell-4.html,Florida Gulf Coast,2.9,0.7,66,15,False
+273,Maddy Siegrist,https://www.sports-reference.com/cbb/players/maddy-siegrist-1.html,Villanova,35.4,29.2,1311,1081,False
+274,Lucy Olsen,https://www.sports-reference.com/cbb/players/lucy-olsen-1.html,Villanova,33.1,12.4,1223,459,False
+275,Christina Dalce,https://www.sports-reference.com/cbb/players/christina-dalce-1.html,Villanova,23.9,7.3,884,269,False
+276,Maddie Burke,https://www.sports-reference.com/cbb/players/maddie-burke-1.html,Villanova,23.1,7.1,854,262,True
+277,Bella Runyan,https://www.sports-reference.com/cbb/players/bella-runyan-1.html,Villanova,23.5,4.0,870,148,False
+278,Brooke Mullin,https://www.sports-reference.com/cbb/players/brooke-mullin-1.html,Villanova,26.5,3.5,981,129,False
+279,Kaitlyn Orihel,https://www.sports-reference.com/cbb/players/kaitlyn-orihel-1.html,Villanova,13.9,3.0,516,112,False
+280,Megan Olbrys,https://www.sports-reference.com/cbb/players/megan-olbrys-1.html,Villanova,10.6,2.4,266,59,False
+281,Anahi-Lee Cauley,https://www.sports-reference.com/cbb/players/anahi-lee-cauley-1.html,Villanova,8.6,1.9,154,35,False
+282,Zanai Jones,https://www.sports-reference.com/cbb/players/zanai-jones-1.html,Villanova,10.0,1.9,289,56,False
+283,Kylie Swider,https://www.sports-reference.com/cbb/players/kylie-swider-1.html,Villanova,2.6,0.5,39,8,False
+284,Annie Welde,https://www.sports-reference.com/cbb/players/annie-welde-1.html,Villanova,1.6,0.3,13,2,False
+285,Destiny Leo,https://www.sports-reference.com/cbb/players/destiny-leo-1.html,Cleveland State,30.0,17.9,1049,628,False
+286,Brittni Moore,https://www.sports-reference.com/cbb/players/brittni-moore-1.html,Cleveland State,27.6,11.8,967,414,False
+287,Amele Ngwafang,https://www.sports-reference.com/cbb/players/amele-ngwafang-1.html,Cleveland State,19.7,9.6,689,336,False
+288,Gabriella Smith,https://www.sports-reference.com/cbb/players/gabriella-smith-1.html,Cleveland State,23.8,7.3,832,256,False
+289,Deja Williams,https://www.sports-reference.com/cbb/players/deja-williams-1.html,Cleveland State,21.9,6.6,765,232,False
+290,Jordana Reisma,https://www.sports-reference.com/cbb/players/jordana-reisma-1.html,Cleveland State,14.6,5.5,512,193,False
+291,Sara Guerreiro,https://www.sports-reference.com/cbb/players/sara-guerreiro-1.html,Cleveland State,16.9,4.9,490,143,True
+292,Barbara Zieniewska,https://www.sports-reference.com/cbb/players/barbara-zieniewska-1.html,Cleveland State,22.7,4.2,705,129,False
+293,Faith Burch,https://www.sports-reference.com/cbb/players/faith-burch-1.html,Cleveland State,8.4,2.9,227,77,False
+294,Carmen Villalobos,https://www.sports-reference.com/cbb/players/carmen-villalobos-1.html,Cleveland State,13.9,2.9,473,98,True
+295,Aminata Ly,https://www.sports-reference.com/cbb/players/aminata-ly-1.html,Cleveland State,7.4,2.0,214,57,False
+296,Shadiya Thomas,https://www.sports-reference.com/cbb/players/shadiya-thomas-1.html,Cleveland State,5.5,1.3,127,29,False
+297,Leigha Brown,https://www.sports-reference.com/cbb/players/leigha-brown-1.html,Michigan,31.9,17.5,957,525,False
+298,Laila Phelia,https://www.sports-reference.com/cbb/players/laila-phelia-1.html,Michigan,33.1,16.7,861,433,False
+299,Emily Kiser,https://www.sports-reference.com/cbb/players/emily-kiser-1.html,Michigan,35.0,15.9,1156,524,False
+300,Maddie Nolan,https://www.sports-reference.com/cbb/players/maddie-nolan-1.html,Michigan,32.8,9.1,1081,299,False
+301,Cameron Williams,https://www.sports-reference.com/cbb/players/cameron-williams-3.html,Michigan,17.7,6.4,584,211,False
+302,Jordan Hobbs,https://www.sports-reference.com/cbb/players/jordan-hobbs-1.html,Michigan,15.1,4.9,454,147,False
+303,Greta Kampschroeder,https://www.sports-reference.com/cbb/players/greta-kampschroeder-1.html,Michigan,16.0,3.0,479,90,True
+304,Chyra Evans,https://www.sports-reference.com/cbb/players/chyra-evans-1.html,Michigan,9.7,2.2,222,50,False
+305,Elise Stuck,https://www.sports-reference.com/cbb/players/elise-stuck-1.html,Michigan,10.2,1.9,336,63,False
+306,Alyssa Crockett,https://www.sports-reference.com/cbb/players/alyssa-crockett-1.html,Michigan,8.2,1.7,230,48,False
+307,Ari Wiggins,https://www.sports-reference.com/cbb/players/ari-wiggins-1.html,Michigan,8.8,1.1,185,24,False
+308,Michelle Sidor,https://www.sports-reference.com/cbb/players/michelle-sidor-1.html,Michigan,10.0,1.0,10,1,False
+309,Whitney Sollom,https://www.sports-reference.com/cbb/players/whitney-sollom-1.html,Michigan,1.5,1.0,3,2,False
+310,Kate Clarke,https://www.sports-reference.com/cbb/players/kate-clarke-1.html,Michigan,3.1,0.6,43,9,False
+311,Desi-Rae Young,https://www.sports-reference.com/cbb/players/desi-rae-young-1.html,UNLV,30.7,17.9,1045,610,False
+312,Essence Booker,https://www.sports-reference.com/cbb/players/essence-booker-1.html,UNLV,31.6,13.2,1074,450,False
+313,Nneka Obiazor,https://www.sports-reference.com/cbb/players/nneka-obiazor-1.html,UNLV,25.9,12.4,207,99,False
+314,Justice Ethridge,https://www.sports-reference.com/cbb/players/justice-ethridge-1.html,UNLV,28.4,9.2,966,312,False
+315,Alyssa Brown,https://www.sports-reference.com/cbb/players/alyssa-brown-1.html,UNLV,25.5,9.1,816,292,False
+316,Kiara Jackson,https://www.sports-reference.com/cbb/players/kiara-jackson-1.html,UNLV,24.6,7.8,837,265,False
+317,Alyssa Durazo-Frescas,https://www.sports-reference.com/cbb/players/alyssa-durazo-frescas-1.html,UNLV,23.4,7.5,771,249,False
+318,Kenadee Winfrey,https://www.sports-reference.com/cbb/players/kenadee-winfrey-1.html,UNLV,16.8,4.4,538,140,False
+319,Jasmyn Lott,https://www.sports-reference.com/cbb/players/jasmyn-lott-1.html,UNLV,8.5,3.5,282,114,False
+320,Ashley Scoggin,https://www.sports-reference.com/cbb/players/ashley-scoggin-1.html,UNLV,8.0,2.0,112,28,True
+321,Keyana Wilfred,https://www.sports-reference.com/cbb/players/keyana-wilfred-1.html,UNLV,5.7,1.5,137,36,False
+322,Erica Collins,https://www.sports-reference.com/cbb/players/erica-collins-1.html,UNLV,3.3,0.8,39,10,False
+323,Angel Reese,https://www.sports-reference.com/cbb/players/angel-reese-1.html,LSU,33.6,23.0,1210,829,True
+324,Alexis Morris,https://www.sports-reference.com/cbb/players/alexis-morris-1.html,LSU,33.2,15.4,1195,554,False
+325,Flau'jae Johnson,https://www.sports-reference.com/cbb/players/flaujae-johnson-1.html,LSU,27.6,11.0,993,396,False
+326,LaDazhia Williams,https://www.sports-reference.com/cbb/players/ladazhia-williams-1.html,LSU,28.0,9.9,953,338,True
+327,Jasmine Carson,https://www.sports-reference.com/cbb/players/jasmine-carson-1.html,LSU,21.7,8.8,781,315,True
+328,Sa'Myah Smith,https://www.sports-reference.com/cbb/players/samyah-smith-1.html,LSU,14.7,4.6,528,166,False
+329,Kateri Poole,https://www.sports-reference.com/cbb/players/kateri-poole-1.html,LSU,22.4,4.5,783,158,True
+330,Ryann Payne,https://www.sports-reference.com/cbb/players/ryann-payne-1.html,LSU,12.3,4.0,49,16,False
+331,Last-Tear Poa,https://www.sports-reference.com/cbb/players/last-tear-poa-1.html,LSU,12.5,3.4,450,123,False
+332,Amani Bartlett,https://www.sports-reference.com/cbb/players/amani-bartlett-1.html,LSU,4.4,1.0,110,25,False
+333,Alisa Williams,https://www.sports-reference.com/cbb/players/alisa-williams-1.html,LSU,3.0,0.9,59,18,False
+334,Emily Ward,https://www.sports-reference.com/cbb/players/emily-ward-1.html,LSU,3.0,0.8,74,19,False
+335,Izzy Besselman,https://www.sports-reference.com/cbb/players/izzy-besselman-1.html,LSU,1.8,0.3,35,6,False
+336,Timia Ware,https://www.sports-reference.com/cbb/players/timia-ware-1.html,LSU,5.0,0.0,5,0,False
+337,Lily Wahinekapu,https://www.sports-reference.com/cbb/players/lily-wahinekapu-1.html,Hawaii,32.4,12.5,1069,414,True
+338,Daejah Phillips,https://www.sports-reference.com/cbb/players/daejah-phillips-1.html,Hawaii,30.4,11.1,942,344,False
+339,Kallin Spiller,https://www.sports-reference.com/cbb/players/kallin-spiller-1.html,Hawaii,23.2,8.7,766,288,False
+340,Meilani McBee,https://www.sports-reference.com/cbb/players/meilani-mcbee-1.html,Hawaii,24.8,6.3,817,208,False
+341,Olivia Davies,https://www.sports-reference.com/cbb/players/olivia-davies-1.html,Hawaii,20.0,6.2,120,37,False
+342,Jacque David,https://www.sports-reference.com/cbb/players/jacque-david-1.html,Hawaii,15.4,5.9,261,100,False
+343,Imani Perez,https://www.sports-reference.com/cbb/players/imani-perez-1.html,Hawaii,15.7,4.6,519,152,False
+344,Jovi Lefotu,https://www.sports-reference.com/cbb/players/jovi-lefotu-1.html,Hawaii,16.4,4.4,295,80,False
+345,Kelsie Imai,https://www.sports-reference.com/cbb/players/kelsie-imai-1.html,Hawaii,22.6,3.7,723,119,False
+346,Nnenna Orji,https://www.sports-reference.com/cbb/players/nnenna-orji-1.html,Hawaii,11.7,3.7,338,106,False
+347,McKenna Haire,https://www.sports-reference.com/cbb/players/mckenna-haire-1.html,Hawaii,11.6,2.7,337,78,False
+348,Ashley Thoms,https://www.sports-reference.com/cbb/players/ashley-thoms-1.html,Hawaii,12.5,1.7,399,54,False
+349,Meg Jefferson,https://www.sports-reference.com/cbb/players/meg-jefferson-1.html,Hawaii,4.2,0.4,21,2,True
+350,Avery Watkins,https://www.sports-reference.com/cbb/players/avery-watkins-1.html,Hawaii,8.6,0.4,69,3,False
+351,Eva Ongoongotau,https://www.sports-reference.com/cbb/players/eva-ongoongotau-1.html,Hawaii,3.9,0.3,47,4,False
+352,Diamond Johnson,https://www.sports-reference.com/cbb/players/diamond-johnson-1.html,NC State,28.3,12.3,622,271,False
+353,Jada Boyd,https://www.sports-reference.com/cbb/players/jada-boyd-1.html,NC State,23.3,9.2,628,249,False
+354,Jakia Brown-Turner,https://www.sports-reference.com/cbb/players/jakia-brown-turner-1.html,NC State,27.8,9.1,890,292,False
+355,Camille Hobby,https://www.sports-reference.com/cbb/players/camille-hobby-1.html,NC State,21.3,8.8,683,280,False
+356,Saniya Rivers,https://www.sports-reference.com/cbb/players/saniya-rivers-1.html,NC State,28.0,8.6,868,267,True
+357,Madison Hayes,https://www.sports-reference.com/cbb/players/madison-hayes-1.html,NC State,24.8,7.0,793,225,False
+358,Mimi Collins,https://www.sports-reference.com/cbb/players/mimi-collins-1.html,NC State,21.6,6.9,691,220,True
+359,Aziaha James,https://www.sports-reference.com/cbb/players/aziaha-james-1.html,NC State,18.8,6.8,601,219,False
+360,River Baldwin,https://www.sports-reference.com/cbb/players/river-baldwin-1.html,NC State,14.5,5.7,449,178,True
+361,Jessica Timmons,https://www.sports-reference.com/cbb/players/jessica-timmons-1.html,NC State,9.6,3.1,173,55,False
+362,Sophie Hart,https://www.sports-reference.com/cbb/players/sophie-hart-1.html,NC State,5.8,2.0,29,10,False
+363,Kaitlyn Chen,https://www.sports-reference.com/cbb/players/kaitlyn-chen-1.html,Princeton,33.9,16.2,1016,487,False
+364,Julia Cunningham,https://www.sports-reference.com/cbb/players/julia-cunningham-1.html,Princeton,29.5,10.2,886,307,False
+365,Grace Stone,https://www.sports-reference.com/cbb/players/grace-stone-1.html,Princeton,29.9,10.1,898,303,False
+366,Madison St. Rose,https://www.sports-reference.com/cbb/players/madison-st.-rose-1.html,Princeton,25.0,8.8,750,263,False
+367,Ellie Mitchell,https://www.sports-reference.com/cbb/players/ellie-mitchell-1.html,Princeton,30.1,5.8,902,175,False
+368,Paige Morton,https://www.sports-reference.com/cbb/players/paige-morton-1.html,Princeton,9.1,3.6,256,100,False
+369,Chet Nweke,https://www.sports-reference.com/cbb/players/chet-nweke-1.html,Princeton,10.9,3.1,315,91,False
+370,Maggie Connolly,https://www.sports-reference.com/cbb/players/maggie-connolly-1.html,Princeton,18.5,3.0,556,90,False
+371,Parker Hill,https://www.sports-reference.com/cbb/players/parker-hill-1.html,Princeton,6.1,2.7,129,56,False
+372,Amelia Osgood,https://www.sports-reference.com/cbb/players/amelia-osgood-1.html,Princeton,7.4,1.8,126,31,False
+373,Taylor Charles,https://www.sports-reference.com/cbb/players/taylor-charles-1.html,Princeton,4.5,1.4,36,11,False
+374,Katie Thiers,https://www.sports-reference.com/cbb/players/katie-thiers-1.html,Princeton,3.5,1.3,53,19,False
+375,Lexi Weger,https://www.sports-reference.com/cbb/players/lexi-weger-1.html,Princeton,3.3,0.9,46,12,False
+376,Kira Emsbo,https://www.sports-reference.com/cbb/players/kira-emsbo-1.html,Princeton,3.0,0.6,36,7,False
+377,Adaora Nwokeji,https://www.sports-reference.com/cbb/players/adaora-nwokeji-1.html,Princeton,2.9,0.6,20,4,False
+378,Alissa Pili,https://www.sports-reference.com/cbb/players/alissa-pili-1.html,Utah,26.7,20.7,828,643,True
+379,Gianna Kneepkens,https://www.sports-reference.com/cbb/players/gianna-kneepkens-1.html,Utah,28.3,15.3,907,489,False
+380,Jenna Johnson,https://www.sports-reference.com/cbb/players/jenna-johnson-3.html,Utah,27.6,11.9,884,380,False
+381,Kennady McQueen,https://www.sports-reference.com/cbb/players/kennady-mcqueen-1.html,Utah,28.7,9.1,918,291,False
+382,Isabel Palmer,https://www.sports-reference.com/cbb/players/isabel-palmer-1.html,Utah,23.8,7.9,715,238,False
+383,Dasia Young,https://www.sports-reference.com/cbb/players/dasia-young-1.html,Utah,19.1,6.0,610,191,False
+384,Teya Sidberry,https://www.sports-reference.com/cbb/players/teya-sidberry-1.html,Utah,10.3,4.6,287,128,False
+385,Naya Ojukwu,https://www.sports-reference.com/cbb/players/naya-ojukwu-1.html,Utah,5.5,3.3,22,13,False
+386,Lani White,https://www.sports-reference.com/cbb/players/lani-white-1.html,Utah,9.7,3.3,223,77,False
+387,Kelsey Rees,https://www.sports-reference.com/cbb/players/kelsey-rees-1.html,Utah,12.3,3.0,394,96,False
+388,Ines Vieira,https://www.sports-reference.com/cbb/players/ines-vieira-1.html,Utah,17.5,2.6,560,84,False
+389,Peyton McFarland,https://www.sports-reference.com/cbb/players/peyton-mcfarland-1.html,Utah,5.9,1.5,77,20,False
+390,Jhessyka Williams,https://www.sports-reference.com/cbb/players/jhessyka-williams-1.html,Gardner-Webb,32.8,20.2,1081,665,False
+391,Lauren Bevis,https://www.sports-reference.com/cbb/players/lauren-bevis-1.html,Gardner-Webb,31.2,15.6,968,485,False
+392,Alasia Smith,https://www.sports-reference.com/cbb/players/alasia-smith-1.html,Gardner-Webb,31.2,13.6,1028,449,False
+393,Ki'Ari Cain,https://www.sports-reference.com/cbb/players/kiari-cain-1.html,Gardner-Webb,35.1,10.1,1159,332,False
+394,Layken Cox,https://www.sports-reference.com/cbb/players/layken-cox-1.html,Gardner-Webb,19.0,7.8,628,259,False
+395,Micahla Funderburk,https://www.sports-reference.com/cbb/players/micahla-funderburk-1.html,Gardner-Webb,17.3,4.0,571,131,False
+396,L'Mia Littlejohn,https://www.sports-reference.com/cbb/players/lmia-littlejohn-1.html,Gardner-Webb,9.1,2.5,281,79,False
+397,Christina Deng,https://www.sports-reference.com/cbb/players/christina-deng-1.html,Gardner-Webb,8.0,1.4,232,41,False
+398,Grace Pack,https://www.sports-reference.com/cbb/players/grace-pack-1.html,Gardner-Webb,5.1,1.4,97,26,False
+399,Emma Capps,https://www.sports-reference.com/cbb/players/emma-capps-1.html,Gardner-Webb,7.8,1.3,210,35,False
+400,Tiir Nyok,https://www.sports-reference.com/cbb/players/tiir-nyok-1.html,Gardner-Webb,6.1,1.2,116,23,False
+401,Sarah Matthews,https://www.sports-reference.com/cbb/players/sarah-matthews-1.html,Gardner-Webb,5.9,0.8,153,20,False
+402,Emily Gillis,https://www.sports-reference.com/cbb/players/emily-gillis-1.html,Gardner-Webb,5.4,0.6,102,12,False
+403,Grace Knutsen,https://www.sports-reference.com/cbb/players/grace-knutsen-1.html,Gardner-Webb,1.3,0.0,4,0,False
+404,Cecille Silver,https://www.sports-reference.com/cbb/players/cecille-silver-1.html,Gardner-Webb,1.5,0.0,6,0,False
+405,Elizabeth Kitley,https://www.sports-reference.com/cbb/players/elizabeth-kitley-1.html,Virginia Tech,34.8,18.2,1217,638,False
+406,Georgia Amoore,https://www.sports-reference.com/cbb/players/georgia-amoore-1.html,Virginia Tech,36.7,16.3,1321,588,False
+407,Kayana Traylor,https://www.sports-reference.com/cbb/players/kayana-traylor-1.html,Virginia Tech,31.0,11.0,1084,384,False
+408,Taylor Soule,https://www.sports-reference.com/cbb/players/taylor-soule-1.html,Virginia Tech,28.6,10.9,1031,392,True
+409,Cayla King,https://www.sports-reference.com/cbb/players/cayla-king-1.html,Virginia Tech,30.8,8.3,1108,297,False
+410,Ashley Owusu,https://www.sports-reference.com/cbb/players/ashley-owusu-1.html,Virginia Tech,15.1,5.1,257,86,True
+411,D'asia Gregg,https://www.sports-reference.com/cbb/players/dasia-gregg-1.html,Virginia Tech,23.3,4.8,839,172,False
+412,Charlise Dunn,https://www.sports-reference.com/cbb/players/charlise-dunn-1.html,Virginia Tech,5.5,1.4,60,15,False
+413,Maddie Vejsicky,https://www.sports-reference.com/cbb/players/maddie-vejsicky-1.html,Virginia Tech,2.3,0.8,14,5,False
+414,Clara Ford,https://www.sports-reference.com/cbb/players/clara-ford-1.html,Virginia Tech,3.9,0.7,55,10,True
+415,Taylor Geiman,https://www.sports-reference.com/cbb/players/taylor-geiman-1.html,Virginia Tech,6.9,0.6,214,20,False
+416,Yazz Wazeerud-din,https://www.sports-reference.com/cbb/players/yazz-wazeerud-din-1.html,Chattanooga,38.2,15.7,1260,519,True
+417,Raven Thompson,https://www.sports-reference.com/cbb/players/raven-thompson-2.html,Chattanooga,29.6,14.9,978,493,False
+418,Abbey Cornelius,https://www.sports-reference.com/cbb/players/abbey-cornelius-1.html,Chattanooga,31.3,9.4,1032,310,False
+419,Addie Porter,https://www.sports-reference.com/cbb/players/addie-porter-1.html,Chattanooga,38.5,7.7,1269,255,False
+420,Sigrun Olafsdottir,https://www.sports-reference.com/cbb/players/sigrun-olafsdottir-1.html,Chattanooga,32.6,5.7,1075,187,False
+421,Destiny McClendon,https://www.sports-reference.com/cbb/players/destiny-mcclendon-1.html,Chattanooga,7.0,1.9,105,29,False
+422,Karsen Murphy,https://www.sports-reference.com/cbb/players/karsen-murphy-1.html,Chattanooga,8.6,1.8,259,55,False
+423,Takia Davis,https://www.sports-reference.com/cbb/players/takia-davis-1.html,Chattanooga,7.3,1.5,196,41,True
+424,Brooke Hampel,https://www.sports-reference.com/cbb/players/brooke-hampel-1.html,Chattanooga,3.3,1.3,33,13,False
+425,Amaria Pugh,https://www.sports-reference.com/cbb/players/amaria-pugh-1.html,Chattanooga,9.2,1.1,129,15,False
+426,Brooklyn Crouch,https://www.sports-reference.com/cbb/players/brooklyn-crouch-1.html,Chattanooga,10.5,0.8,325,24,False
+427,Audrey Canter,https://www.sports-reference.com/cbb/players/audrey-canter-1.html,Chattanooga,1.6,0.0,14,0,False
+428,Kadi Sissoko,https://www.sports-reference.com/cbb/players/kadi-sissoko-1.html,USC,35.4,15.4,921,401,False
+429,Destiny Littleton,https://www.sports-reference.com/cbb/players/destiny-littleton-1.html,USC,35.0,14.0,1084,433,True
+430,Rayah Marshall,https://www.sports-reference.com/cbb/players/rayah-marshall-1.html,USC,30.9,12.7,864,356,False
+431,Okako Adika,https://www.sports-reference.com/cbb/players/okako-adika-1.html,USC,28.5,7.3,883,227,True
+432,Kayla Williams,https://www.sports-reference.com/cbb/players/kayla-williams-1.html,USC,24.8,5.2,768,162,True
+433,Taylor Bigby,https://www.sports-reference.com/cbb/players/taylor-bigby-1.html,USC,17.9,4.4,555,137,True
+434,Alyson Miura,https://www.sports-reference.com/cbb/players/alyson-miura-1.html,USC,15.6,3.5,296,67,False
+435,Bella Perkins,https://www.sports-reference.com/cbb/players/bella-perkins-1.html,USC,10.1,3.5,101,35,False
+436,Koi Love,https://www.sports-reference.com/cbb/players/koi-love-1.html,USC,13.4,2.8,228,48,True
+437,Rokia Doumbia,https://www.sports-reference.com/cbb/players/rokia-doumbia-1.html,USC,14.5,2.7,348,65,True
+438,Clarice Akunwafo,https://www.sports-reference.com/cbb/players/clarice-akunwafo-1.html,USC,10.8,1.7,336,54,False
+439,India Otto,https://www.sports-reference.com/cbb/players/india-otto-1.html,USC,2.1,0.9,15,6,False
+440,Myah Selland,https://www.sports-reference.com/cbb/players/myah-selland-1.html,South Dakota State,29.0,16.1,1015,565,False
+441,Haleigh Timmer,https://www.sports-reference.com/cbb/players/haleigh-timmer-1.html,South Dakota State,27.6,12.1,967,423,False
+442,Paige Meyer,https://www.sports-reference.com/cbb/players/paige-meyer-1.html,South Dakota State,22.3,10.5,514,241,False
+443,Paiton Burckhard,https://www.sports-reference.com/cbb/players/paiton-burckhard-1.html,South Dakota State,23.4,10.2,820,356,False
+444,Tori Nelson,https://www.sports-reference.com/cbb/players/tori-nelson-1.html,South Dakota State,25.6,7.9,895,275,False
+445,Kallie Theisen,https://www.sports-reference.com/cbb/players/kallie-theisen-1.html,South Dakota State,17.0,6.1,594,214,False
+446,Brooklyn Meyer,https://www.sports-reference.com/cbb/players/brooklyn-meyer-1.html,South Dakota State,12.5,5.6,436,195,False
+447,Dru Gylten,https://www.sports-reference.com/cbb/players/dru-gylten-1.html,South Dakota State,18.9,4.4,641,150,True
+448,Madysen Vlastuin,https://www.sports-reference.com/cbb/players/madysen-vlastuin-1.html,South Dakota State,12.9,4.2,412,133,False
+449,Madison Mathiowetz,https://www.sports-reference.com/cbb/players/madison-mathiowetz-1.html,South Dakota State,10.6,3.1,339,99,False
+450,Mesa Byom,https://www.sports-reference.com/cbb/players/mesa-byom-1.html,South Dakota State,3.9,2.0,81,41,False
+451,Ellie Colbeck,https://www.sports-reference.com/cbb/players/ellie-colbeck-1.html,South Dakota State,9.0,1.7,252,48,False
+452,Regan Nesheim,https://www.sports-reference.com/cbb/players/regan-nesheim-1.html,South Dakota State,3.9,0.1,58,2,False
+453,Ashley Joens,https://www.sports-reference.com/cbb/players/ashley-joens-1.html,Iowa State,35.8,21.6,1145,691,False
+454,Stephanie Soares,https://www.sports-reference.com/cbb/players/stephanie-soares-1.html,Iowa State,22.6,14.4,294,187,False
+455,Lexi Donarski,https://www.sports-reference.com/cbb/players/lexi-donarski-1.html,Iowa State,35.5,12.1,1135,387,False
+456,Emily Ryan,https://www.sports-reference.com/cbb/players/emily-ryan-2.html,Iowa State,36.3,10.6,1160,338,False
+457,Denae Fritz,https://www.sports-reference.com/cbb/players/denae-fritz-1.html,Iowa State,31.0,8.8,992,281,False
+458,Nyamer Diew,https://www.sports-reference.com/cbb/players/nyamer-diew-1.html,Iowa State,20.5,6.1,655,195,False
+459,Morgan Kane,https://www.sports-reference.com/cbb/players/morgan-kane-1.html,Iowa State,15.4,5.9,492,188,False
+460,Izzi Zingaro,https://www.sports-reference.com/cbb/players/izzi-zingaro-1.html,Iowa State,6.9,3.2,165,76,False
+461,Maggie Espenmiller-McGraw,https://www.sports-reference.com/cbb/players/maggie-espenmiller-mcgraw-1.html,Iowa State,9.5,1.7,285,52,False
+462,Shantavia Dawkins,https://www.sports-reference.com/cbb/players/shantavia-dawkins-1.html,Iowa State,5.0,0.8,60,9,False
+463,Mary Kate King,https://www.sports-reference.com/cbb/players/mary-kate-king-1.html,Iowa State,3.1,0.6,31,6,False
+464,Maggie Vick,https://www.sports-reference.com/cbb/players/maggie-vick-1.html,Iowa State,3.6,0.5,29,4,False
+465,Beatriz Jordao,https://www.sports-reference.com/cbb/players/beatriz-jordao-1.html,Iowa State,4.0,0.0,8,0,False
+466,Quinesha Lockett,https://www.sports-reference.com/cbb/players/quinesha-lockett-1.html,Toledo,31.1,17.9,1058,608,False
+467,Sammi Mikonowicz,https://www.sports-reference.com/cbb/players/sammi-mikonowicz-1.html,Toledo,33.2,10.2,1128,347,False
+468,Sophia Wiard,https://www.sports-reference.com/cbb/players/sophia-wiard-1.html,Toledo,34.3,10.0,1167,340,False
+469,Nan Garcia,https://www.sports-reference.com/cbb/players/nan-garcia-1.html,Toledo,18.9,7.5,643,256,False
+470,Khera Goss,https://www.sports-reference.com/cbb/players/khera-goss-1.html,Toledo,25.8,7.4,877,252,False
+471,Jayda Jansen,https://www.sports-reference.com/cbb/players/jayda-jansen-1.html,Toledo,19.4,7.2,659,244,False
+472,Jessica Cook,https://www.sports-reference.com/cbb/players/jessica-cook-2.html,Toledo,15.1,6.8,498,225,False
+473,Lonasia Brewer,https://www.sports-reference.com/cbb/players/lonasia-brewer-1.html,Toledo,11.5,3.7,241,78,True
+474,Justina King,https://www.sports-reference.com/cbb/players/justina-king-1.html,Toledo,11.9,2.9,403,100,True
+475,Soleil Barnes,https://www.sports-reference.com/cbb/players/soleil-barnes-1.html,Toledo,8.0,2.6,64,21,False
+476,Yaniah Curry,https://www.sports-reference.com/cbb/players/yaniah-curry-1.html,Toledo,5.5,0.5,122,11,False
+477,Ella Doherty,https://www.sports-reference.com/cbb/players/ella-doherty-1.html,Toledo,2.8,0.0,14,0,False
+478,Rickea Jackson,https://www.sports-reference.com/cbb/players/rickea-jackson-1.html,Tennessee,28.3,19.2,990,671,True
+479,Jordan Horston,https://www.sports-reference.com/cbb/players/jordan-horston-1.html,Tennessee,27.0,15.6,945,545,False
+480,Tamari Key,https://www.sports-reference.com/cbb/players/tamari-key-1.html,Tennessee,18.9,8.4,170,76,False
+481,Tess Darby,https://www.sports-reference.com/cbb/players/tess-darby-1.html,Tennessee,24.1,7.4,890,272,False
+482,Jillian Hollingshead,https://www.sports-reference.com/cbb/players/jillian-hollingshead-1.html,Tennessee,16.6,6.2,597,222,True
+483,Jordan Walker,https://www.sports-reference.com/cbb/players/jordan-walker-5.html,Tennessee,25.3,5.7,936,210,False
+484,Marta Suarez,https://www.sports-reference.com/cbb/players/marta-suarez-1.html,Tennessee,12.5,4.9,175,69,False
+485,Jasmine Powell,https://www.sports-reference.com/cbb/players/jasmine-powell-1.html,Tennessee,19.6,4.7,726,174,True
+486,Sara Puckett,https://www.sports-reference.com/cbb/players/sara-puckett-1.html,Tennessee,15.6,4.7,578,174,False
+487,Karoline Striplin,https://www.sports-reference.com/cbb/players/karoline-striplin-1.html,Tennessee,13.7,4.7,453,155,False
+488,Jasmine Franklin,https://www.sports-reference.com/cbb/players/jasmine-franklin-1.html,Tennessee,12.7,4.5,443,157,True
+489,Justine Pissott,https://www.sports-reference.com/cbb/players/justine-pissott-1.html,Tennessee,7.0,2.0,189,54,False
+490,Kaiya Wynn,https://www.sports-reference.com/cbb/players/kaiya-wynn-1.html,Tennessee,5.0,1.5,154,47,False
+491,Brooklynn Miles,https://www.sports-reference.com/cbb/players/brooklynn-miles-1.html,Tennessee,7.2,0.8,165,19,False
+492,Edie Darby,https://www.sports-reference.com/cbb/players/edie-darby-1.html,Tennessee,4.0,0.7,40,7,False
+493,Kyla McMakin,https://www.sports-reference.com/cbb/players/kyla-mcmakin-1.html,Saint Louis,34.1,17.2,1193,602,True
+494,Brooke Flowers,https://www.sports-reference.com/cbb/players/brooke-flowers-1.html,Saint Louis,33.4,12.2,1169,426,False
+495,Julia Martinez,https://www.sports-reference.com/cbb/players/julia-martinez-1.html,Saint Louis,30.1,9.7,1052,339,False
+496,Peyton Kennedy,https://www.sports-reference.com/cbb/players/peyton-kennedy-1.html,Saint Louis,19.1,9.6,650,327,False
+497,Kennedy Calhoun,https://www.sports-reference.com/cbb/players/kennedy-calhoun-1.html,Saint Louis,33.1,6.2,1157,217,True
+498,Camree Clegg,https://www.sports-reference.com/cbb/players/camree-clegg-1.html,Saint Louis,17.9,5.4,590,178,True
+499,Mia Nicastro,https://www.sports-reference.com/cbb/players/mia-nicastro-1.html,Saint Louis,15.7,5.0,534,169,False
+500,Briana Johns,https://www.sports-reference.com/cbb/players/briana-johns-1.html,Saint Louis,12.2,2.4,401,78,True
+501,Marisa Warren,https://www.sports-reference.com/cbb/players/marisa-warren-1.html,Saint Louis,7.7,2.1,92,25,False
+502,Sevval Gul,https://www.sports-reference.com/cbb/players/sevval-gul-1.html,Saint Louis,5.0,1.8,80,28,False
+503,Kiley Bess,https://www.sports-reference.com/cbb/players/kiley-bess-1.html,Saint Louis,5.3,1.7,53,17,False
+504,Nafatoumata Haidara,https://www.sports-reference.com/cbb/players/nafatoumata-haidara-1.html,Saint Louis,3.5,0.5,38,6,True
+505,Sarah Lazar,https://www.sports-reference.com/cbb/players/sarah-lazar-1.html,Saint Louis,2.0,0.5,8,2,False
+506,Abby Liber,https://www.sports-reference.com/cbb/players/abby-liber-1.html,Saint Louis,1.9,0.3,15,2,False
+507,Isabel Tillett,https://www.sports-reference.com/cbb/players/isabel-tillett-1.html,Saint Louis,2.3,0.1,18,1,False
+508,Deja Kelly,https://www.sports-reference.com/cbb/players/deja-kelly-1.html,UNC,35.3,16.5,1131,527,False
+509,Kennedy Todd-Williams,https://www.sports-reference.com/cbb/players/kennedy-todd-williams-1.html,UNC,32.0,13.4,1057,441,False
+510,Alyssa Ustby,https://www.sports-reference.com/cbb/players/alyssa-ustby-1.html,UNC,31.0,13.2,867,369,False
+511,Eva Hodgson,https://www.sports-reference.com/cbb/players/eva-hodgson-1.html,UNC,29.7,9.2,742,230,False
+512,Kayla McPherson,https://www.sports-reference.com/cbb/players/kayla-mcpherson-1.html,UNC,20.4,6.8,265,88,False
+513,Paulina Paris,https://www.sports-reference.com/cbb/players/paulina-paris-1.html,UNC,20.2,6.3,665,209,False
+514,Anya Poole,https://www.sports-reference.com/cbb/players/anya-poole-1.html,UNC,21.1,5.0,675,159,False
+515,Destiny Adams,https://www.sports-reference.com/cbb/players/destiny-adams-1.html,UNC,17.2,4.1,569,135,False
+516,Teonni Key,https://www.sports-reference.com/cbb/players/teonni-key-1.html,UNC,10.1,2.4,284,67,False
+517,Alexandra Zelaya,https://www.sports-reference.com/cbb/players/alexandra-zelaya-1.html,UNC,9.8,1.4,255,37,False
+518,Malu Tshitenge,https://www.sports-reference.com/cbb/players/malu-tshitenge-1.html,UNC,7.0,0.9,105,13,False
+519,Ariel Young,https://www.sports-reference.com/cbb/players/ariel-young-1.html,UNC,4.0,0.0,12,0,False
+520,Jayla Everett,https://www.sports-reference.com/cbb/players/jayla-everett-1.html,St. John's (NY),32.6,16.0,1010,496,True
+521,Kadaja Bailey,https://www.sports-reference.com/cbb/players/kadaja-bailey-1.html,St. John's (NY),32.5,12.9,1039,413,False
+522,Unique Drake,https://www.sports-reference.com/cbb/players/unique-drake-1.html,St. John's (NY),25.7,8.6,821,274,False
+523,Jillian Archer,https://www.sports-reference.com/cbb/players/jillian-archer-1.html,St. John's (NY),25.1,7.2,802,230,True
+524,Danielle Patterson,https://www.sports-reference.com/cbb/players/danielle-patterson-1.html,St. John's (NY),16.6,6.7,531,214,False
+525,Mimi Reid,https://www.sports-reference.com/cbb/players/mimi-reid-1.html,St. John's (NY),27.0,5.9,863,188,True
+526,Rayven Peeples,https://www.sports-reference.com/cbb/players/rayven-peeples-1.html,St. John's (NY),28.9,5.2,925,166,False
+527,Danielle Cosgrove,https://www.sports-reference.com/cbb/players/danielle-cosgrove-1.html,St. John's (NY),6.6,1.9,184,54,False
+528,Skye Owen,https://www.sports-reference.com/cbb/players/skye-owen-1.html,St. John's (NY),3.5,1.2,45,16,False
+529,Jailah Donald,https://www.sports-reference.com/cbb/players/jailah-donald-1.html,St. John's (NY),2.9,1.1,52,20,False
+530,JaKayla Brown,https://www.sports-reference.com/cbb/players/jakayla-brown-1.html,St. John's (NY),3.0,1.0,6,2,True
+531,Sitota Gines,https://www.sports-reference.com/cbb/players/sitota-gines-1.html,St. John's (NY),4.9,0.7,102,15,False
+532,Katie Burton,https://www.sports-reference.com/cbb/players/katie-burton-1.html,St. John's (NY),2.7,0.1,19,1,False
+533,Taylor Mikesell,https://www.sports-reference.com/cbb/players/taylor-mikesell-1.html,Ohio State,35.5,17.2,1278,619,False
+534,Cotie McMahon,https://www.sports-reference.com/cbb/players/cotie-mcmahon-1.html,Ohio State,29.1,15.1,1048,543,False
+535,Taylor Thierry,https://www.sports-reference.com/cbb/players/taylor-thierry-1.html,Ohio State,31.0,13.5,1115,486,False
+536,Jacy Sheldon,https://www.sports-reference.com/cbb/players/jacy-sheldon-1.html,Ohio State,28.6,13.2,372,172,False
+537,Madison Greene,https://www.sports-reference.com/cbb/players/madison-greene-1.html,Ohio State,31.2,10.9,374,131,False
+538,Rebeka Mikulasikova,https://www.sports-reference.com/cbb/players/rebeka-mikulasikova-1.html,Ohio State,22.5,10.1,787,352,False
+539,Rikki Harris,https://www.sports-reference.com/cbb/players/rikki-harris-1.html,Ohio State,25.8,6.6,928,238,False
+540,Eboni Walker,https://www.sports-reference.com/cbb/players/eboni-walker-1.html,Ohio State,15.5,4.9,526,165,True
+541,Hevynne Bristow,https://www.sports-reference.com/cbb/players/hevynne-bristow-1.html,Ohio State,10.5,3.6,305,105,False
+542,Emma Shumate,https://www.sports-reference.com/cbb/players/emma-shumate-1.html,Ohio State,11.1,1.6,345,51,False
+543,Kaia Henderson,https://www.sports-reference.com/cbb/players/kaia-henderson-1.html,Ohio State,3.3,1.0,43,13,False
+544,Mya Perry,https://www.sports-reference.com/cbb/players/mya-perry-1.html,Ohio State,3.2,0.8,19,5,False
+545,Kaitlyn Costner,https://www.sports-reference.com/cbb/players/kaitlyn-costner-1.html,Ohio State,4.6,0.1,69,2,False
+546,Karla Vres,https://www.sports-reference.com/cbb/players/karla-vres-1.html,Ohio State,2.0,0.0,18,0,True
+547,Kiki Jefferson,https://www.sports-reference.com/cbb/players/kiki-jefferson-1.html,James Madison,29.2,18.3,992,622,False
+548,Peyton McDaniel,https://www.sports-reference.com/cbb/players/peyton-mcdaniel-1.html,James Madison,23.2,11.5,743,369,False
+549,Kseniia Kozlova,https://www.sports-reference.com/cbb/players/kseniia-kozlova-1.html,James Madison,23.6,10.5,801,358,False
+550,Jamia Hazell,https://www.sports-reference.com/cbb/players/jamia-hazell-1.html,James Madison,24.8,8.4,844,287,False
+551,Kobe King-Hawea,https://www.sports-reference.com/cbb/players/kobe-king-hawea-1.html,James Madison,16.4,5.1,377,117,True
+552,Caroline Germond,https://www.sports-reference.com/cbb/players/caroline-germond-1.html,James Madison,29.1,4.6,930,148,True
+553,Kadidia Toure,https://www.sports-reference.com/cbb/players/kadidia-toure-1.html,James Madison,7.9,3.4,166,71,False
+554,Annalicia Goodman,https://www.sports-reference.com/cbb/players/annalicia-goodman-1.html,James Madison,12.8,3.2,319,80,False
+555,Steph Ouderkirk,https://www.sports-reference.com/cbb/players/steph-ouderkirk-1.html,James Madison,16.6,3.1,566,107,False
+556,Claire Neff,https://www.sports-reference.com/cbb/players/claire-neff-1.html,James Madison,15.6,2.8,452,82,False
+557,Cheyenne Rowe,https://www.sports-reference.com/cbb/players/cheyenne-rowe-1.html,James Madison,8.9,2.4,143,38,False
+558,Mya Kone,https://www.sports-reference.com/cbb/players/mya-kone-1.html,James Madison,3.7,1.7,41,19,False
+559,Amira Williams,https://www.sports-reference.com/cbb/players/amira-williams-1.html,James Madison,7.2,1.2,217,35,True
+560,Chloe Sterling,https://www.sports-reference.com/cbb/players/chloe-sterling-1.html,James Madison,8.2,1.1,213,28,False
+561,Mikaya Tynes,https://www.sports-reference.com/cbb/players/mikaya-tynes-1.html,James Madison,2.3,0.4,23,4,False
+562,Sarah Andrews,https://www.sports-reference.com/cbb/players/sarah-andrews-1.html,Baylor,34.3,14.7,1098,470,False
+563,Caitlin Bickle,https://www.sports-reference.com/cbb/players/caitlin-bickle-1.html,Baylor,29.6,11.9,889,358,False
+564,Ja'Mee Asberry,https://www.sports-reference.com/cbb/players/jamee-asberry-1.html,Baylor,32.9,11.4,1054,365,False
+565,Darianna Littlepage-Buggs,https://www.sports-reference.com/cbb/players/darianna-littlepage-buggs-1.html,Baylor,25.4,10.6,839,351,False
+566,Bella Fontleroy,https://www.sports-reference.com/cbb/players/bella-fontleroy-1.html,Baylor,21.8,8.8,719,291,False
+567,Jaden Owens,https://www.sports-reference.com/cbb/players/jaden-owens-1.html,Baylor,32.1,8.0,1027,255,False
+568,Aijha Blackwell,https://www.sports-reference.com/cbb/players/aijha-blackwell-1.html,Baylor,11.9,7.5,95,60,True
+569,Kendra Gillispie,https://www.sports-reference.com/cbb/players/kendra-gillispie-1.html,Baylor,13.1,4.0,157,48,False
+570,Jana Van Gytenbeek,https://www.sports-reference.com/cbb/players/jana-van-gytenbeek-1.html,Baylor,13.6,2.4,382,66,True
+571,Catarina Ferreira,https://www.sports-reference.com/cbb/players/catarina-ferreira-1.html,Baylor,10.7,2.2,247,51,False
+572,Kyla Abraham,https://www.sports-reference.com/cbb/players/kyla-abraham-1.html,Baylor,5.5,2.1,77,30,False
+573,Erika Porter,https://www.sports-reference.com/cbb/players/erika-porter-1.html,Baylor,6.1,1.5,91,23,True
+574,Brittany Davis,https://www.sports-reference.com/cbb/players/brittany-davis-2.html,Alabama,30.8,18.0,892,522,False
+575,Aaliyah Nye,https://www.sports-reference.com/cbb/players/aaliyah-nye-1.html,Alabama,23.4,9.3,702,279,True
+576,Hannah Barber,https://www.sports-reference.com/cbb/players/hannah-barber-1.html,Alabama,28.0,7.8,839,234,False
+577,Sarah Ashlee Barker,https://www.sports-reference.com/cbb/players/sarah-ashlee-barker-1.html,Alabama,23.5,6.9,705,206,True
+578,Jada Rice,https://www.sports-reference.com/cbb/players/jada-rice-1.html,Alabama,25.9,6.9,776,207,False
+579,Megan Abrams,https://www.sports-reference.com/cbb/players/megan-abrams-1.html,Alabama,16.2,6.6,388,158,False
+580,Loyal McQueen,https://www.sports-reference.com/cbb/players/loyal-mcqueen-1.html,Alabama,19.2,6.5,577,194,True
+581,JaMya Mingo-Young,https://www.sports-reference.com/cbb/players/jamya-mingo-young-1.html,Alabama,17.2,5.2,223,68,False
+582,Karly Weathers,https://www.sports-reference.com/cbb/players/karly-weathers-1.html,Alabama,12.7,3.9,329,102,False
+583,Ryan Cobbins,https://www.sports-reference.com/cbb/players/ryan-cobbins-1.html,Alabama,13.3,2.5,373,70,True
+584,Jeanna Cunningham,https://www.sports-reference.com/cbb/players/jeanna-cunningham-1.html,Alabama,5.3,1.2,132,31,True
+585,Khyla Wade-Warren,https://www.sports-reference.com/cbb/players/khyla-wade-warren-1.html,Alabama,4.6,0.7,64,10,False
+586,Aaliyah Edwards,https://www.sports-reference.com/cbb/players/aaliyah-edwards-1.html,UConn,32.5,16.6,1202,615,False
+587,Lou Lopez Senechal,https://www.sports-reference.com/cbb/players/lou-lopez-senechal-1.html,UConn,31.5,15.5,1165,575,True
+588,Azzi Fudd,https://www.sports-reference.com/cbb/players/azzi-fudd-1.html,UConn,28.2,15.1,423,227,False
+589,Dorka Juhasz,https://www.sports-reference.com/cbb/players/dorka-juhasz-1.html,UConn,33.7,14.2,977,411,False
+590,Aubrey Griffin,https://www.sports-reference.com/cbb/players/aubrey-griffin-1.html,UConn,30.5,11.3,1066,397,False
+591,Caroline Ducharme,https://www.sports-reference.com/cbb/players/caroline-ducharme-1.html,UConn,22.3,7.4,513,170,False
+592,Nika Muhl,https://www.sports-reference.com/cbb/players/nika-muhl-1.html,UConn,36.6,7.1,1316,256,False
+593,Amari DeBerry,https://www.sports-reference.com/cbb/players/amari-deberry-1.html,UConn,8.1,2.2,210,58,False
+594,Ayanna Patterson,https://www.sports-reference.com/cbb/players/ayanna-patterson-1.html,UConn,10.1,2.2,304,65,False
+595,Ines Bettencourt,https://www.sports-reference.com/cbb/players/ines-bettencourt-1.html,UConn,9.0,1.4,224,34,False
+596,Emma Utterback,https://www.sports-reference.com/cbb/players/emma-utterback-1.html,Vermont,35.3,14.0,1131,447,False
+597,Anna Olson,https://www.sports-reference.com/cbb/players/anna-olson-1.html,Vermont,30.1,11.4,964,364,False
+598,Catherine Gilwee,https://www.sports-reference.com/cbb/players/catherine-gilwee-1.html,Vermont,34.5,10.6,1103,339,False
+599,Delaney Richason,https://www.sports-reference.com/cbb/players/delaney-richason-1.html,Vermont,29.9,9.0,958,287,False
+600,Maria Myklebust,https://www.sports-reference.com/cbb/players/maria-myklebust-1.html,Vermont,12.3,4.8,380,150,False
+601,Paula Gonzalez,https://www.sports-reference.com/cbb/players/paula-gonzalez-1.html,Vermont,15.2,4.2,457,126,False
+602,Bella Vito,https://www.sports-reference.com/cbb/players/bella-vito-1.html,Vermont,20.6,3.3,658,107,False
+603,Aryana Dizon,https://www.sports-reference.com/cbb/players/aryana-dizon-1.html,Vermont,8.3,2.4,231,68,False
+604,Carla Celaya,https://www.sports-reference.com/cbb/players/carla-celaya-1.html,Vermont,14.2,1.7,397,47,False
+605,Andjela Matic,https://www.sports-reference.com/cbb/players/andjela-matic-1.html,Vermont,4.7,0.7,94,13,False
+606,Marissa McDonald,https://www.sports-reference.com/cbb/players/marissa-mcdonald-1.html,Vermont,2.0,0.7,6,2,False
+607,Nikola Priede,https://www.sports-reference.com/cbb/players/nikola-priede-1.html,Vermont,3.0,0.7,30,7,False
+608,Carly Whiteside,https://www.sports-reference.com/cbb/players/carly-whiteside-1.html,Vermont,1.6,0.4,8,2,False
+609,Keira Hanson,https://www.sports-reference.com/cbb/players/keira-hanson-1.html,Vermont,1.5,0.3,9,2,False
+610,Cameron Brink,https://www.sports-reference.com/cbb/players/cameron-brink-1.html,Stanford,24.8,15.1,843,512,False
+611,Haley Jones,https://www.sports-reference.com/cbb/players/haley-jones-2.html,Stanford,32.7,13.5,1145,474,False
+612,Hannah Jump,https://www.sports-reference.com/cbb/players/hannah-jump-1.html,Stanford,31.7,11.2,1109,392,False
+613,Kiki Iriafen,https://www.sports-reference.com/cbb/players/kiki-iriafen-1.html,Stanford,12.1,6.7,424,236,False
+614,Lauren Betts,https://www.sports-reference.com/cbb/players/lauren-betts-1.html,Stanford,9.6,5.9,318,194,False
+615,Talana Lepolo,https://www.sports-reference.com/cbb/players/talana-lepolo-1.html,Stanford,25.8,4.8,876,162,False
+616,Francesca Belibi,https://www.sports-reference.com/cbb/players/francesca-belibi-1.html,Stanford,10.3,4.0,350,136,False
+617,Brooke Demetre,https://www.sports-reference.com/cbb/players/brooke-demetre-1.html,Stanford,13.4,3.9,457,131,False
+618,Elena Bosgana,https://www.sports-reference.com/cbb/players/elena-bosgana-1.html,Stanford,8.9,3.8,250,105,False
+619,Agnes Emma-Nnopu,https://www.sports-reference.com/cbb/players/agnes-emma-nnopu-1.html,Stanford,13.2,3.2,435,107,False
+620,Indya Nivar,https://www.sports-reference.com/cbb/players/indya-nivar-1.html,Stanford,12.5,3.2,438,111,False
+621,Ashten Prechtel,https://www.sports-reference.com/cbb/players/ashten-prechtel-1.html,Stanford,7.6,2.4,251,78,False
+622,Jzaniya Harriel,https://www.sports-reference.com/cbb/players/jzaniya-harriel-1.html,Stanford,6.5,1.2,123,22,False
+623,Lauren Green,https://www.sports-reference.com/cbb/players/lauren-green-2.html,Stanford,2.7,0.2,24,2,False
+624,Stavi Papadaki,https://www.sports-reference.com/cbb/players/stavi-papadaki-1.html,Stanford,2.9,0.2,32,2,False
+625,Ny'Ceara Pryor,https://www.sports-reference.com/cbb/players/nyceara-pryor-1.html,Sacred Heart,33.5,17.8,1107,586,False
+626,Sajada Bonner,https://www.sports-reference.com/cbb/players/sajada-bonner-1.html,Sacred Heart,32.7,10.7,1045,341,True
+627,Amelia Wood,https://www.sports-reference.com/cbb/players/amelia-wood-1.html,Sacred Heart,20.7,7.7,682,253,False
+628,Olivia Tucker,https://www.sports-reference.com/cbb/players/olivia-tucker-1.html,Sacred Heart,31.9,7.1,1054,234,False
+629,Sierra Johnson,https://www.sports-reference.com/cbb/players/sierra-johnson-1.html,Sacred Heart,26.3,5.5,869,183,False
+630,Kelsey Wood,https://www.sports-reference.com/cbb/players/kelsey-wood-1.html,Sacred Heart,16.5,4.7,545,156,False
+631,Carly Stroemel,https://www.sports-reference.com/cbb/players/carly-stroemel-1.html,Sacred Heart,14.8,3.9,460,121,False
+632,Ciara Brannon,https://www.sports-reference.com/cbb/players/ciara-brannon-1.html,Sacred Heart,12.5,3.2,313,79,True
+633,Wil'lisha Jackson,https://www.sports-reference.com/cbb/players/willisha-jackson-1.html,Sacred Heart,10.5,2.3,209,46,False
+634,Afia Owusu-Mensah,https://www.sports-reference.com/cbb/players/afia-owusu-mensah-1.html,Sacred Heart,8.1,2.1,146,38,False
+635,Maya Klein,https://www.sports-reference.com/cbb/players/maya-klein-1.html,Sacred Heart,5.8,1.0,76,13,False
+636,Savannah Marshall,https://www.sports-reference.com/cbb/players/savannah-marshall-1.html,Sacred Heart,6.4,0.5,77,6,False
+637,Kennadie Hallum,https://www.sports-reference.com/cbb/players/kennadie-hallum-1.html,Sacred Heart,2.8,0.0,17,0,False
+638,Angel Baker,https://www.sports-reference.com/cbb/players/angel-baker-1.html,Ole Miss,29.9,14.8,1016,503,False
+639,Madison Scott,https://www.sports-reference.com/cbb/players/madison-scott-2.html,Ole Miss,29.6,11.6,1006,393,False
+640,Marquesha Davis,https://www.sports-reference.com/cbb/players/marquesha-davis-1.html,Ole Miss,22.7,10.5,772,356,True
+641,Snudda Collins,https://www.sports-reference.com/cbb/players/snudda-collins-1.html,Ole Miss,27.5,8.9,935,303,False
+642,Myah Taylor,https://www.sports-reference.com/cbb/players/myah-taylor-2.html,Ole Miss,26.5,6.4,821,197,True
+643,Tyia Singleton,https://www.sports-reference.com/cbb/players/tyia-singleton-1.html,Ole Miss,21.6,5.7,733,194,True
+644,Destiny Salary,https://www.sports-reference.com/cbb/players/destiny-salary-1.html,Ole Miss,14.7,3.8,427,109,False
+645,Ayanna Thompson,https://www.sports-reference.com/cbb/players/ayanna-thompson-1.html,Ole Miss,12.5,3.1,375,94,False
+646,Rita Igbokwe,https://www.sports-reference.com/cbb/players/rita-igbokwe-1.html,Ole Miss,14.4,3.0,476,100,True
+647,Elauna Eaton,https://www.sports-reference.com/cbb/players/elauna-eaton-1.html,Ole Miss,9.4,2.8,274,81,True
+648,Jordan Berry,https://www.sports-reference.com/cbb/players/jordan-berry-2.html,Ole Miss,3.1,0.3,44,4,False
+649,Yvonne Ejim,https://www.sports-reference.com/cbb/players/yvonne-ejim-1.html,Gonzaga,27.5,16.8,908,554,False
+650,Kaylynne Truong,https://www.sports-reference.com/cbb/players/kaylynne-truong-1.html,Gonzaga,32.3,15.8,1067,520,False
+651,Brynna Maxwell,https://www.sports-reference.com/cbb/players/brynna-maxwell-1.html,Gonzaga,29.0,13.5,958,445,True
+652,Eliza Hollingsworth,https://www.sports-reference.com/cbb/players/eliza-hollingsworth-1.html,Gonzaga,26.3,8.9,683,231,False
+653,McKayla Williams,https://www.sports-reference.com/cbb/players/mckayla-williams-1.html,Gonzaga,30.8,7.7,1018,253,False
+654,Kayleigh Truong,https://www.sports-reference.com/cbb/players/kayleigh-truong-1.html,Gonzaga,21.6,7.0,216,70,False
+655,Calli Stokes,https://www.sports-reference.com/cbb/players/calli-stokes-1.html,Gonzaga,18.4,3.7,553,111,False
+656,Maud Huijbens,https://www.sports-reference.com/cbb/players/maud-huijbens-1.html,Gonzaga,16.6,3.5,216,45,False
+657,Destiny Burton,https://www.sports-reference.com/cbb/players/destiny-burton-1.html,Gonzaga,10.5,1.9,294,52,False
+658,Payton Muma,https://www.sports-reference.com/cbb/players/payton-muma-1.html,Gonzaga,7.6,1.4,229,43,False
+659,Esther Little,https://www.sports-reference.com/cbb/players/esther-little-1.html,Gonzaga,15.3,1.3,474,40,False
+660,Giana Riley,https://www.sports-reference.com/cbb/players/giana-riley-1.html,Gonzaga,1.1,0.0,9,0,False
+661,Hailey Van Lith,https://www.sports-reference.com/cbb/players/hailey-van-lith-1.html,Louisville,36.9,19.7,1364,729,False
+662,Chrislyn Carr,https://www.sports-reference.com/cbb/players/chrislyn-carr-1.html,Louisville,29.0,11.0,1102,418,True
+663,Morgan Jones,https://www.sports-reference.com/cbb/players/morgan-jones-3.html,Louisville,19.6,8.9,746,340,True
+664,Olivia Cochran,https://www.sports-reference.com/cbb/players/olivia-cochran-1.html,Louisville,24.1,8.4,917,321,False
+665,Mykasa Robinson,https://www.sports-reference.com/cbb/players/mykasa-robinson-1.html,Louisville,30.4,6.4,1032,217,False
+666,Payton Verhulst,https://www.sports-reference.com/cbb/players/payton-verhulst-1.html,Louisville,15.0,6.4,120,51,False
+667,Liz Dixon,https://www.sports-reference.com/cbb/players/liz-dixon-1.html,Louisville,16.5,5.0,627,191,False
+668,Merissah Russell,https://www.sports-reference.com/cbb/players/merissah-russell-1.html,Louisville,15.3,4.6,566,172,False
+669,Nyla Harris,https://www.sports-reference.com/cbb/players/nyla-harris-1.html,Louisville,13.6,4.2,516,159,False
+670,Josie Williams,https://www.sports-reference.com/cbb/players/josie-williams-1.html,Louisville,8.3,2.8,292,98,True
+671,Zyanna Walker,https://www.sports-reference.com/cbb/players/zyanna-walker-1.html,Louisville,10.6,2.6,53,13,False
+672,Norika Konno,https://www.sports-reference.com/cbb/players/norika-konno-1.html,Louisville,9.7,2.4,272,66,False
+673,Jalyn Brown,https://www.sports-reference.com/cbb/players/jalyn-brown-1.html,Louisville,4.6,1.1,32,8,False
+674,Alexia Mobley,https://www.sports-reference.com/cbb/players/alexia-mobley-1.html,Louisville,1.7,0.3,12,2,False
+675,Maggie Bair,https://www.sports-reference.com/cbb/players/maggie-bair-1.html,Drake,24.7,16.5,790,528,False
+676,Megan Meyer,https://www.sports-reference.com/cbb/players/megan-meyer-1.html,Drake,29.5,12.9,236,103,False
+677,Grace Berg,https://www.sports-reference.com/cbb/players/grace-berg-1.html,Drake,27.4,12.8,878,408,False
+678,Katie Dinnebier,https://www.sports-reference.com/cbb/players/katie-dinnebier-1.html,Drake,29.8,11.7,954,374,False
+679,Anna Miller,https://www.sports-reference.com/cbb/players/anna-miller-1.html,Drake,20.5,10.3,656,328,False
+680,Sarah Beth Gueldner,https://www.sports-reference.com/cbb/players/sarah-beth-gueldner-1.html,Drake,29.9,9.5,958,305,False
+681,Courtney Becker,https://www.sports-reference.com/cbb/players/courtney-becker-1.html,Drake,21.1,6.0,676,191,False
+682,Taylor McAulay,https://www.sports-reference.com/cbb/players/taylor-mcaulay-1.html,Drake,20.2,5.0,646,159,False
+683,Ashley Iiams,https://www.sports-reference.com/cbb/players/ashley-iiams-1.html,Drake,7.0,2.0,195,57,False
+684,Ava Hawthorne,https://www.sports-reference.com/cbb/players/ava-hawthorne-1.html,Drake,10.4,1.5,312,46,False
+685,Taedyn Gray,https://www.sports-reference.com/cbb/players/taedyn-gray-1.html,Drake,4.1,1.1,110,29,False
+686,Hannah Nilges,https://www.sports-reference.com/cbb/players/hannah-nilges-1.html,Drake,1.9,0.2,40,5,False
+687,Shaylee Gonzales,https://www.sports-reference.com/cbb/players/shaylee-gonzales-1.html,Texas,33.3,12.7,1200,458,True
+688,DeYona Gaston,https://www.sports-reference.com/cbb/players/deyona-gaston-1.html,Texas,25.5,12.1,917,437,False
+689,Sonya Morris,https://www.sports-reference.com/cbb/players/sonya-morris-1.html,Texas,26.3,11.4,684,296,True
+690,Rori Harmon,https://www.sports-reference.com/cbb/players/rori-harmon-1.html,Texas,36.0,11.2,1117,347,False
+691,Aaliyah Moore,https://www.sports-reference.com/cbb/players/aaliyah-moore-2.html,Texas,20.7,11.2,186,101,False
+692,Taylor Jones,https://www.sports-reference.com/cbb/players/taylor-jones-2.html,Texas,19.7,9.5,532,257,True
+693,Khadija Faye,https://www.sports-reference.com/cbb/players/khadija-faye-1.html,Texas,14.9,5.9,537,213,True
+694,Shay Holle,https://www.sports-reference.com/cbb/players/shay-holle-1.html,Texas,25.4,5.9,914,214,False
+695,Ndjakalenga Mwenentanda,https://www.sports-reference.com/cbb/players/ndjakalenga-mwenentanda-1.html,Texas,12.0,4.4,373,135,False
+696,Amina Muhammad,https://www.sports-reference.com/cbb/players/amina-muhammad-1.html,Texas,18.7,3.9,672,142,False
+697,Femme Masudi,https://www.sports-reference.com/cbb/players/femme-masudi-1.html,Texas,4.5,1.7,49,19,False
+698,Anissa Gutierrez,https://www.sports-reference.com/cbb/players/anissa-gutierrez-1.html,Texas,1.9,0.4,19,4,False
+699,Sarah Graves,https://www.sports-reference.com/cbb/players/sarah-graves-1.html,Texas,1.0,0.0,1,0,False
+700,Danae McNeal,https://www.sports-reference.com/cbb/players/danae-mcneal-1.html,East Carolina,31.5,17.4,1040,575,False
+701,Amiya Joyner,https://www.sports-reference.com/cbb/players/amiya-joyner-1.html,East Carolina,29.7,10.5,921,324,False
+702,Micah Dennis,https://www.sports-reference.com/cbb/players/micah-dennis-1.html,East Carolina,27.3,6.7,900,221,True
+703,Jayla Hearp,https://www.sports-reference.com/cbb/players/jayla-hearp-1.html,East Carolina,16.2,6.7,486,202,False
+704,Synia Johnson,https://www.sports-reference.com/cbb/players/synia-johnson-1.html,East Carolina,25.7,6.5,848,214,False
+705,Morgan Moseley,https://www.sports-reference.com/cbb/players/morgan-moseley-1.html,East Carolina,20.3,4.9,669,161,False
+706,Alexsia Rose,https://www.sports-reference.com/cbb/players/alexsia-rose-1.html,East Carolina,14.7,3.1,457,97,False
+707,Bobbi Smith,https://www.sports-reference.com/cbb/players/bobbi-smith-1.html,East Carolina,14.6,2.4,482,78,False
+708,Tiara Chambers,https://www.sports-reference.com/cbb/players/tiara-chambers-1.html,East Carolina,8.8,2.3,228,59,False
+709,Kimora Jenkins,https://www.sports-reference.com/cbb/players/kimora-jenkins-1.html,East Carolina,9.2,1.9,293,62,True
+710,Iycez Adams,https://www.sports-reference.com/cbb/players/iycez-adams-1.html,East Carolina,9.8,1.5,294,45,False
+711,Brittany Franklin,https://www.sports-reference.com/cbb/players/brittany-franklin-1.html,East Carolina,3.7,1.4,59,23,False
+712,Xianna Josephs,https://www.sports-reference.com/cbb/players/xianna-josephs-1.html,East Carolina,3.8,0.5,42,6,False
+713,Samora Watson,https://www.sports-reference.com/cbb/players/samora-watson-1.html,East Carolina,1.8,0.0,7,0,False
+714,Quay Miller,https://www.sports-reference.com/cbb/players/quay-miller-1.html,Colorado,31.6,13.1,1074,444,False
+715,Aaronette Vonleh,https://www.sports-reference.com/cbb/players/aaronette-vonleh-1.html,Colorado,26.4,12.2,898,414,True
+716,Frida Formann,https://www.sports-reference.com/cbb/players/frida-formann-1.html,Colorado,28.3,12.0,904,385,False
+717,Jaylyn Sherrod,https://www.sports-reference.com/cbb/players/jaylyn-sherrod-1.html,Colorado,29.0,11.3,956,373,False
+718,Kindyll Wetta,https://www.sports-reference.com/cbb/players/kindyll-wetta-1.html,Colorado,24.8,5.4,843,183,False
+719,Tayanna Jones,https://www.sports-reference.com/cbb/players/tayanna-jones-1.html,Colorado,19.0,5.0,647,170,False
+720,Tameiya Sadler,https://www.sports-reference.com/cbb/players/tameiya-sadler-1.html,Colorado,18.7,5.0,637,171,False
+721,Jada Wynn,https://www.sports-reference.com/cbb/players/jada-wynn-1.html,Colorado,12.1,3.4,386,108,False
+722,Brianna McLeod,https://www.sports-reference.com/cbb/players/brianna-mcleod-1.html,Colorado,10.0,2.6,290,74,False
+723,Lizzie Holder,https://www.sports-reference.com/cbb/players/lizzie-holder-1.html,Colorado,3.5,1.0,7,2,False
+724,Charlotte Whittaker,https://www.sports-reference.com/cbb/players/charlotte-whittaker-1.html,Colorado,7.6,0.8,235,26,False
+725,Ally Fitzgerald,https://www.sports-reference.com/cbb/players/ally-fitzgerald-1.html,Colorado,4.4,0.4,31,3,False
+726,Sophie Gerber,https://www.sports-reference.com/cbb/players/sophie-gerber-1.html,Colorado,3.0,0.0,18,0,False
+727,Kseniya Malashka,https://www.sports-reference.com/cbb/players/kseniya-malashka-1.html,Middle Tennessee,23.1,15.1,739,483,False
+728,Savannah Wheeler,https://www.sports-reference.com/cbb/players/savannah-wheeler-1.html,Middle Tennessee,31.3,15.1,938,453,True
+729,Jalynn Gregory,https://www.sports-reference.com/cbb/players/jalynn-gregory-1.html,Middle Tennessee,35.8,13.4,1183,442,False
+730,Courtney Whitson,https://www.sports-reference.com/cbb/players/courtney-whitson-1.html,Middle Tennessee,37.3,10.1,1157,314,False
+731,Anastasiia Boldyreva,https://www.sports-reference.com/cbb/players/anastasiia-boldyreva-1.html,Middle Tennessee,15.1,7.4,499,244,False
+732,Courtney Blakely,https://www.sports-reference.com/cbb/players/courtney-blakely-1.html,Middle Tennessee,24.9,7.1,823,235,False
+733,Alexis Whittington,https://www.sports-reference.com/cbb/players/alexis-whittington-1.html,Middle Tennessee,30.1,6.0,932,185,False
+734,Ta'Mia Scott,https://www.sports-reference.com/cbb/players/tamia-scott-1.html,Middle Tennessee,8.3,2.1,208,52,False
+735,Jada Grannum,https://www.sports-reference.com/cbb/players/jada-grannum-1.html,Middle Tennessee,3.8,0.6,102,16,False
+736,Anabel LaTorre Ciria,https://www.sports-reference.com/cbb/players/anabel-latorre-ciria-1.html,Middle Tennessee,3.3,0.0,13,0,False
+737,Lanae Riley,https://www.sports-reference.com/cbb/players/lanae-riley-1.html,Middle Tennessee,4.8,0.0,29,0,False
+738,Celeste Taylor,https://www.sports-reference.com/cbb/players/celeste-taylor-1.html,Duke,28.9,11.4,954,376,False
+739,Elizabeth Balogun,https://www.sports-reference.com/cbb/players/elizabeth-balogun-1.html,Duke,23.1,10.2,762,336,False
+740,Shayeann Day-Wilson,https://www.sports-reference.com/cbb/players/shayeann-day-wilson-1.html,Duke,24.3,8.1,801,266,False
+741,Reigan Richardson,https://www.sports-reference.com/cbb/players/reigan-richardson-1.html,Duke,20.6,6.8,679,226,True
+742,Kennedy Brown,https://www.sports-reference.com/cbb/players/kennedy-brown-2.html,Duke,23.9,6.5,790,213,True
+743,Vanessa de Jesus,https://www.sports-reference.com/cbb/players/vanessa-de-jesus-1.html,Duke,15.5,5.0,497,161,False
+744,Lee Volker,https://www.sports-reference.com/cbb/players/lee-volker-1.html,Duke,14.7,4.3,176,51,False
+745,Jordyn Oliver,https://www.sports-reference.com/cbb/players/jordyn-oliver-1.html,Duke,17.3,3.8,571,124,False
+746,Taya Corosdale,https://www.sports-reference.com/cbb/players/taya-corosdale-1.html,Duke,14.3,3.3,400,92,True
+747,Mia Heide,https://www.sports-reference.com/cbb/players/mia-heide-1.html,Duke,13.7,3.2,451,106,True
+748,Ashlon Jackson,https://www.sports-reference.com/cbb/players/ashlon-jackson-1.html,Duke,13.4,3.2,442,105,False
+749,Imani Lewis,https://www.sports-reference.com/cbb/players/imani-lewis-2.html,Duke,5.2,2.8,26,14,False
+750,Shay Bollin,https://www.sports-reference.com/cbb/players/shay-bollin-1.html,Duke,5.4,2.4,43,19,False
+751,Bo Shaffer,https://www.sports-reference.com/cbb/players/bo-shaffer-1.html,Duke,1.0,2.0,1,2,False
+752,Emma Koabel,https://www.sports-reference.com/cbb/players/emma-koabel-1.html,Duke,6.0,1.5,24,6,False
+753,Jiselle Havas,https://www.sports-reference.com/cbb/players/jiselle-havas-1.html,Duke,3.0,0.7,9,2,False
+754,Emma Schmidt,https://www.sports-reference.com/cbb/players/emma-schmidt-1.html,Duke,1.0,0.0,1,0,False
+755,Juana Camilion,https://www.sports-reference.com/cbb/players/juana-camilion-1.html,Iona,32.3,14.2,1065,467,False
+756,Ketsia Athias,https://www.sports-reference.com/cbb/players/ketsia-athias-1.html,Iona,31.7,12.3,1047,407,False
+757,Kate Mager,https://www.sports-reference.com/cbb/players/kate-mager-1.html,Iona,33.3,11.9,1100,392,True
+758,Thoranna Hodge-Carr,https://www.sports-reference.com/cbb/players/thoranna-hodge-carr-1.html,Iona,27.3,7.2,901,238,False
+759,Natalia Otkhmezuri,https://www.sports-reference.com/cbb/players/natalia-otkhmezuri-1.html,Iona,19.1,6.5,631,215,True
+760,Judith Gomez,https://www.sports-reference.com/cbb/players/judith-gomez-1.html,Iona,27.7,5.6,887,180,False
+761,Noa Givon,https://www.sports-reference.com/cbb/players/noa-givon-1.html,Iona,11.5,2.9,241,60,False
+762,Isabelle Lipinski,https://www.sports-reference.com/cbb/players/isabelle-lipinski-1.html,Iona,10.5,2.4,221,50,False
+763,Petra Oborilova,https://www.sports-reference.com/cbb/players/petra-oborilova-1.html,Iona,8.3,1.3,190,31,False
+764,Marina Cenis,https://www.sports-reference.com/cbb/players/marina-cenis-1.html,Iona,9.7,1.0,232,25,False
+765,Addy Salzer,https://www.sports-reference.com/cbb/players/addy-salzer-1.html,Iona,2.8,0.8,11,3,False
+766,Vega Lopez,https://www.sports-reference.com/cbb/players/vega-lopez-1.html,Iona,5.0,0.7,15,2,False
+767,Amaya Evans,https://www.sports-reference.com/cbb/players/amaya-evans-1.html,Iona,3.6,0.6,43,7,False
+768,Ale Civera,https://www.sports-reference.com/cbb/players/ale-civera-1.html,Iona,3.0,0.3,18,2,False
+769,Ta'Niya Latson,https://www.sports-reference.com/cbb/players/taniya-latson-1.html,Florida State,29.5,21.3,913,659,False
+770,Makayla Timpson,https://www.sports-reference.com/cbb/players/makayla-timpson-1.html,Florida State,24.9,13.2,822,436,False
+771,Sara Bejedi,https://www.sports-reference.com/cbb/players/sara-bejedi-1.html,Florida State,27.5,10.8,907,358,False
+772,Erin Howard,https://www.sports-reference.com/cbb/players/erin-howard-1.html,Florida State,24.6,7.9,811,261,False
+773,O'Mariah Gordon,https://www.sports-reference.com/cbb/players/omariah-gordon-1.html,Florida State,17.7,6.9,532,208,False
+774,Taylor O'Brien,https://www.sports-reference.com/cbb/players/taylor-obrien-1.html,Florida State,21.2,6.7,487,154,True
+775,Mariana Valenzuela,https://www.sports-reference.com/cbb/players/mariana-valenzuela-1.html,Florida State,17.2,5.9,566,195,False
+776,Valencia Myers,https://www.sports-reference.com/cbb/players/valencia-myers-1.html,Florida State,13.5,5.0,418,156,False
+777,Jazmine Massengill,https://www.sports-reference.com/cbb/players/jazmine-massengill-1.html,Florida State,28.4,4.5,880,139,True
+778,Brianna Turnage,https://www.sports-reference.com/cbb/players/brianna-turnage-1.html,Florida State,13.7,2.2,315,51,False
+779,Diamond Battles,https://www.sports-reference.com/cbb/players/diamond-battles-1.html,Georgia,34.4,14.7,1169,499,True
+780,Brittney Smith,https://www.sports-reference.com/cbb/players/brittney-smith-2.html,Georgia,26.1,11.5,889,392,True
+781,Javyn Nicholson,https://www.sports-reference.com/cbb/players/javyn-nicholson-1.html,Georgia,23.1,9.6,784,325,False
+782,Audrey Warren,https://www.sports-reference.com/cbb/players/audrey-warren-1.html,Georgia,26.7,7.9,853,254,True
+783,Alisha Lewis,https://www.sports-reference.com/cbb/players/alisha-lewis-1.html,Georgia,26.2,6.7,759,195,True
+784,Zoesha Smith,https://www.sports-reference.com/cbb/players/zoesha-smith-1.html,Georgia,17.4,6.6,506,192,False
+785,Malury Bates,https://www.sports-reference.com/cbb/players/malury-bates-1.html,Georgia,12.9,4.8,426,158,False
+786,Savannah Henderson,https://www.sports-reference.com/cbb/players/savannah-henderson-1.html,Georgia,13.3,4.3,53,17,False
+787,Chloe Chapman,https://www.sports-reference.com/cbb/players/chloe-chapman-1.html,Georgia,17.9,2.9,592,96,False
+788,De'Mauri Flournoy,https://www.sports-reference.com/cbb/players/demauri-flournoy-1.html,Georgia,8.1,2.4,171,51,True
+789,Jordan Isaacs,https://www.sports-reference.com/cbb/players/jordan-isaacs-1.html,Georgia,15.1,2.3,498,77,False
+790,Kari Niblack,https://www.sports-reference.com/cbb/players/kari-niblack-1.html,Georgia,6.0,1.2,72,14,True
+791,Amiya Evans,https://www.sports-reference.com/cbb/players/amiya-evans-1.html,Georgia,4.4,0.8,53,10,False
+792,Caitlin Clark,https://www.sports-reference.com/cbb/players/caitlin-clark-1.html,Iowa,34.4,27.8,1307,1055,False
+793,Monika Czinano,https://www.sports-reference.com/cbb/players/monika-czinano-1.html,Iowa,27.9,17.1,1062,650,False
+794,McKenna Warnock,https://www.sports-reference.com/cbb/players/mckenna-warnock-1.html,Iowa,29.3,10.9,1053,392,False
+795,Kate Martin,https://www.sports-reference.com/cbb/players/kate-martin-1.html,Iowa,28.5,7.7,1083,291,False
+796,Hannah Stuelke,https://www.sports-reference.com/cbb/players/hannah-stuelke-1.html,Iowa,13.0,6.5,481,241,False
+797,Gabbie Marshall,https://www.sports-reference.com/cbb/players/gabbie-marshall-1.html,Iowa,29.4,6.2,1116,236,False
+798,Molly Davis,https://www.sports-reference.com/cbb/players/molly-davis-1.html,Iowa,16.7,3.8,634,143,True
+799,Taylor McCabe,https://www.sports-reference.com/cbb/players/taylor-mccabe-1.html,Iowa,7.8,3.4,140,62,False
+800,Sydney Affolter,https://www.sports-reference.com/cbb/players/sydney-affolter-1.html,Iowa,10.3,2.9,382,106,False
+801,Addison O'Grady,https://www.sports-reference.com/cbb/players/addison-ogrady-1.html,Iowa,5.6,2.0,179,65,False
+802,AJ Ediger,https://www.sports-reference.com/cbb/players/aj-ediger-1.html,Iowa,3.2,1.7,54,29,False
+803,Sharon Goodman,https://www.sports-reference.com/cbb/players/sharon-goodman-1.html,Iowa,3.3,1.7,43,22,False
+804,Shateah Wetering,https://www.sports-reference.com/cbb/players/shateah-wetering-1.html,Iowa,6.4,1.3,89,18,False
+805,Jada Gyamfi,https://www.sports-reference.com/cbb/players/jada-gyamfi-1.html,Iowa,3.4,0.8,27,6,False
+806,Hailey Giaratano,https://www.sports-reference.com/cbb/players/hailey-giaratano-1.html,Southeastern Louisiana,33.2,12.2,1028,377,False
+807,Alexius Horne,https://www.sports-reference.com/cbb/players/alexius-horne-1.html,Southeastern Louisiana,29.0,12.0,841,349,False
+808,Taylor Bell,https://www.sports-reference.com/cbb/players/taylor-bell-1.html,Southeastern Louisiana,16.9,8.5,389,195,False
+809,Jen Pierre,https://www.sports-reference.com/cbb/players/jen-pierre-1.html,Southeastern Louisiana,23.6,7.6,731,237,False
+810,Cierria Cunningham,https://www.sports-reference.com/cbb/players/cierria-cunningham-1.html,Southeastern Louisiana,26.1,7.5,808,233,False
+811,Chrissy Brown,https://www.sports-reference.com/cbb/players/chrissy-brown-1.html,Southeastern Louisiana,25.9,6.5,804,200,False
+812,Natalie Kelly,https://www.sports-reference.com/cbb/players/natalie-kelly-2.html,Southeastern Louisiana,29.0,4.3,696,104,False
+813,Dajia Harvey,https://www.sports-reference.com/cbb/players/dajia-harvey-1.html,Southeastern Louisiana,16.5,3.9,510,121,False
+814,Jade Brumfield,https://www.sports-reference.com/cbb/players/jade-brumfield-1.html,Southeastern Louisiana,9.8,3.8,39,15,False
+815,Taylor Dupree,https://www.sports-reference.com/cbb/players/taylor-dupree-1.html,Southeastern Louisiana,8.0,2.7,24,8,False
+816,Dijone' Flowers,https://www.sports-reference.com/cbb/players/dijone-flowers-1.html,Southeastern Louisiana,7.1,1.8,121,31,False
+817,Jaylen Huderson,https://www.sports-reference.com/cbb/players/jaylen-huderson-1.html,Southeastern Louisiana,9.3,1.8,204,39,False
+818,Allasia Washington,https://www.sports-reference.com/cbb/players/allasia-washington-1.html,Southeastern Louisiana,4.2,1.2,55,15,False

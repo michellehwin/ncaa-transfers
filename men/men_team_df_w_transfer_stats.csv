@@ -1,0 +1,65 @@
+,school,round,sportsref_url,percent_minutes_return_21_22,percent_scoring_return_21_22,num_transfers,avg_transfer_mins_p_game,avg_transfer_pts_p_game,avg_transfer_mins_total,avg_transfer_pts_total
+0,San Diego State,2,https://www.sports-reference.com/cbb/schools/san-diego-state/men/2023.html,67.2,68.9,2,24.35,8.600000000000001,935.5,331.5
+1,UConn,2,https://www.sports-reference.com/cbb/schools/connecticut/men/2023.html,34.4,34.0,4,18.474999999999998,5.8,707.25,222.0
+2,Florida Atlantic,4,https://www.sports-reference.com/cbb/schools/florida-atlantic/men/2023.html,77.5,82.1,2,14.0,3.05,496.5,104.5
+3,Miami (FL),4,https://www.sports-reference.com/cbb/schools/miami-fl/men/2023.html,49.8,46.5,2,30.200000000000003,13.35,1086.5,481.5
+4,Gonzaga,8,https://www.sports-reference.com/cbb/schools/gonzaga/men/2023.html,68.3,68.7,2,12.7,5.3999999999999995,442.5,187.0
+5,Arkansas,16,https://www.sports-reference.com/cbb/schools/arkansas/men/2023.html,16.6,13.0,5,20.68,8.740000000000002,574.2,241.8
+6,UCLA,16,https://www.sports-reference.com/cbb/schools/ucla/men/2023.html,46.8,47.2,0,0.0,0.0,0.0,0.0
+7,Kansas,32,https://www.sports-reference.com/cbb/schools/kansas/men/2023.html,37.0,25.9,1,30.6,10.7,1042.0,364.0
+8,Saint Mary's,32,https://www.sports-reference.com/cbb/schools/saint-marys-ca/men/2023.html,57.6,49.9,0,0.0,0.0,0.0,0.0
+9,TCU,32,https://www.sports-reference.com/cbb/schools/texas-christian/men/2023.html,89.4,92.5,2,7.550000000000001,1.0999999999999999,198.0,29.5
+10,Northwestern,32,https://www.sports-reference.com/cbb/schools/northwestern/men/2023.html,58.3,55.8,1,15.8,2.4,536.0,81.0
+11,Howard,64,https://www.sports-reference.com/cbb/schools/howard/men/2023.html,46.8,47.2,5,14.919999999999998,5.58,431.2,162.6
+12,Illinois,64,https://www.sports-reference.com/cbb/schools/illinois/men/2023.html,16.5,13.9,3,26.400000000000002,13.066666666666668,850.3333333333334,420.6666666666667
+13,VCU,64,https://www.sports-reference.com/cbb/schools/virginia-commonwealth/men/2023.html,41.4,36.1,3,21.5,7.766666666666667,743.0,268.0
+14,Iona,64,https://www.sports-reference.com/cbb/schools/iona/men/2023.html,47.1,46.5,1,9.5,4.2,304.0,133.0
+15,Arizona State,64,https://www.sports-reference.com/cbb/schools/arizona-state/men/2023.html,48.8,40.4,4,27.549999999999997,10.575,957.25,367.25
+16,Grand Canyon,64,https://www.sports-reference.com/cbb/schools/grand-canyon/men/2023.html,55.9,55.3,4,20.375,8.3,669.0,280.0
+17,Boise State,64,https://www.sports-reference.com/cbb/schools/boise-state/men/2023.html,54.1,50.7,2,17.6,6.65,553.0,212.5
+18,UNC Asheville,64,https://www.sports-reference.com/cbb/schools/north-carolina-asheville/men/2023.html,63.2,62.0,5,14.74,4.319999999999999,459.2,135.6
+19,Creighton,8,https://www.sports-reference.com/cbb/schools/creighton/men/2023.html,54.9,56.2,2,24.200000000000003,7.9,872.5,287.0
+20,Alabama,16,https://www.sports-reference.com/cbb/schools/alabama/men/2023.html,40.7,41.0,2,19.45,7.25,642.0,251.5
+21,Princeton,16,https://www.sports-reference.com/cbb/schools/princeton/men/2023.html,45.2,42.9,0,0.0,0.0,0.0,0.0
+22,Maryland,32,https://www.sports-reference.com/cbb/schools/maryland/men/2023.html,46.8,43.3,4,20.950000000000003,7.025000000000001,718.75,244.5
+23,Furman,32,https://www.sports-reference.com/cbb/schools/furman/men/2023.html,68.1,70.0,1,12.3,2.5,358.0,73.0
+24,Baylor,32,https://www.sports-reference.com/cbb/schools/baylor/men/2023.html,48.7,47.3,2,19.75,6.75,671.5,229.0
+25,Missouri,32,https://www.sports-reference.com/cbb/schools/missouri/men/2023.html,31.5,32.9,10,17.95,6.869999999999999,544.9,209.5
+26,Texas A&M-Corpus Christi,64,https://www.sports-reference.com/cbb/schools/texas-am-corpus-christi/men/2023.html,84.5,85.2,2,13.1,5.5,414.5,176.5
+27,West Virginia,64,https://www.sports-reference.com/cbb/schools/west-virginia/men/2023.html,17.1,11.5,6,22.733333333333334,9.266666666666666,752.8333333333334,307.1666666666667
+28,College of Charleston,64,https://www.sports-reference.com/cbb/schools/college-of-charleston/men/2023.html,46.5,40.4,4,23.425,9.2,819.25,322.25
+29,Virginia,64,https://www.sports-reference.com/cbb/schools/virginia/men/2023.html,87.8,91.4,1,24.8,7.4,719.0,215.0
+30,NC State,64,https://www.sports-reference.com/cbb/schools/north-carolina-state/men/2023.html,43.4,40.4,4,26.65,11.8,706.0,324.0
+31,UCSB,64,https://www.sports-reference.com/cbb/schools/california-santa-barbara/men/2023.html,70.3,67.0,2,16.6,5.4,523.5,172.0
+32,Utah State,64,https://www.sports-reference.com/cbb/schools/utah-state/men/2023.html,60.5,52.1,2,28.75,12.7,990.0,437.5
+33,Arizona,64,https://www.sports-reference.com/cbb/schools/arizona/men/2023.html,45.3,44.6,3,18.7,6.666666666666667,606.0,210.33333333333334
+34,Texas,8,https://www.sports-reference.com/cbb/schools/texas/men/2023.html,49.6,51.7,2,27.8,11.65,1056.0,443.0
+35,Houston,16,https://www.sports-reference.com/cbb/schools/houston/men/2023.html,44.1,36.0,1,2.5,0.0,15.0,0.0
+36,Xavier,16,https://www.sports-reference.com/cbb/schools/xavier/men/2023.html,62.2,63.9,1,35.2,16.4,1302.0,605.0
+37,Auburn,32,https://www.sports-reference.com/cbb/schools/auburn/men/2023.html,63.2,56.6,2,13.5,7.1,438.0,233.5
+38,Indiana,32,https://www.sports-reference.com/cbb/schools/indiana/men/2023.html,77.2,83.6,0,0.0,0.0,0.0,0.0
+39,Pitt,32,https://www.sports-reference.com/cbb/schools/pittsburgh/men/2023.html,46.2,51.8,5,23.839999999999996,8.76,840.8,312.0
+40,Penn State,32,https://www.sports-reference.com/cbb/schools/penn-state/men/2023.html,55.3,53.9,3,23.766666666666666,7.933333333333333,856.0,288.3333333333333
+41,Northern Kentucky,64,https://www.sports-reference.com/cbb/schools/northern-kentucky/men/2023.html,72.1,77.3,1,28.2,7.7,958.0,261.0
+42,Iowa,64,https://www.sports-reference.com/cbb/schools/iowa/men/2023.html,61.5,52.5,1,3.0,0.7,9.0,2.0
+43,Drake,64,https://www.sports-reference.com/cbb/schools/drake/men/2023.html,67.2,70.8,2,13.85,4.8,402.5,143.0
+44,Kent State,64,https://www.sports-reference.com/cbb/schools/kent-state/men/2023.html,61.3,64.7,2,21.65,8.6,750.0,298.0
+45,Iowa State,64,https://www.sports-reference.com/cbb/schools/iowa-state/men/2023.html,44.3,37.8,4,15.125,6.1000000000000005,468.0,194.25
+46,Kennesaw State,64,https://www.sports-reference.com/cbb/schools/kennesaw-state/men/2023.html,83.9,82.7,0,0.0,0.0,0.0,0.0
+47,Texas A&M,64,https://www.sports-reference.com/cbb/schools/texas-am/men/2023.html,65.6,60.8,5,15.059999999999999,5.0,479.8,159.2
+48,Colgate,64,https://www.sports-reference.com/cbb/schools/colgate/men/2023.html,69.2,65.4,1,12.3,5.1,430.0,178.0
+49,Kansas State,8,https://www.sports-reference.com/cbb/schools/kansas-state/men/2023.html,25.2,25.5,8,19.974999999999998,6.975,681.75,240.375
+50,Tennessee,16,https://www.sports-reference.com/cbb/schools/tennessee/men/2023.html,57.4,58.3,2,1.5,0.25,4.5,1.0
+51,Michigan State,16,https://www.sports-reference.com/cbb/schools/michigan-state/men/2023.html,54.1,50.2,0,0.0,0.0,0.0,0.0
+52,Fairleigh Dickinson,32,https://www.sports-reference.com/cbb/schools/fairleigh-dickinson/men/2023.html,29.4,24.1,4,24.474999999999998,10.325,885.0,373.5
+53,Duke,32,https://www.sports-reference.com/cbb/schools/duke/men/2023.html,15.9,11.5,4,9.924999999999999,2.9000000000000004,316.25,99.0
+54,Kentucky,32,https://www.sports-reference.com/cbb/schools/kentucky/men/2023.html,42.9,44.3,1,27.9,14.4,948.0,488.0
+55,Marquette,32,https://www.sports-reference.com/cbb/schools/marquette/men/2023.html,53.0,43.9,1,8.7,1.3,26.0,4.0
+56,Purdue,64,https://www.sports-reference.com/cbb/schools/purdue/men/2023.html,38.7,37.4,1,15.1,3.9,515.0,132.0
+57,Memphis,64,https://www.sports-reference.com/cbb/schools/memphis/men/2023.html,32.9,28.2,5,22.22,9.28,678.4,289.4
+58,Oral Roberts,64,https://www.sports-reference.com/cbb/schools/oral-roberts/men/2023.html,77.2,81.3,3,17.23333333333333,7.6000000000000005,562.3333333333334,246.66666666666666
+59,Louisiana,64,https://www.sports-reference.com/cbb/schools/louisiana-lafayette/men/2023.html,64.6,70.5,1,23.1,10.9,784.0,370.0
+60,Providence,64,https://www.sports-reference.com/cbb/schools/providence/men/2023.html,25.5,26.9,5,23.5,9.4,768.0,308.0
+61,Montana State,64,https://www.sports-reference.com/cbb/schools/montana-state/men/2023.html,52.2,55.2,3,24.900000000000002,6.7,853.6666666666666,230.33333333333334
+62,USC,64,https://www.sports-reference.com/cbb/schools/southern-california/men/2023.html,47.0,46.6,0,0.0,0.0,0.0,0.0
+63,Vermont,64,https://www.sports-reference.com/cbb/schools/vermont/men/2023.html,40.2,33.5,3,20.7,8.466666666666667,684.3333333333334,283.0

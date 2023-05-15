@@ -1,0 +1,902 @@
+,name,sportsref_url,school,avg_min,avg_pts,total_min,total_pts,transfer
+0,Matt Bradley,https://www.sports-reference.com/cbb/players/matt-bradley-1.html,San Diego State,26.5,12.6,1032,491,False
+1,Darrion Trammell,https://www.sports-reference.com/cbb/players/darrion-trammell-1.html,San Diego State,27.2,9.8,1034,373,True
+2,Lamont Butler,https://www.sports-reference.com/cbb/players/lamont-butler-1.html,San Diego State,25.9,8.8,1012,345,False
+3,Jaedon Ledee,https://www.sports-reference.com/cbb/players/jaedon-ledee-1.html,San Diego State,18.1,7.9,704,309,False
+4,Keshad Johnson,https://www.sports-reference.com/cbb/players/keshad-johnson-1.html,San Diego State,22.2,7.7,865,300,False
+5,Micah Parrish,https://www.sports-reference.com/cbb/players/micah-parrish-1.html,San Diego State,21.5,7.4,837,290,True
+6,Nathan Mensah,https://www.sports-reference.com/cbb/players/nathan-mensah-1.html,San Diego State,20.8,6.0,811,234,False
+7,Adam Seiko,https://www.sports-reference.com/cbb/players/adam-seiko-1.html,San Diego State,19.9,5.8,738,215,False
+8,Aguek Arop,https://www.sports-reference.com/cbb/players/aguek-arop-1.html,San Diego State,16.1,4.5,596,167,False
+9,Miles Byrd,https://www.sports-reference.com/cbb/players/miles-byrd-1.html,San Diego State,10.0,4.3,40,17,False
+10,Demarshay Johnson,https://www.sports-reference.com/cbb/players/demarshay-johnsonjr-1.html,San Diego State,3.4,0.9,31,8,False
+11,Elijah Saunders,https://www.sports-reference.com/cbb/players/elijah-saunders-1.html,San Diego State,5.8,0.9,93,14,False
+12,Cade Alger,https://www.sports-reference.com/cbb/players/cade-alger-1.html,San Diego State,1.9,0.7,17,6,False
+13,Jared Barnett,https://www.sports-reference.com/cbb/players/jared-barnett-1.html,San Diego State,2.7,0.6,27,6,False
+14,Triston Broughton,https://www.sports-reference.com/cbb/players/triston-broughton-1.html,San Diego State,1.3,0.0,5,0,False
+15,Tyler Broughton,https://www.sports-reference.com/cbb/players/tyler-broughton-1.html,San Diego State,1.5,0.0,9,0,False
+16,Adama Sanogo,https://www.sports-reference.com/cbb/players/adama-sanogo-1.html,UConn,26.5,17.2,1035,671,False
+17,Jordan Hawkins,https://www.sports-reference.com/cbb/players/jordan-hawkins-1.html,UConn,29.4,16.2,1086,598,False
+18,Tristen Newton,https://www.sports-reference.com/cbb/players/tristen-newton-1.html,UConn,28.8,10.1,1123,392,True
+19,Alex Karaban,https://www.sports-reference.com/cbb/players/alex-karaban-1.html,UConn,28.9,9.3,1128,364,False
+20,Donovan Clingan,https://www.sports-reference.com/cbb/players/donovan-clingan-1.html,UConn,13.1,6.9,511,269,False
+21,Andre Jackson,https://www.sports-reference.com/cbb/players/andre-jackson-8.html,UConn,29.1,6.7,1048,240,False
+22,Joey Calcaterra,https://www.sports-reference.com/cbb/players/joey-calcaterra-1.html,UConn,14.5,5.8,550,219,True
+23,Nahiem Alleyne,https://www.sports-reference.com/cbb/players/nahiem-alleyne-1.html,UConn,18.0,5.2,701,201,True
+24,Hassan Diarra,https://www.sports-reference.com/cbb/players/hassan-diarra-1.html,UConn,12.6,2.1,455,76,True
+25,Samson Johnson,https://www.sports-reference.com/cbb/players/samson-johnson-1.html,UConn,3.9,0.9,47,11,False
+26,Richie Springs,https://www.sports-reference.com/cbb/players/richie-springs-1.html,UConn,2.1,0.8,39,15,False
+27,Apostolos Roumoglou,https://www.sports-reference.com/cbb/players/apostolos-roumoglou-1.html,UConn,1.5,0.3,30,6,False
+28,Andrew Hurley,https://www.sports-reference.com/cbb/players/andrew-hurley-1.html,UConn,1.3,0.1,20,2,False
+29,Yarin Hasson,https://www.sports-reference.com/cbb/players/yarin-hasson-1.html,UConn,0.9,0.0,10,0,False
+30,Emmett Hendry,https://www.sports-reference.com/cbb/players/emmett-hendry-1.html,UConn,0.8,0.0,7,0,False
+31,Andre Johnson,https://www.sports-reference.com/cbb/players/andre-johnson-jr-1.html,UConn,1.1,0.0,10,0,False
+32,Johnell Davis,https://www.sports-reference.com/cbb/players/johnell-davis-1.html,Florida Atlantic,26.0,13.8,963,509,False
+33,Alijah Martin,https://www.sports-reference.com/cbb/players/alijah-martin-1.html,Florida Atlantic,26.4,13.4,949,484,False
+34,Vladislav Goldin,https://www.sports-reference.com/cbb/players/vladislav-goldin-1.html,Florida Atlantic,20.9,10.2,817,397,False
+35,Nick Boyd,https://www.sports-reference.com/cbb/players/nicholas-boyd-1.html,Florida Atlantic,23.7,8.9,901,340,False
+36,Michael Forrest,https://www.sports-reference.com/cbb/players/michael-forrest-2.html,Florida Atlantic,20.8,8.2,769,305,False
+37,Bryan Greenlee,https://www.sports-reference.com/cbb/players/bryan-greenlee-1.html,Florida Atlantic,24.7,7.3,963,285,False
+38,Giancarlo Rosado,https://www.sports-reference.com/cbb/players/giancarlo-rosado-1.html,Florida Atlantic,16.8,5.8,657,225,False
+39,Brandon Weatherspoon,https://www.sports-reference.com/cbb/players/brandon-weatherspoon-1.html,Florida Atlantic,15.9,5.0,622,196,False
+40,Jalen Gaffney,https://www.sports-reference.com/cbb/players/jalen-gaffney-1.html,Florida Atlantic,22.4,4.3,853,165,True
+41,Tre Carroll,https://www.sports-reference.com/cbb/players/tre-carroll-1.html,Florida Atlantic,5.7,3.4,102,62,False
+42,Isaiah Gaines,https://www.sports-reference.com/cbb/players/isaiah-gaines-1.html,Florida Atlantic,5.6,1.8,140,44,True
+43,Brenen Lorient,https://www.sports-reference.com/cbb/players/brenen-lorient-1.html,Florida Atlantic,3.5,0.8,74,16,False
+44,Alejandro Ralat,https://www.sports-reference.com/cbb/players/alejandro-ralat-1.html,Florida Atlantic,3.0,0.5,42,7,False
+45,Isaiah Wong,https://www.sports-reference.com/cbb/players/isaiah-wong-1.html,Miami (FL),33.4,16.2,1237,598,False
+46,Jordan Miller,https://www.sports-reference.com/cbb/players/jordan-miller-2.html,Miami (FL),35.0,15.3,1294,566,False
+47,Nijel Pack,https://www.sports-reference.com/cbb/players/nijel-pack-1.html,Miami (FL),31.6,13.6,1106,477,True
+48,Norchad Omier,https://www.sports-reference.com/cbb/players/norchad-omier-1.html,Miami (FL),28.8,13.1,1067,486,True
+49,Wooga Poplar,https://www.sports-reference.com/cbb/players/wooga-poplar-1.html,Miami (FL),23.5,8.4,871,312,False
+50,Bensley Joseph,https://www.sports-reference.com/cbb/players/bensley-joseph-1.html,Miami (FL),20.0,5.3,739,195,False
+51,Harlond Beverly,https://www.sports-reference.com/cbb/players/harlond-beverly-1.html,Miami (FL),12.2,3.5,451,129,False
+52,Anthony Walker,https://www.sports-reference.com/cbb/players/anthony-walker-7.html,Miami (FL),10.2,2.8,378,105,False
+53,Christian Watson,https://www.sports-reference.com/cbb/players/christian-watson-1.html,Miami (FL),3.4,1.5,37,17,False
+54,AJ Casey,https://www.sports-reference.com/cbb/players/aj-casey-1.html,Miami (FL),6.4,0.9,186,27,False
+55,Favour Aire,https://www.sports-reference.com/cbb/players/favour-aire-1.html,Miami (FL),2.7,0.6,38,9,False
+56,Jakai Robinson,https://www.sports-reference.com/cbb/players/jakai-robinson-1.html,Miami (FL),2.3,0.6,16,4,False
+57,Filippos Gkogkos,https://www.sports-reference.com/cbb/players/filippos-gkogkos-1.html,Miami (FL),1.5,0.0,3,0,False
+58,Danilo Jovanovich,https://www.sports-reference.com/cbb/players/danilo-jovanovich-1.html,Miami (FL),2.0,0.0,2,0,False
+59,Drew Timme,https://www.sports-reference.com/cbb/players/drew-timme-1.html,Gonzaga,31.5,21.2,1167,786,False
+60,Julian Strawther,https://www.sports-reference.com/cbb/players/julian-strawther-1.html,Gonzaga,31.2,15.2,1154,564,False
+61,Anton Watson,https://www.sports-reference.com/cbb/players/anton-watson-1.html,Gonzaga,29.1,11.1,1078,411,False
+62,Rasir Bolton,https://www.sports-reference.com/cbb/players/rasir-bolton-1.html,Gonzaga,26.1,10.1,967,372,False
+63,Malachi Smith,https://www.sports-reference.com/cbb/players/malachi-smith-1.html,Gonzaga,20.8,8.7,769,321,True
+64,Nolan Hickman,https://www.sports-reference.com/cbb/players/nolan-hickman-1.html,Gonzaga,28.0,7.7,1035,286,False
+65,Ben Gregg,https://www.sports-reference.com/cbb/players/ben-gregg-1.html,Gonzaga,11.9,5.1,428,185,False
+66,Hunter Sallis,https://www.sports-reference.com/cbb/players/hunter-sallis-1.html,Gonzaga,16.7,4.5,619,165,False
+67,Colby Brooks,https://www.sports-reference.com/cbb/players/colby-brooks-1.html,Gonzaga,2.9,2.6,23,21,False
+68,Efton Reid,https://www.sports-reference.com/cbb/players/efton-reid-1.html,Gonzaga,4.6,2.1,116,53,True
+69,Dominick Harris,https://www.sports-reference.com/cbb/players/dominick-harris-1.html,Gonzaga,4.5,1.5,59,19,False
+70,Abe Eagle,https://www.sports-reference.com/cbb/players/abe-eagle-1.html,Gonzaga,2.2,0.8,11,4,False
+71,Ricky Council,https://www.sports-reference.com/cbb/players/ricky-counciliv-1.html,Arkansas,34.1,16.1,1229,581,True
+72,Anthony Black,https://www.sports-reference.com/cbb/players/anthony-black-1.html,Arkansas,34.9,12.8,1255,460,False
+73,Nick Smith,https://www.sports-reference.com/cbb/players/nick-smith-jr-1.html,Arkansas,25.8,12.5,438,213,False
+74,Trevon Brazile,https://www.sports-reference.com/cbb/players/trevon-brazile-1.html,Arkansas,27.0,11.8,243,106,True
+75,Davonte Davis,https://www.sports-reference.com/cbb/players/davonte-davis-1.html,Arkansas,33.1,10.9,1159,381,False
+76,Jordan Walsh,https://www.sports-reference.com/cbb/players/jordan-walsh-1.html,Arkansas,24.4,7.1,878,255,False
+77,Makhi Mitchell,https://www.sports-reference.com/cbb/players/makhi-mitchell-1.html,Arkansas,20.1,7.0,723,252,True
+78,Jalen Graham,https://www.sports-reference.com/cbb/players/jalen-graham-1.html,Arkansas,9.4,5.2,291,161,True
+79,Makhel Mitchell,https://www.sports-reference.com/cbb/players/makhel-mitchell-1.html,Arkansas,12.8,3.6,385,109,True
+80,Joseph Pinion,https://www.sports-reference.com/cbb/players/joseph-pinion-1.html,Arkansas,5.8,2.4,150,62,False
+81,Kamani Johnson,https://www.sports-reference.com/cbb/players/kamani-johnson-1.html,Arkansas,11.9,2.2,322,60,False
+82,Derrian Ford,https://www.sports-reference.com/cbb/players/derrian-ford-1.html,Arkansas,3.8,0.7,80,15,False
+83,Cade Arbogast,https://www.sports-reference.com/cbb/players/cade-arbogast-1.html,Arkansas,1.2,0.3,11,3,False
+84,Lawson Blake,https://www.sports-reference.com/cbb/players/lawson-blake-1.html,Arkansas,1.3,0.3,12,3,False
+85,Barry Dunning,https://www.sports-reference.com/cbb/players/barry-dunning-jr-1.html,Arkansas,3.1,0.3,50,5,False
+86,Jaime Jaquez,https://www.sports-reference.com/cbb/players/jaime-jaquezjr-1.html,UCLA,33.2,17.8,1229,659,False
+87,Tyger Campbell,https://www.sports-reference.com/cbb/players/tyger-campbell-1.html,UCLA,32.0,13.4,1185,496,False
+88,Jaylen Clark,https://www.sports-reference.com/cbb/players/jaylen-clark-1.html,UCLA,30.5,13.0,915,389,False
+89,Amari Bailey,https://www.sports-reference.com/cbb/players/amari-bailey-1.html,UCLA,26.9,11.2,808,335,False
+90,David Singleton,https://www.sports-reference.com/cbb/players/david-singleton-2.html,UCLA,28.2,9.0,1043,334,False
+91,Adem Bona,https://www.sports-reference.com/cbb/players/adem-bona-1.html,UCLA,22.9,7.7,757,255,False
+92,Dylan Andrews,https://www.sports-reference.com/cbb/players/dylan-andrews-1.html,UCLA,10.9,3.3,393,119,False
+93,Abramo Canka,https://www.sports-reference.com/cbb/players/abramo-canka-1.html,UCLA,5.4,1.5,118,33,False
+94,Evan Manjikian,https://www.sports-reference.com/cbb/players/evan-manjikian-1.html,UCLA,1.5,1.5,3,3,False
+95,Mac Etienne,https://www.sports-reference.com/cbb/players/mac-etienne-1.html,UCLA,6.8,1.3,218,40,False
+96,Kenneth Nwuba,https://www.sports-reference.com/cbb/players/kenneth-nwuba-1.html,UCLA,12.5,1.3,436,47,False
+97,Will McClendon,https://www.sports-reference.com/cbb/players/will-mcclendon-1.html,UCLA,9.4,1.0,253,28,False
+98,Russell Stong,https://www.sports-reference.com/cbb/players/russell-stong-1.html,UCLA,2.0,0.4,22,4,False
+99,Logan Cremonesi,https://www.sports-reference.com/cbb/players/logan-cremonesi-1.html,UCLA,2.2,0.1,20,1,False
+100,Jalen Wilson,https://www.sports-reference.com/cbb/players/jalen-wilson-1.html,Kansas,35.4,20.1,1274,723,False
+101,Gradey Dick,https://www.sports-reference.com/cbb/players/gradey-dick-1.html,Kansas,32.7,14.1,1177,507,False
+102,Kevin McCullar,https://www.sports-reference.com/cbb/players/kevin-mccullar-1.html,Kansas,30.6,10.7,1042,364,True
+103,KJ Adams,https://www.sports-reference.com/cbb/players/kj-adamsjr-1.html,Kansas,27.4,10.6,985,380,False
+104,Dajuan Harris,https://www.sports-reference.com/cbb/players/dajuan-harris-1.html,Kansas,34.2,8.9,1231,320,False
+105,Joseph Yesufu,https://www.sports-reference.com/cbb/players/joseph-yesufu-1.html,Kansas,12.7,4.1,445,142,False
+106,Ernest Udeh,https://www.sports-reference.com/cbb/players/ernest-udeh-jr-1.html,Kansas,8.3,2.6,249,77,False
+107,Bobby Pettiford,https://www.sports-reference.com/cbb/players/bob-pettiford-1.html,Kansas,12.0,2.2,385,71,False
+108,MJ Rice,https://www.sports-reference.com/cbb/players/mj-rice-1.html,Kansas,7.6,2.2,174,51,False
+109,Cam Martin,https://www.sports-reference.com/cbb/players/cam-martin-1.html,Kansas,2.5,1.8,10,7,False
+110,Zach Clemence,https://www.sports-reference.com/cbb/players/zach-clemence-1.html,Kansas,5.6,1.4,112,28,False
+111,Zuby Ejiofor,https://www.sports-reference.com/cbb/players/zuby-ejiofor-1.html,Kansas,5.1,1.2,128,31,False
+112,Michael Jankovich,https://www.sports-reference.com/cbb/players/michael-jankovich-1.html,Kansas,1.8,1.1,24,14,False
+113,Kyle Cuffe,https://www.sports-reference.com/cbb/players/kyle-cuffejr-1.html,Kansas,3.0,0.0,6,0,False
+114,Dillon Wilhite,https://www.sports-reference.com/cbb/players/dillon-wilhite-1.html,Kansas,1.4,0.0,7,0,False
+115,Logan Johnson,https://www.sports-reference.com/cbb/players/logan-johnson-2.html,Saint Mary's,34.8,14.5,1217,506,False
+116,Aidan Mahaney,https://www.sports-reference.com/cbb/players/aidan-mahaney-1.html,Saint Mary's,30.5,13.9,1067,487,False
+117,Alex Ducas,https://www.sports-reference.com/cbb/players/alex-ducas-1.html,Saint Mary's,31.3,12.5,1097,438,False
+118,Mitchell Saxen,https://www.sports-reference.com/cbb/players/mitchell-saxen-1.html,Saint Mary's,31.2,11.6,1091,407,False
+119,Augustas Marciulionis,https://www.sports-reference.com/cbb/players/augustas-marciulionis-1.html,Saint Mary's,15.5,5.9,544,205,False
+120,Kyle Bowen,https://www.sports-reference.com/cbb/players/kyle-bowen-1.html,Saint Mary's,33.5,5.3,1173,185,False
+121,Harry Wessels,https://www.sports-reference.com/cbb/players/harry-wessels-1.html,Saint Mary's,6.9,2.6,234,89,False
+122,Luke Barrett,https://www.sports-reference.com/cbb/players/luke-barrett-1.html,Saint Mary's,9.6,2.4,260,65,False
+123,Joshua Jefferson,https://www.sports-reference.com/cbb/players/joshua-jefferson-1.html,Saint Mary's,8.1,2.2,276,74,False
+124,Chris Howell,https://www.sports-reference.com/cbb/players/chris-howell-3.html,Saint Mary's,4.1,0.6,115,17,False
+125,Mike Miles,https://www.sports-reference.com/cbb/players/mike-miles-4.html,TCU,31.9,17.9,861,482,False
+126,Damion Baugh,https://www.sports-reference.com/cbb/players/damion-baugh-1.html,TCU,35.0,12.6,1015,365,False
+127,Emanuel Miller,https://www.sports-reference.com/cbb/players/emanuel-miller-1.html,TCU,29.8,12.3,954,395,False
+128,JaKobe Coles,https://www.sports-reference.com/cbb/players/jakobe-coles-1.html,TCU,16.7,8.6,585,300,False
+129,Chuck O'Bannon,https://www.sports-reference.com/cbb/players/charles-obannonjr-1.html,TCU,21.8,7.7,762,271,False
+130,Micah Peavy,https://www.sports-reference.com/cbb/players/micah-peavy-1.html,TCU,21.0,7.0,630,210,False
+131,Eddie Lampkin,https://www.sports-reference.com/cbb/players/eddie-lampkinjr-1.html,TCU,21.8,6.3,522,152,False
+132,Shahada Wells,https://www.sports-reference.com/cbb/players/shahada-wells-1.html,TCU,17.3,5.9,605,206,False
+133,Xavier Cork,https://www.sports-reference.com/cbb/players/xavier-cork-1.html,TCU,15.1,4.4,528,154,False
+134,PJ Haggerty,https://www.sports-reference.com/cbb/players/pj-haggerty-1.html,TCU,9.0,2.8,54,17,False
+135,Rondel Walker,https://www.sports-reference.com/cbb/players/rondel-walker-1.html,TCU,12.4,1.9,372,56,True
+136,Souleymane Doumbia,https://www.sports-reference.com/cbb/players/souleymane-doumbia-1.html,TCU,4.0,0.9,84,18,False
+137,Cole Despie,https://www.sports-reference.com/cbb/players/cole-despie-1.html,TCU,1.0,0.6,5,3,False
+138,Darius Ford,https://www.sports-reference.com/cbb/players/darius-ford-1.html,TCU,1.8,0.3,11,2,False
+139,Tyler Lundblade,https://www.sports-reference.com/cbb/players/tyler-lundblade-1.html,TCU,2.7,0.3,24,3,True
+140,Zach Gonsoulin,https://www.sports-reference.com/cbb/players/zach-gonsoulin-1.html,TCU,1.0,0.0,6,0,False
+141,Trey Stuart,https://www.sports-reference.com/cbb/players/trey-stuart-1.html,TCU,1.0,0.0,6,0,False
+142,Boo Buie,https://www.sports-reference.com/cbb/players/boo-buie-1.html,Northwestern,34.9,17.3,1185,588,False
+143,Chase Audige,https://www.sports-reference.com/cbb/players/chase-audige-1.html,Northwestern,34.4,14.1,1169,478,False
+144,Ty Berry,https://www.sports-reference.com/cbb/players/ty-berry-1.html,Northwestern,28.3,8.5,962,288,False
+145,Brooks Barnhizer,https://www.sports-reference.com/cbb/players/brooks-barnhizer-1.html,Northwestern,24.3,7.6,825,260,False
+146,Robbie Beran,https://www.sports-reference.com/cbb/players/robbie-beran-1.html,Northwestern,25.7,7.5,875,255,False
+147,Matthew Nicholson,https://www.sports-reference.com/cbb/players/matthew-nicholson-1.html,Northwestern,21.0,6.3,715,215,False
+148,Julian Roper II,https://www.sports-reference.com/cbb/players/julian-roperii-1.html,Northwestern,21.4,4.4,321,66,False
+149,Luke Hunger,https://www.sports-reference.com/cbb/players/luke-hunger-1.html,Northwestern,6.2,2.7,37,16,False
+150,Nick Martinelli,https://www.sports-reference.com/cbb/players/nick-martinelli-1.html,Northwestern,10.1,2.6,202,52,False
+151,Tydus Verhoeven,https://www.sports-reference.com/cbb/players/tydus-verhoeven-1.html,Northwestern,15.8,2.4,536,81,True
+152,Blake Smith,https://www.sports-reference.com/cbb/players/blake-smith-3.html,Northwestern,1.3,0.7,4,2,False
+153,Roy Dixon,https://www.sports-reference.com/cbb/players/roy-dixoniii-1.html,Northwestern,1.4,0.1,19,2,False
+154,Elijah Hawkins,https://www.sports-reference.com/cbb/players/elijah-hawkins-1.html,Howard,29.6,12.9,918,401,False
+155,Steve Settle,https://www.sports-reference.com/cbb/players/steve-settle-1.html,Howard,29.5,11.1,943,354,False
+156,Shy Odom,https://www.sports-reference.com/cbb/players/shy-odom-1.html,Howard,22.0,10.9,681,339,False
+157,Marcus Dockery,https://www.sports-reference.com/cbb/players/marcus-dockery-1.html,Howard,22.4,9.6,694,299,True
+158,Jelani Williams,https://www.sports-reference.com/cbb/players/jelani-williams-2.html,Howard,25.1,9.1,880,318,True
+159,Jordan Wood,https://www.sports-reference.com/cbb/players/jordan-wood-3.html,Howard,21.0,8.6,736,301,False
+160,Bryce Harris,https://www.sports-reference.com/cbb/players/bryce-harris-1.html,Howard,16.0,7.0,543,237,False
+161,Kobe Dickson,https://www.sports-reference.com/cbb/players/kobe-dickson-1.html,Howard,14.5,4.9,450,151,True
+162,Reece Brown,https://www.sports-reference.com/cbb/players/reece-brown-1.html,Howard,8.0,2.6,72,23,True
+163,Miles Stewart,https://www.sports-reference.com/cbb/players/miles-stewart-1.html,Howard,7.4,2.0,163,44,False
+164,Talin Lewis,https://www.sports-reference.com/cbb/players/talin-lewis-2.html,Howard,4.6,1.7,60,22,True
+165,Khalil Robinson,https://www.sports-reference.com/cbb/players/khalil-robinson-1.html,Howard,11.6,1.7,312,47,False
+166,Ose Okojie,https://www.sports-reference.com/cbb/players/ose-okojie-1.html,Howard,9.4,1.6,262,44,False
+167,Ayodele Taiwo,https://www.sports-reference.com/cbb/players/ayodele-taiwo-1.html,Howard,4.2,1.2,42,12,False
+168,Thomas Weaver,https://www.sports-reference.com/cbb/players/thomas-weaver-1.html,Howard,6.8,1.2,178,31,False
+169,Freedom Rhames,https://www.sports-reference.com/cbb/players/freedom-rhames-1.html,Howard,5.0,0.6,90,11,False
+170,Terrence Shannon,https://www.sports-reference.com/cbb/players/terrence-shannonjr-1.html,Illinois,32.1,17.2,996,534,True
+171,Matthew Mayer,https://www.sports-reference.com/cbb/players/matthew-mayer-1.html,Illinois,26.6,12.5,877,413,True
+172,Coleman Hawkins,https://www.sports-reference.com/cbb/players/coleman-hawkins-1.html,Illinois,32.5,9.9,1073,326,False
+173,Dain Dainja,https://www.sports-reference.com/cbb/players/dain-dainja-1.html,Illinois,20.5,9.5,678,315,True
+174,Jayden Epps,https://www.sports-reference.com/cbb/players/jayden-epps-1.html,Illinois,24.6,9.5,762,294,False
+175,Skyy Clark,https://www.sports-reference.com/cbb/players/skyy-clark-1.html,Illinois,24.5,7.0,318,91,False
+176,RJ Melendez,https://www.sports-reference.com/cbb/players/rj-melendez-1.html,Illinois,21.5,6.0,687,192,False
+177,Luke Goode,https://www.sports-reference.com/cbb/players/luke-goode-1.html,Illinois,13.9,4.0,139,40,False
+178,Sencire Harris,https://www.sports-reference.com/cbb/players/sencire-harris-1.html,Illinois,14.5,3.7,479,121,False
+179,Ty Rodgers,https://www.sports-reference.com/cbb/players/ty-rodgers-1.html,Illinois,17.4,3.3,574,108,False
+180,Brandon Lieb,https://www.sports-reference.com/cbb/players/brandon-lieb-1.html,Illinois,3.7,0.9,59,15,False
+181,Connor Serven,https://www.sports-reference.com/cbb/players/connor-serven-1.html,Illinois,3.8,0.2,19,1,False
+182,Paxton Warden,https://www.sports-reference.com/cbb/players/paxton-warden-1.html,Illinois,1.5,0.2,15,2,False
+183,Zacharie Perrin,https://www.sports-reference.com/cbb/players/zacharie-perrin-1.html,Illinois,2.0,0.0,2,0,False
+184,AJ Redd,https://www.sports-reference.com/cbb/players/aj-redd-1.html,Illinois,1.0,0.0,2,0,False
+185,Ace Baldwin,https://www.sports-reference.com/cbb/players/adrian-balwinjr-1.html,VCU,34.9,12.7,1046,381,False
+186,Brandon Johns,https://www.sports-reference.com/cbb/players/brandon-johnsjr-1.html,VCU,27.9,11.6,949,396,True
+187,Jalen Deloach,https://www.sports-reference.com/cbb/players/jalen-deloach-1.html,VCU,24.5,9.7,832,331,False
+188,Jamir Watkins,https://www.sports-reference.com/cbb/players/jamir-watkins-1.html,VCU,23.5,9.5,823,334,False
+189,Jayden Nunn,https://www.sports-reference.com/cbb/players/jayden-nunn-1.html,VCU,28.5,9.3,996,324,False
+190,David Shriver,https://www.sports-reference.com/cbb/players/david-shriver-1.html,VCU,19.2,6.5,672,226,True
+191,Nicholas Kern,https://www.sports-reference.com/cbb/players/nick-kern-1.html,VCU,17.6,5.3,617,185,False
+192,Zeb Jackson,https://www.sports-reference.com/cbb/players/zeb-jackson-1.html,VCU,17.4,5.2,608,182,True
+193,Josh Banks,https://www.sports-reference.com/cbb/players/josh-banks-1.html,VCU,8.5,2.8,237,79,False
+194,Toibu Lawal,https://www.sports-reference.com/cbb/players/toibu-lawal-1.html,VCU,5.5,1.3,138,33,False
+195,Christian Fermin,https://www.sports-reference.com/cbb/players/christian-fermin-1.html,VCU,3.4,0.4,47,6,False
+196,Alphonzo Billups,https://www.sports-reference.com/cbb/players/alphonzo-billups-iii-1.html,VCU,4.1,0.3,33,2,False
+197,Arnold Henderson VI,https://www.sports-reference.com/cbb/players/arnold-hendersonvi-1.html,VCU,1.0,0.3,4,1,False
+198,Walter Clayton,https://www.sports-reference.com/cbb/players/walter-claytonjr-1.html,Iona,30.3,16.8,969,538,False
+199,Daniss Jenkins,https://www.sports-reference.com/cbb/players/daniss-jenkins-1.html,Iona,33.7,15.6,1178,546,False
+200,Nelly Junior Joseph,https://www.sports-reference.com/cbb/players/nellyjunior-joseph-1.html,Iona,31.8,14.9,1112,520,False
+201,Quinn Slazinski,https://www.sports-reference.com/cbb/players/quinn-slazinski-1.html,Iona,26.6,11.3,186,79,False
+202,Berrick JeanLouis,https://www.sports-reference.com/cbb/players/berrick-jeanlouis-1.html,Iona,28.5,7.9,912,254,False
+203,Osborn Shema,https://www.sports-reference.com/cbb/players/osborn-shema-1.html,Iona,26.3,7.0,893,238,False
+204,Cruz Davis,https://www.sports-reference.com/cbb/players/cruz-davis-1.html,Iona,18.9,6.5,453,156,False
+205,Anton Brookshire,https://www.sports-reference.com/cbb/players/anton-brookshire-1.html,Iona,9.5,4.2,304,133,True
+206,Sadiku Ibine Ayo,https://www.sports-reference.com/cbb/players/sadiku-ibine-ayo-1.html,Iona,10.4,2.6,260,64,False
+207,Stephen Boateng,https://www.sports-reference.com/cbb/players/stephen-boateng-1.html,Iona,1.0,2.0,1,2,False
+208,Michael Jefferson,https://www.sports-reference.com/cbb/players/michael-jefferson-1.html,Iona,13.3,2.0,280,42,False
+209,Silas Sunday,https://www.sports-reference.com/cbb/players/silas-sunday-1.html,Iona,4.9,1.5,131,41,False
+210,Parker Weiss,https://www.sports-reference.com/cbb/players/parker-weiss-1.html,Iona,9.7,1.1,282,31,False
+211,James Carey,https://www.sports-reference.com/cbb/players/james-carey-1.html,Iona,1.9,0.7,19,7,False
+212,Keither Florence,https://www.sports-reference.com/cbb/players/keither-florence-1.html,Iona,4.1,0.6,45,7,False
+213,Desmond Cambridge,https://www.sports-reference.com/cbb/players/desmond-cambridge-2.html,Arizona State,28.7,13.6,975,464,True
+214,Marcus Bagley,https://www.sports-reference.com/cbb/players/marcus-bagley-1.html,Arizona State,28.5,12.5,57,25,False
+215,DJ Horne,https://www.sports-reference.com/cbb/players/dj-horne-1.html,Arizona State,29.7,12.5,1039,437,False
+216,Devan Cambridge,https://www.sports-reference.com/cbb/players/devan-cambridge-1.html,Arizona State,26.7,9.8,962,353,True
+217,Frankie Collins,https://www.sports-reference.com/cbb/players/frankie-collins-1.html,Arizona State,27.9,9.7,977,338,True
+218,Warren Washington,https://www.sports-reference.com/cbb/players/warren-washington-1.html,Arizona State,26.9,9.2,915,314,True
+219,Jamiya Neal,https://www.sports-reference.com/cbb/players/jamiya-neal-1.html,Arizona State,16.2,4.9,503,151,False
+220,Austin Nunez,https://www.sports-reference.com/cbb/players/austin-nunez-1.html,Arizona State,16.3,4.5,457,126,False
+221,Luther Muhammad,https://www.sports-reference.com/cbb/players/luther-muhammad-1.html,Arizona State,9.9,3.7,355,132,False
+222,Alonzo Gaffney,https://www.sports-reference.com/cbb/players/alonzo-gaffney-1.html,Arizona State,16.8,3.2,606,115,False
+223,Duke Brennan,https://www.sports-reference.com/cbb/players/duke-brennan-1.html,Arizona State,9.0,2.4,325,85,False
+224,Enoch Boakye,https://www.sports-reference.com/cbb/players/enoch-boakye-1.html,Arizona State,3.2,0.7,60,13,False
+225,Bobby Hurley,https://www.sports-reference.com/cbb/players/bobby-hurley-2.html,Arizona State,1.5,0.5,9,3,False
+226,Cade Ronzone,https://www.sports-reference.com/cbb/players/cade-ronzone-1.html,Arizona State,1.0,0.5,2,1,False
+227,Micah Burno,https://www.sports-reference.com/cbb/players/micah-burno-1.html,Arizona State,1.6,0.1,11,1,False
+228,John Olmsted,https://www.sports-reference.com/cbb/players/john-olmsted-1.html,Arizona State,1.7,0.1,17,1,False
+229,Austin Ronzone,https://www.sports-reference.com/cbb/players/austin-ronzone-1.html,Arizona State,1.0,0.0,1,0,False
+230,Jordan Williams,https://www.sports-reference.com/cbb/players/jordan-williams-4.html,Arizona State,2.0,0.0,4,0,False
+231,Rayshon Harrison,https://www.sports-reference.com/cbb/players/rayshon-harrison-1.html,Grand Canyon,32.1,17.8,1154,640,True
+232,Gabe McGlothan,https://www.sports-reference.com/cbb/players/gabe-mcglothan-1.html,Grand Canyon,28.8,12.8,1036,460,False
+233,Chance McMillian,https://www.sports-reference.com/cbb/players/chance-mcmillian-1.html,Grand Canyon,29.0,10.9,1045,392,False
+234,Jovan Blacksher,https://www.sports-reference.com/cbb/players/jovan-blacksherjr-1.html,Grand Canyon,27.6,10.7,331,128,False
+235,Noah Baumann,https://www.sports-reference.com/cbb/players/noah-baumann-1.html,Grand Canyon,21.5,7.6,773,272,True
+236,Josh Baker,https://www.sports-reference.com/cbb/players/josh-baker-1.html,Grand Canyon,21.1,5.8,654,180,True
+237,Kobe Knox,https://www.sports-reference.com/cbb/players/kobe-knox-1.html,Grand Canyon,15.6,5.3,531,179,False
+238,Walter Ellis,https://www.sports-reference.com/cbb/players/walter-ellis-1.html,Grand Canyon,14.9,5.0,493,165,False
+239,Yvan Ouedraogo,https://www.sports-reference.com/cbb/players/yvan-ouedraogo-1.html,Grand Canyon,24.3,5.0,680,141,False
+240,Isaiah Shaw,https://www.sports-reference.com/cbb/players/isaiah-shaw-1.html,Grand Canyon,9.3,4.4,65,31,False
+241,Aidan Igiehon,https://www.sports-reference.com/cbb/players/aidan-igiehon-1.html,Grand Canyon,10.0,2.6,319,82,False
+242,Logan Landers,https://www.sports-reference.com/cbb/players/logan-landers-1.html,Grand Canyon,6.8,2.0,95,28,True
+243,Isaiah Carr,https://www.sports-reference.com/cbb/players/isaiah-carr-1.html,Grand Canyon,8.3,0.9,75,8,False
+244,Tyson Degenhart,https://www.sports-reference.com/cbb/players/tyson-degenhart-1.html,Boise State,34.3,14.1,1165,481,False
+245,Max Rice,https://www.sports-reference.com/cbb/players/max-rice-1.html,Boise State,34.4,14.0,1170,476,False
+246,Marcus Shaver,https://www.sports-reference.com/cbb/players/marcus-shaver-1.html,Boise State,32.7,13.4,947,389,False
+247,Chibuzo Agbo,https://www.sports-reference.com/cbb/players/chibuzo-agbo-1.html,Boise State,29.5,11.5,1003,392,True
+248,Naje Smith,https://www.sports-reference.com/cbb/players/naje-smith-1.html,Boise State,28.4,10.2,964,348,False
+249,Lukas Milner,https://www.sports-reference.com/cbb/players/lukas-milner-1.html,Boise State,13.4,3.2,442,104,False
+250,Jace Whiting,https://www.sports-reference.com/cbb/players/jace-whiting-1.html,Boise State,15.8,3.1,520,103,False
+251,Sadraque Nganga,https://www.sports-reference.com/cbb/players/sadraque-nganga-1.html,Boise State,6.5,2.0,110,34,False
+252,Pavle Kuzmanovic,https://www.sports-reference.com/cbb/players/pavle-kuzmanovic-1.html,Boise State,8.0,1.9,185,44,False
+253,Mohamed Sylla,https://www.sports-reference.com/cbb/players/mouhamed-sylla-1.html,Boise State,5.7,1.8,103,33,True
+254,Kobe Young,https://www.sports-reference.com/cbb/players/kobe-young-1.html,Boise State,8.3,1.4,224,38,False
+255,Burke Smith,https://www.sports-reference.com/cbb/players/burke-smith-1.html,Boise State,3.4,0.9,34,9,False
+256,Sam Winter,https://www.sports-reference.com/cbb/players/sam-winter-2.html,Boise State,2.3,0.0,7,0,False
+257,Drew Pember,https://www.sports-reference.com/cbb/players/drew-pember-1.html,UNC Asheville,33.5,20.9,1171,733,False
+258,Tajion Jones,https://www.sports-reference.com/cbb/players/tajion-jones-1.html,UNC Asheville,35.0,14.9,1224,521,False
+259,Fletcher Abee,https://www.sports-reference.com/cbb/players/fletcher-abee-1.html,UNC Asheville,30.1,8.0,964,255,False
+260,Nick McMullen,https://www.sports-reference.com/cbb/players/nicholas-mcmullen-1.html,UNC Asheville,23.3,8.0,817,281,True
+261,Jamon Battle,https://www.sports-reference.com/cbb/players/jamon-battle-1.html,UNC Asheville,20.7,6.4,725,224,False
+262,Alex Caldwell,https://www.sports-reference.com/cbb/players/alex-caldwell-1.html,UNC Asheville,15.6,5.8,469,173,True
+263,Caleb Burgess,https://www.sports-reference.com/cbb/players/caleb-burgess-1.html,UNC Asheville,23.6,5.1,825,177,True
+264,Trent Stephney,https://www.sports-reference.com/cbb/players/trent-stephney-1.html,UNC Asheville,15.6,3.6,532,123,False
+265,Dean Gabrelcik,https://www.sports-reference.com/cbb/players/dean-gabrelcik-1.html,UNC Asheville,6.6,3.1,73,34,False
+266,Silas Mason,https://www.sports-reference.com/cbb/players/silas-mason-1.html,UNC Asheville,6.4,2.3,77,27,False
+267,Amadou Sylla,https://www.sports-reference.com/cbb/players/amadou-sylla-1.html,UNC Asheville,7.4,1.9,170,44,True
+268,Ian Clinkscales-King,https://www.sports-reference.com/cbb/players/ian-clinkscales-king-1.html,UNC Asheville,3.5,1.0,7,2,False
+269,Davion Cunningham,https://www.sports-reference.com/cbb/players/davion-cunningham-1.html,UNC Asheville,6.3,1.0,19,3,False
+270,Zaharee Maddox,https://www.sports-reference.com/cbb/players/zaharee-maddox-1.html,UNC Asheville,3.0,1.0,12,4,False
+271,Justin Stephens,https://www.sports-reference.com/cbb/players/justin-stephens-2.html,UNC Asheville,3.8,0.8,15,3,True
+272,Ryan Kalkbrenner,https://www.sports-reference.com/cbb/players/ryan-kalkbrenner-1.html,Creighton,32.2,15.9,1096,541,False
+273,Trey Alexander,https://www.sports-reference.com/cbb/players/trey-alexander-1.html,Creighton,32.1,13.6,1189,502,False
+274,Baylor Scheierman,https://www.sports-reference.com/cbb/players/baylor-scheierman-1.html,Creighton,32.7,12.8,1211,472,True
+275,Ryan Nembhard,https://www.sports-reference.com/cbb/players/ryan-nembhard-1.html,Creighton,34.0,12.1,1258,449,False
+276,Arthur Kaluma,https://www.sports-reference.com/cbb/players/arthur-kaluma-1.html,Creighton,29.4,11.8,1087,436,False
+277,Fredrick King,https://www.sports-reference.com/cbb/players/fredrick-king-1.html,Creighton,8.4,3.4,311,126,False
+278,Francisco Farabello,https://www.sports-reference.com/cbb/players/francisco-farabello-1.html,Creighton,15.7,3.0,534,102,True
+279,Mason Miller,https://www.sports-reference.com/cbb/players/mason-miller-1.html,Creighton,9.0,2.3,324,81,False
+280,Shereef Mitchell,https://www.sports-reference.com/cbb/players/shereef-mitchell-1.html,Creighton,7.3,1.8,264,63,False
+281,Ben Shtolzberg,https://www.sports-reference.com/cbb/players/ben-shtolzberg-1.html,Creighton,5.8,1.5,98,25,False
+282,Zander Yates,https://www.sports-reference.com/cbb/players/zander-yates-1.html,Creighton,3.3,1.5,36,17,False
+283,Sami Osmani,https://www.sports-reference.com/cbb/players/sami-osmani-1.html,Creighton,2.5,0.8,27,9,False
+284,Evan Young,https://www.sports-reference.com/cbb/players/evan-young-1.html,Creighton,1.8,0.6,16,5,False
+285,Brandon Miller,https://www.sports-reference.com/cbb/players/brandon-miller-3.html,Alabama,32.6,18.8,1208,696,False
+286,Mark Sears,https://www.sports-reference.com/cbb/players/mark-sears-1.html,Alabama,29.8,12.5,1103,463,True
+287,Noah Clowney,https://www.sports-reference.com/cbb/players/noah-clowney-1.html,Alabama,25.4,9.8,915,352,False
+288,Jahvon Quinerly,https://www.sports-reference.com/cbb/players/jahvon-quinerly-1.html,Alabama,21.2,8.7,743,305,False
+289,Charles Bediako,https://www.sports-reference.com/cbb/players/charles-bediako-1.html,Alabama,20.7,6.4,766,238,False
+290,Jaden Bradley,https://www.sports-reference.com/cbb/players/jaden-bradley-1.html,Alabama,19.8,6.4,733,235,False
+291,Rylan Griffen,https://www.sports-reference.com/cbb/players/rylan-griffen-1.html,Alabama,15.7,5.9,582,218,False
+292,Nimari Burnett,https://www.sports-reference.com/cbb/players/nimari-burnett-1.html,Alabama,14.7,5.6,396,151,False
+293,Noah Gurley,https://www.sports-reference.com/cbb/players/noah-gurley-1.html,Alabama,15.4,4.9,523,167,False
+294,Nick Pringle,https://www.sports-reference.com/cbb/players/nick-pringle-2.html,Alabama,8.0,3.5,289,126,False
+295,Dominick Welch,https://www.sports-reference.com/cbb/players/dominick-welch-1.html,Alabama,9.1,2.0,181,40,True
+296,Darius Miles,https://www.sports-reference.com/cbb/players/darius-miles-1.html,Alabama,6.5,1.5,39,9,False
+297,Delaney Heard,https://www.sports-reference.com/cbb/players/delaney-heard-1.html,Alabama,1.7,1.2,22,15,False
+298,Adam Cottrell,https://www.sports-reference.com/cbb/players/adam-cottrell-1.html,Alabama,1.6,0.6,23,8,False
+299,Jaden Quinerly,https://www.sports-reference.com/cbb/players/jaden-quinerly-1.html,Alabama,1.7,0.3,22,4,False
+300,Max Scharnowski,https://www.sports-reference.com/cbb/players/max-scharnowski-1.html,Alabama,1.7,0.0,5,0,False
+301,Tosan Evbuomwan,https://www.sports-reference.com/cbb/players/tosan-evbuomwan-1.html,Princeton,31.3,15.1,1003,482,False
+302,Ryan Langborg,https://www.sports-reference.com/cbb/players/ryan-langborg-1.html,Princeton,31.3,12.7,1003,407,False
+303,Matt Allocco,https://www.sports-reference.com/cbb/players/matt-allocco-1.html,Princeton,33.0,10.7,1055,343,False
+304,Caden Pierce,https://www.sports-reference.com/cbb/players/caden-pierce-1.html,Princeton,29.9,8.2,956,261,False
+305,Keeshawn Kellman,https://www.sports-reference.com/cbb/players/keeshawn-kellman-1.html,Princeton,16.9,7.9,542,253,False
+306,Blake Peters,https://www.sports-reference.com/cbb/players/blake-peters-1.html,Princeton,13.8,6.0,441,191,False
+307,Deven Austin,https://www.sports-reference.com/cbb/players/deven-austin-1.html,Princeton,15.3,5.4,336,119,False
+308,Xaivian Lee,https://www.sports-reference.com/cbb/players/xaivian-lee-1.html,Princeton,13.4,4.8,428,152,False
+309,Zach Martini,https://www.sports-reference.com/cbb/players/zach-martini-1.html,Princeton,14.3,4.0,343,96,False
+310,Jack Scott,https://www.sports-reference.com/cbb/players/jack-scott-1.html,Princeton,6.7,2.7,120,48,False
+311,Jacob O'Connell,https://www.sports-reference.com/cbb/players/jacob-oconnell-1.html,Princeton,4.3,1.6,81,30,False
+312,Konrad Kiszka,https://www.sports-reference.com/cbb/players/konrad-kiszka-1.html,Princeton,5.4,1.3,87,20,False
+313,Vernon Collins,https://www.sports-reference.com/cbb/players/vernon-collins-1.html,Princeton,4.7,1.0,28,6,False
+314,Philip Byriel,https://www.sports-reference.com/cbb/players/philip-byriel-1.html,Princeton,3.2,0.5,35,6,False
+315,Leyi Adebayo,https://www.sports-reference.com/cbb/players/leyi-adebayo-1.html,Princeton,2.7,0.3,16,2,False
+316,Jahmir Young,https://www.sports-reference.com/cbb/players/jahmir-young-1.html,Maryland,31.3,15.8,1095,553,True
+317,Hakim Hart,https://www.sports-reference.com/cbb/players/hakim-hart-1.html,Maryland,32.8,11.4,1148,399,False
+318,Julian Reese,https://www.sports-reference.com/cbb/players/julian-reese-1.html,Maryland,27.0,11.4,919,389,False
+319,Donta Scott,https://www.sports-reference.com/cbb/players/donta-scott-1.html,Maryland,31.3,11.3,1097,394,False
+320,Donald Carey,https://www.sports-reference.com/cbb/players/donald-carey-1.html,Maryland,24.9,7.4,870,259,True
+321,Ian Martinez,https://www.sports-reference.com/cbb/players/ian-martinez-2.html,Maryland,17.9,5.7,626,198,False
+322,Patrick Emilien,https://www.sports-reference.com/cbb/players/patrick-emilien-1.html,Maryland,17.7,2.8,565,91,True
+323,Jahari Long,https://www.sports-reference.com/cbb/players/jahari-long-1.html,Maryland,9.9,2.1,345,75,True
+324,Noah Batchelor,https://www.sports-reference.com/cbb/players/noah-batchelor-1.html,Maryland,6.7,1.6,148,35,False
+325,Ike Cornish,https://www.sports-reference.com/cbb/players/ike-cornish-1.html,Maryland,4.8,1.4,101,30,False
+326,Caelum Swanton-Rodger,https://www.sports-reference.com/cbb/players/caelum-swanton-rodger-1.html,Maryland,3.8,0.8,79,17,False
+327,Carson Dick,https://www.sports-reference.com/cbb/players/carson-dick-1.html,Maryland,1.0,0.0,2,0,False
+328,Pavlo Dziuba,https://www.sports-reference.com/cbb/players/pavlo-dziuba-1.html,Maryland,2.2,0.0,13,0,False
+329,Brett Karkus,https://www.sports-reference.com/cbb/players/brett-karkus-1.html,Maryland,1.0,0.0,3,0,False
+330,Arnaud Revaz,https://www.sports-reference.com/cbb/players/arnaud-revaz-1.html,Maryland,2.1,0.0,15,0,False
+331,Mike Bothwell,https://www.sports-reference.com/cbb/players/mike-bothwell-1.html,Furman,33.5,17.7,1207,637,False
+332,Jalen Slawson,https://www.sports-reference.com/cbb/players/jalen-slawson-1.html,Furman,30.7,15.6,1104,561,False
+333,JP Pegues,https://www.sports-reference.com/cbb/players/jp-pegues-1.html,Furman,31.7,11.9,1142,430,False
+334,Marcus Foster,https://www.sports-reference.com/cbb/players/marcus-foster-2.html,Furman,29.3,10.6,1055,380,False
+335,Garrett Hien,https://www.sports-reference.com/cbb/players/garrett-hien-1.html,Furman,21.9,7.9,743,267,False
+336,Alex Williams,https://www.sports-reference.com/cbb/players/alex-williams-3.html,Furman,15.1,6.3,439,184,False
+337,Ben VanderWal,https://www.sports-reference.com/cbb/players/ben-vanderwal-1.html,Furman,16.3,4.8,585,173,False
+338,Tyrese Hughey,https://www.sports-reference.com/cbb/players/tyrese-hughey-1.html,Furman,11.1,4.7,390,166,False
+339,Carter Whitt,https://www.sports-reference.com/cbb/players/carter-whitt-1.html,Furman,12.3,2.5,358,73,True
+340,Joe Anderson,https://www.sports-reference.com/cbb/players/joe-anderson-4.html,Furman,10.7,1.6,204,31,False
+341,Jonny Lawrence,https://www.sports-reference.com/cbb/players/jonny-lawrence-1.html,Furman,5.2,1.4,26,7,False
+342,Rett Lister,https://www.sports-reference.com/cbb/players/rett-lister-1.html,Furman,1.3,0.2,17,2,False
+343,Blake Harris,https://www.sports-reference.com/cbb/players/blake-harris-2.html,Furman,1.0,0.0,4,0,False
+344,Adam Flagler,https://www.sports-reference.com/cbb/players/adam-flagler-1.html,Baylor,33.8,15.6,1081,499,False
+345,Keyonte George,https://www.sports-reference.com/cbb/players/keyonte-george-1.html,Baylor,28.6,15.3,944,506,False
+346,LJ Cryer,https://www.sports-reference.com/cbb/players/lj-cryer-1.html,Baylor,32.3,15.0,1002,465,False
+347,Jalen Bridges,https://www.sports-reference.com/cbb/players/jalen-bridges-1.html,Baylor,27.3,10.3,927,349,True
+348,Langston Love,https://www.sports-reference.com/cbb/players/langston-love-1.html,Baylor,16.7,6.3,501,190,False
+349,Jonathan Tchamwa Tchatchoua,https://www.sports-reference.com/cbb/players/jonathan-tchamwatchatchoua-1.html,Baylor,18.5,5.1,222,61,False
+350,Flo Thamba,https://www.sports-reference.com/cbb/players/flo-thamba-1.html,Baylor,21.2,5.0,722,170,False
+351,Dale Bonner,https://www.sports-reference.com/cbb/players/dale-bonner-1.html,Baylor,19.4,4.7,563,136,False
+352,Josh Ojianwuna,https://www.sports-reference.com/cbb/players/josh-ojianwuna-1.html,Baylor,13.1,4.2,381,121,False
+353,Caleb Lohner,https://www.sports-reference.com/cbb/players/caleb-lohner-1.html,Baylor,12.2,3.2,416,109,True
+354,Zach Loveday,https://www.sports-reference.com/cbb/players/zach-loveday-1.html,Baylor,3.0,0.9,39,12,False
+355,Jordan Turner,https://www.sports-reference.com/cbb/players/jordan-turner-2.html,Baylor,2.1,0.1,15,1,False
+356,Austin Sacks,https://www.sports-reference.com/cbb/players/austin-sacks-1.html,Baylor,1.0,0.0,1,0,False
+357,Jake Younkin,https://www.sports-reference.com/cbb/players/jake-younkin-1.html,Baylor,1.4,0.0,11,0,False
+358,Kobe Brown,https://www.sports-reference.com/cbb/players/kobe-brown-1.html,Missouri,29.6,15.8,1005,538,False
+359,D'Moi Hodge,https://www.sports-reference.com/cbb/players/dmoi-hodge-1.html,Missouri,29.1,14.7,1020,514,True
+360,DeAndre Gholston,https://www.sports-reference.com/cbb/players/deandre-gholston-1.html,Missouri,23.2,10.9,813,382,True
+361,Noah Carter,https://www.sports-reference.com/cbb/players/noah-carter-1.html,Missouri,21.9,9.6,746,327,True
+362,Isiaih Mosley,https://www.sports-reference.com/cbb/players/isiaih-mosley-1.html,Missouri,19.9,9.6,278,135,True
+363,Nick Honor,https://www.sports-reference.com/cbb/players/nick-honor-1.html,Missouri,29.9,7.9,1046,278,True
+364,Sean East,https://www.sports-reference.com/cbb/players/sean-east-1.html,Missouri,23.3,7.3,814,256,True
+365,Tre Gomillion,https://www.sports-reference.com/cbb/players/tre-gomillion-1.html,Missouri,17.0,4.8,409,116,True
+366,Mohamed Diarra,https://www.sports-reference.com/cbb/players/mohamed-diarra-1.html,Missouri,11.7,3.2,293,80,True
+367,Aidan Shaw,https://www.sports-reference.com/cbb/players/aidan-shaw-1.html,Missouri,10.6,2.7,338,85,False
+368,Ronnie Degray,https://www.sports-reference.com/cbb/players/ronnie-degrayiii-1.html,Missouri,9.8,2.1,166,35,False
+369,Kaleb Brown,https://www.sports-reference.com/cbb/players/kaleb-brown-1.html,Missouri,7.7,0.8,85,9,False
+370,Ben Sternberg,https://www.sports-reference.com/cbb/players/ben-sternberg-1.html,Missouri,1.0,0.6,10,6,True
+371,Mabor Majak,https://www.sports-reference.com/cbb/players/mabor-majak-1.html,Missouri,2.5,0.1,20,1,True
+372,Jackson Francois,https://www.sports-reference.com/cbb/players/jackson-francois-1.html,Missouri,0.8,0.0,6,0,False
+373,Trey Tennyson,https://www.sports-reference.com/cbb/players/trey-tennyson-1.html,Texas A&M-Corpus Christi,28.5,15.7,998,551,False
+374,Isaac Mushila,https://www.sports-reference.com/cbb/players/isaac-mushila-1.html,Texas A&M-Corpus Christi,27.1,14.5,949,507,False
+375,Terrion Murdix,https://www.sports-reference.com/cbb/players/terrion-murdix-1.html,Texas A&M-Corpus Christi,27.7,13.4,858,414,False
+376,Ross Williams,https://www.sports-reference.com/cbb/players/ross-williams-1.html,Texas A&M-Corpus Christi,22.5,9.9,766,335,True
+377,Jalen Jackson,https://www.sports-reference.com/cbb/players/jalen-jackson-3.html,Texas A&M-Corpus Christi,25.8,7.4,904,258,False
+378,De'Lazarus Keys,https://www.sports-reference.com/cbb/players/delazarus-keys-1.html,Texas A&M-Corpus Christi,20.8,6.2,685,203,False
+379,Owen Dease,https://www.sports-reference.com/cbb/players/owen-dease-1.html,Texas A&M-Corpus Christi,14.3,5.2,330,120,False
+380,Jordan Roberts,https://www.sports-reference.com/cbb/players/jordan-roberts-4.html,Texas A&M-Corpus Christi,8.4,4.9,159,94,False
+381,Simeon Fryer,https://www.sports-reference.com/cbb/players/simeon-fryer-1.html,Texas A&M-Corpus Christi,22.8,4.2,637,117,False
+382,Tyrese Nickelson,https://www.sports-reference.com/cbb/players/tyrese-nickelson-1.html,Texas A&M-Corpus Christi,11.9,2.7,285,65,False
+383,Jourdyn Grandberry,https://www.sports-reference.com/cbb/players/jourdyn-grandberry-1.html,Texas A&M-Corpus Christi,7.4,2.6,207,74,False
+384,Jasman Sangha,https://www.sports-reference.com/cbb/players/jasman-sangha-1.html,Texas A&M-Corpus Christi,10.4,2.6,145,36,False
+385,Connor Kern,https://www.sports-reference.com/cbb/players/connor-kern-2.html,Texas A&M-Corpus Christi,3.7,1.1,63,18,True
+386,Jaren Marshall,https://www.sports-reference.com/cbb/players/jaren-marshall-1.html,Texas A&M-Corpus Christi,3.9,0.7,63,11,False
+387,Aaron Harden,https://www.sports-reference.com/cbb/players/aaron-harden-1.html,Texas A&M-Corpus Christi,1.0,0.0,1,0,False
+388,Erik Stevenson,https://www.sports-reference.com/cbb/players/erik-stevenson-1.html,West Virginia,26.0,15.4,885,522,True
+389,Kedrian Johnson,https://www.sports-reference.com/cbb/players/kedrian-johnson-1.html,West Virginia,29.0,11.7,958,386,False
+390,Tre Mitchell,https://www.sports-reference.com/cbb/players/tre-mitchell-1.html,West Virginia,30.0,11.7,1020,397,True
+391,Emmitt Matthews,https://www.sports-reference.com/cbb/players/emmitt-matthewsjr-1.html,West Virginia,29.6,10.2,946,325,True
+392,Joe Toussaint,https://www.sports-reference.com/cbb/players/joe-toussaint-1.html,West Virginia,21.7,9.4,739,321,True
+393,Jimmy Bell,https://www.sports-reference.com/cbb/players/jimmy-belljr-1.html,West Virginia,18.5,4.8,630,162,True
+394,Seth Wilson,https://www.sports-reference.com/cbb/players/seth-wilson-1.html,West Virginia,13.2,4.2,448,142,False
+395,Mohamed Wague,https://www.sports-reference.com/cbb/players/mohamed-wague-1.html,West Virginia,10.6,4.1,297,116,True
+396,James Okonkwo,https://www.sports-reference.com/cbb/players/james-okonkwo-1.html,West Virginia,11.0,2.5,340,77,False
+397,Kobe Johnson,https://www.sports-reference.com/cbb/players/kobe-johnson-2.html,West Virginia,10.3,2.0,300,59,False
+398,Josiah Harris,https://www.sports-reference.com/cbb/players/josiah-harris-1.html,West Virginia,6.5,1.8,110,30,False
+399,Jamel King,https://www.sports-reference.com/cbb/players/jamel-king-1.html,West Virginia,3.6,1.5,29,12,False
+400,Pat Suemnick,https://www.sports-reference.com/cbb/players/pat-suemnick-1.html,West Virginia,5.4,1.4,114,29,False
+401,Josiah Davis,https://www.sports-reference.com/cbb/players/josiah-davis-1.html,West Virginia,1.5,0.8,9,5,False
+402,Dalton Bolon,https://www.sports-reference.com/cbb/players/dalton-bolon-1.html,College of Charleston,23.2,12.2,813,428,False
+403,Ante Brzovic,https://www.sports-reference.com/cbb/players/ante-brzovic-1.html,College of Charleston,19.1,11.6,668,407,True
+404,Reyne Smith,https://www.sports-reference.com/cbb/players/reyne-smith-1.html,College of Charleston,24.6,10.8,861,377,False
+405,Ryan Larson,https://www.sports-reference.com/cbb/players/ryan-larson-1.html,College of Charleston,28.1,10.6,984,371,True
+406,Pat Robinson,https://www.sports-reference.com/cbb/players/pat-robinson-iii-1.html,College of Charleston,19.2,10.3,671,362,True
+407,Ben Burnham,https://www.sports-reference.com/cbb/players/ben-burnham-1.html,College of Charleston,16.8,8.8,588,309,False
+408,Raekwon Horton,https://www.sports-reference.com/cbb/players/raekwon-horton-1.html,College of Charleston,20.4,5.4,692,185,False
+409,Babacar Faye,https://www.sports-reference.com/cbb/players/babacar-faye-1.html,College of Charleston,15.3,4.7,519,159,False
+410,Jaylon Scott,https://www.sports-reference.com/cbb/players/jaylon-scott-1.html,College of Charleston,27.3,4.3,954,149,True
+411,Adam Comer,https://www.sports-reference.com/cbb/players/adam-comer-1.html,College of Charleston,1.5,1.1,17,12,False
+412,Charles Lampten,https://www.sports-reference.com/cbb/players/charles-lampten-1.html,College of Charleston,7.1,0.8,220,26,False
+413,Frankie Idlett,https://www.sports-reference.com/cbb/players/frankie-idlett-1.html,College of Charleston,1.4,0.6,11,5,False
+414,Spencer Legg,https://www.sports-reference.com/cbb/players/spencer-legg-1.html,College of Charleston,1.6,0.5,16,5,False
+415,Jack Miller,https://www.sports-reference.com/cbb/players/jack-miller-5.html,College of Charleston,1.7,0.5,20,6,False
+416,Dylan Ritter,https://www.sports-reference.com/cbb/players/dylan-ritter-1.html,College of Charleston,1.7,0.3,20,3,False
+417,Armaan Franklin,https://www.sports-reference.com/cbb/players/armaan-franklin-1.html,Virginia,29.5,12.4,972,409,False
+418,Jayden Gardner,https://www.sports-reference.com/cbb/players/jayden-gardner-1.html,Virginia,26.3,12.0,867,396,False
+419,Kihei Clark,https://www.sports-reference.com/cbb/players/kihei-clark-1.html,Virginia,33.2,10.7,1094,354,False
+420,Reece Beekman,https://www.sports-reference.com/cbb/players/reece-beekman-1.html,Virginia,32.6,9.5,1044,304,False
+421,Ben Vander Plas,https://www.sports-reference.com/cbb/players/ben-vanderplas-1.html,Virginia,24.8,7.4,719,215,True
+422,Isaac McKneely,https://www.sports-reference.com/cbb/players/isaac-mckneely-1.html,Virginia,21.5,6.7,708,222,False
+423,Kadin Shedrick,https://www.sports-reference.com/cbb/players/kadin-shedrick-1.html,Virginia,17.5,6.2,526,187,False
+424,Ryan Dunn,https://www.sports-reference.com/cbb/players/ryan-dunn-1.html,Virginia,12.9,2.6,401,82,False
+425,Francisco Caffaro,https://www.sports-reference.com/cbb/players/francisco-caffaro-1.html,Virginia,8.2,2.0,163,40,False
+426,Taine Murray,https://www.sports-reference.com/cbb/players/taine-murray-1.html,Virginia,7.2,1.4,93,18,False
+427,Chase Coleman,https://www.sports-reference.com/cbb/players/chase-coleman-1.html,Virginia,3.7,1.0,26,7,False
+428,Tristan How,https://www.sports-reference.com/cbb/players/tristan-how-1.html,Virginia,2.5,0.8,10,3,False
+429,Terquavion Smith,https://www.sports-reference.com/cbb/players/terquavion-smith-1.html,NC State,33.6,17.9,1142,610,False
+430,Jarkel Joiner,https://www.sports-reference.com/cbb/players/jarkel-joiner-1.html,NC State,35.9,17.0,1219,578,True
+431,D.J. Burns,https://www.sports-reference.com/cbb/players/dj-burns-1.html,NC State,22.9,12.5,778,424,True
+432,Casey Morsell,https://www.sports-reference.com/cbb/players/casey-morsell-1.html,NC State,35.0,11.8,1189,401,False
+433,Jack Clark,https://www.sports-reference.com/cbb/players/jack-clarke-1.html,NC State,26.9,9.0,618,207,True
+434,Dusan Mahorcic,https://www.sports-reference.com/cbb/players/dusan-mahorcic-1.html,NC State,20.9,8.7,209,87,True
+435,Ernest Ross,https://www.sports-reference.com/cbb/players/ernest-ross-1.html,NC State,11.4,3.5,386,118,False
+436,LJ Thomas,https://www.sports-reference.com/cbb/players/lj-thomas-1.html,NC State,9.5,2.4,284,73,False
+437,Greg Gantt,https://www.sports-reference.com/cbb/players/greg-gantt-2.html,NC State,17.5,2.0,386,43,False
+438,Ebenezer Dowuona,https://www.sports-reference.com/cbb/players/ebenezer-dowuona-1.html,NC State,10.9,1.7,327,51,False
+439,Breon Pass,https://www.sports-reference.com/cbb/players/breon-pass-1.html,NC State,7.6,1.5,227,44,False
+440,Jordan Snell,https://www.sports-reference.com/cbb/players/jordan-snell-1.html,NC State,1.5,0.4,15,4,False
+441,Chase Graham,https://www.sports-reference.com/cbb/players/chase-graham-1.html,NC State,1.5,0.3,17,3,False
+442,KJ Keatts,https://www.sports-reference.com/cbb/players/kj-keatts-1.html,NC State,1.4,0.0,13,0,False
+443,Alex Nunnally,https://www.sports-reference.com/cbb/players/alex-nunnally-1.html,NC State,1.5,0.0,15,0,False
+444,Ajay Mitchell,https://www.sports-reference.com/cbb/players/ajay-mitchell-1.html,UCSB,33.8,16.3,1183,571,False
+445,Miles Norris,https://www.sports-reference.com/cbb/players/miles-norris-1.html,UCSB,33.5,14.1,1174,494,False
+446,Josh Pierre-Louis,https://www.sports-reference.com/cbb/players/josh-pierre-louis-1.html,UCSB,27.3,9.5,872,305,False
+447,Andre Kelly,https://www.sports-reference.com/cbb/players/andre-kelly-1.html,UCSB,27.7,9.3,943,316,True
+448,Cole Anderson,https://www.sports-reference.com/cbb/players/cole-anderson-1.html,UCSB,21.1,7.3,740,257,False
+449,Calvin Wishart,https://www.sports-reference.com/cbb/players/calvin-wishart-1.html,UCSB,26.3,7.2,921,253,False
+450,Ajare Sanni,https://www.sports-reference.com/cbb/players/ajare-sanni-1.html,UCSB,17.3,6.2,432,156,False
+451,Zach Harvey,https://www.sports-reference.com/cbb/players/zach-harvey-1.html,UCSB,8.0,2.2,40,11,False
+452,Jakov Kukic,https://www.sports-reference.com/cbb/players/jakov-kukic-1.html,UCSB,7.6,2.2,121,35,False
+453,Koat Keat Tong,https://www.sports-reference.com/cbb/players/koat-keat-tong-1.html,UCSB,13.0,1.9,298,44,False
+454,Matija Belic,https://www.sports-reference.com/cbb/players/matija-belic-1.html,UCSB,6.8,1.5,157,35,False
+455,Evans Kipruto,https://www.sports-reference.com/cbb/players/evans-kipruto-1.html,UCSB,5.5,1.5,104,28,True
+456,David Pickles,https://www.sports-reference.com/cbb/players/david-pickles-1.html,UCSB,1.7,1.0,5,3,False
+457,Gage Gomez,https://www.sports-reference.com/cbb/players/gage-gomez-1.html,UCSB,1.9,0.2,19,2,False
+458,Ariel Bland,https://www.sports-reference.com/cbb/players/ariel-bland-1.html,UCSB,3.5,0.0,7,0,False
+459,Henry Hartwell,https://www.sports-reference.com/cbb/players/henry-hartwell-1.html,UCSB,2.0,0.0,4,0,False
+460,Max Sheldon,https://www.sports-reference.com/cbb/players/max-sheldon-1.html,UCSB,1.7,0.0,5,0,False
+461,Steven Ashworth,https://www.sports-reference.com/cbb/players/steven-ashworth-1.html,Utah State,33.2,16.2,1162,567,False
+462,Taylor Funk,https://www.sports-reference.com/cbb/players/taylor-funk-1.html,Utah State,30.6,13.4,1039,456,True
+463,Daniel Akin,https://www.sports-reference.com/cbb/players/daniel-akin-1.html,Utah State,26.9,12.0,941,419,True
+464,Max Shulga,https://www.sports-reference.com/cbb/players/max-shulga-1.html,Utah State,31.1,11.9,1088,417,False
+465,Sean Bairstow,https://www.sports-reference.com/cbb/players/sean-bairstow-1.html,Utah State,31.6,10.3,1106,362,False
+466,Trevin Dorius,https://www.sports-reference.com/cbb/players/trevin-dorius-1.html,Utah State,13.9,5.8,488,202,False
+467,Zee Hamoda,https://www.sports-reference.com/cbb/players/zee-hamoda-1.html,Utah State,13.5,4.2,458,143,False
+468,Rylan Jones,https://www.sports-reference.com/cbb/players/rylan-jones-1.html,Utah State,19.7,4.2,256,55,False
+469,R.J. Eytle-Rock,https://www.sports-reference.com/cbb/players/rj-eytle-rock-1.html,Utah State,12.5,3.2,424,108,False
+470,Szymon Zapala,https://www.sports-reference.com/cbb/players/szymon-zapala-1.html,Utah State,4.0,0.6,44,7,False
+471,Landon Brenchley,https://www.sports-reference.com/cbb/players/landon-brenchley-1.html,Utah State,1.3,0.0,8,0,False
+472,Conner Gillis,https://www.sports-reference.com/cbb/players/conner-gillis-1.html,Utah State,1.3,0.0,8,0,False
+473,Connor Odom,https://www.sports-reference.com/cbb/players/connor-odom-1.html,Utah State,0.8,0.0,3,0,False
+474,Azuolas Tubelis,https://www.sports-reference.com/cbb/players/azuolas-tubelis-1.html,Arizona,30.1,19.8,1054,694,False
+475,Oumar Ballo,https://www.sports-reference.com/cbb/players/oumar-ballo-1.html,Arizona,27.6,14.2,966,496,False
+476,Courtney Ramey,https://www.sports-reference.com/cbb/players/courtney-ramey-1.html,Arizona,31.1,10.5,994,337,True
+477,Kerr Kriisa,https://www.sports-reference.com/cbb/players/kerr-kriisa-1.html,Arizona,31.1,9.9,1090,347,False
+478,Pelle Larsson,https://www.sports-reference.com/cbb/players/pelle-larsson-1.html,Arizona,27.4,9.9,960,348,False
+479,Cedric Henderson,https://www.sports-reference.com/cbb/players/cedric-hendersonjr-1.html,Arizona,23.1,8.1,809,283,True
+480,Kylan Boswell,https://www.sports-reference.com/cbb/players/kylan-boswell-1.html,Arizona,15.2,4.6,532,161,False
+481,Adama Bal,https://www.sports-reference.com/cbb/players/adama-bal-1.html,Arizona,8.2,2.5,214,64,False
+482,Henri Veesaar,https://www.sports-reference.com/cbb/players/henri-veesaar-1.html,Arizona,7.1,2.4,206,70,False
+483,Luc Krystkowiak,https://www.sports-reference.com/cbb/players/luc-krystkowiak-1.html,Arizona,2.0,2.0,4,4,False
+484,Dylan Anderson,https://www.sports-reference.com/cbb/players/dylan-anderson-1.html,Arizona,3.6,1.4,54,21,False
+485,Matthew Lang,https://www.sports-reference.com/cbb/players/matthew-lang-1.html,Arizona,1.9,1.4,15,11,True
+486,Filip Borvicanin,https://www.sports-reference.com/cbb/players/filip-borvicanin-1.html,Arizona,3.9,1.3,54,18,False
+487,Will Menaugh,https://www.sports-reference.com/cbb/players/will-menaugh-1.html,Arizona,2.0,1.3,6,4,False
+488,Jordan Mains,https://www.sports-reference.com/cbb/players/jordan-mains-1.html,Arizona,2.0,0.8,16,6,False
+489,Grant Weitman,https://www.sports-reference.com/cbb/players/grant-weitman-1.html,Arizona,2.0,0.3,12,2,False
+490,Ben Ackerley,https://www.sports-reference.com/cbb/players/ben-ackerley-1.html,Arizona,1.5,0.0,6,0,False
+491,Tautvilas Tubelis,https://www.sports-reference.com/cbb/players/tautvilas-tubelis-1.html,Arizona,1.8,0.0,9,0,False
+492,Marcus Carr,https://www.sports-reference.com/cbb/players/marcus-carr-2.html,Texas,33.9,15.9,1287,603,False
+493,Sir'Jabari Rice,https://www.sports-reference.com/cbb/players/jabari-rice-1.html,Texas,25.3,13.0,962,494,True
+494,Timmy Allen,https://www.sports-reference.com/cbb/players/timmy-allen-1.html,Texas,28.4,10.5,993,367,False
+495,Tyrese Hunter,https://www.sports-reference.com/cbb/players/tyrese-hunter-1.html,Texas,30.3,10.3,1150,392,True
+496,Dylan Disu,https://www.sports-reference.com/cbb/players/dylan-disu-1.html,Texas,19.0,8.8,684,318,False
+497,Christian Bishop,https://www.sports-reference.com/cbb/players/christian-bishop-1.html,Texas,17.8,6.6,676,249,False
+498,Brock Cunningham,https://www.sports-reference.com/cbb/players/brock-cunningham-1.html,Texas,18.3,4.6,695,173,False
+499,Arterio Morris,https://www.sports-reference.com/cbb/players/arterio-morris-1.html,Texas,11.7,4.6,444,175,False
+500,Dillon Mitchell,https://www.sports-reference.com/cbb/players/dillon-mitchell-1.html,Texas,17.5,4.3,664,165,False
+501,Alex Anamekwe,https://www.sports-reference.com/cbb/players/alex-anamekwe-1.html,Texas,5.0,1.5,60,18,False
+502,Cole Bott,https://www.sports-reference.com/cbb/players/cole-bott-1.html,Texas,2.4,0.7,22,6,False
+503,Gavin Perryman,https://www.sports-reference.com/cbb/players/gavin-perryman-1.html,Texas,3.5,0.3,39,3,False
+504,Marcus Sasser,https://www.sports-reference.com/cbb/players/marcus-sasser-1.html,Houston,30.8,16.8,1108,604,False
+505,Jarace Walker,https://www.sports-reference.com/cbb/players/jarace-walker-1.html,Houston,27.6,11.2,992,404,False
+506,Jamal Shead,https://www.sports-reference.com/cbb/players/jamal-shead-1.html,Houston,32.6,10.5,1205,389,False
+507,Tramon Mark,https://www.sports-reference.com/cbb/players/tramon-mark-1.html,Houston,29.5,10.1,1090,375,False
+508,J'Wan Roberts,https://www.sports-reference.com/cbb/players/jwan-roberts-1.html,Houston,26.4,10.0,976,371,False
+509,Emanuel Sharp,https://www.sports-reference.com/cbb/players/emanuel-sharp-1.html,Houston,15.6,5.9,515,196,False
+510,Ja'Vier Francis,https://www.sports-reference.com/cbb/players/javier-francis-1.html,Houston,10.3,4.3,362,150,False
+511,Terrance Arceneaux,https://www.sports-reference.com/cbb/players/terrance-arceneaux-1.html,Houston,13.9,3.7,471,125,False
+512,Reggie Chaney,https://www.sports-reference.com/cbb/players/reggie-chaney-1.html,Houston,13.5,3.0,471,104,False
+513,Ramon Walker,https://www.sports-reference.com/cbb/players/ramon-walkerjr-1.html,Houston,15.1,2.9,151,29,False
+514,Ryan Elvin,https://www.sports-reference.com/cbb/players/ryan-elvin-1.html,Houston,2.9,1.5,44,23,False
+515,Darius Bowser,https://www.sports-reference.com/cbb/players/sadarius-bowser-1.html,Houston,2.5,0.0,15,0,True
+516,Souley Boum,https://www.sports-reference.com/cbb/players/souley-boum-1.html,Xavier,35.2,16.4,1302,605,True
+517,Zach Freemantle,https://www.sports-reference.com/cbb/players/zach-freemantle-1.html,Xavier,28.6,15.2,630,335,False
+518,Colby Jones,https://www.sports-reference.com/cbb/players/colby-jones-1.html,Xavier,34.0,15.0,1223,540,False
+519,Jack Nunge,https://www.sports-reference.com/cbb/players/jack-nunge-1.html,Xavier,29.3,14.2,1083,524,False
+520,Adam Kunkel,https://www.sports-reference.com/cbb/players/adam-kunkel-1.html,Xavier,30.4,10.9,1064,380,False
+521,Jerome Hunter,https://www.sports-reference.com/cbb/players/jerome-hunter-2.html,Xavier,20.8,7.8,770,288,False
+522,Desmond Claude,https://www.sports-reference.com/cbb/players/desmond-claude-1.html,Xavier,20.8,4.7,729,166,False
+523,Kam Craft,https://www.sports-reference.com/cbb/players/kam-craft-1.html,Xavier,6.7,2.6,101,39,False
+524,Cesare Edwards,https://www.sports-reference.com/cbb/players/cesare-edwards-1.html,Xavier,7.8,2.2,180,50,False
+525,Kyky Tandy,https://www.sports-reference.com/cbb/players/kyky-tandy-1.html,Xavier,10.5,2.2,232,48,False
+526,Dieonte Miles,https://www.sports-reference.com/cbb/players/dieonte-miles-1.html,Xavier,6.5,1.1,78,13,False
+527,Elijah Tucker,https://www.sports-reference.com/cbb/players/elijah-tucker-1.html,Xavier,3.1,1.0,22,7,False
+528,Bradley Colbert,https://www.sports-reference.com/cbb/players/bradley-colbert-1.html,Xavier,1.3,0.0,5,0,False
+529,Bob Nunge,https://www.sports-reference.com/cbb/players/bob-nunge-1.html,Xavier,1.0,0.0,4,0,False
+530,Ian Sabourin,https://www.sports-reference.com/cbb/players/ian-sabourin-1.html,Xavier,0.5,0.0,1,0,False
+531,Michael Wolf,https://www.sports-reference.com/cbb/players/michael-wolf-1.html,Xavier,1.0,0.0,3,0,False
+532,Johni Broome,https://www.sports-reference.com/cbb/players/johni-broome-1.html,Auburn,26.5,14.2,875,467,True
+533,Wendell Green,https://www.sports-reference.com/cbb/players/wendell-greenjr-1.html,Auburn,28.2,13.7,958,467,False
+534,Jaylin Williams,https://www.sports-reference.com/cbb/players/jaylin-williams-1.html,Auburn,27.8,11.2,918,368,False
+535,Allen Flanigan,https://www.sports-reference.com/cbb/players/allen-flanigan-1.html,Auburn,27.0,10.1,917,342,False
+536,K.D. Johnson,https://www.sports-reference.com/cbb/players/kd-johnson-1.html,Auburn,21.9,8.9,722,293,False
+537,Dylan Cardwell,https://www.sports-reference.com/cbb/players/dylan-cardwell-1.html,Auburn,13.4,3.7,428,119,False
+538,Chris Moore,https://www.sports-reference.com/cbb/players/chris-moore-10.html,Auburn,14.5,3.5,448,108,False
+539,Zep Jasper,https://www.sports-reference.com/cbb/players/zep-jasper-1.html,Auburn,18.0,2.8,612,95,False
+540,Tre Donaldson,https://www.sports-reference.com/cbb/players/tre-donaldson-1.html,Auburn,10.5,2.5,337,80,False
+541,Chance Westry,https://www.sports-reference.com/cbb/players/chance-westry-1.html,Auburn,9.5,2.5,105,27,False
+542,Lior Berman,https://www.sports-reference.com/cbb/players/lior-berman-1.html,Auburn,9.4,2.2,236,54,False
+543,Yohan Traore,https://www.sports-reference.com/cbb/players/yohan-traore-1.html,Auburn,9.9,2.1,247,53,False
+544,Babatunde Akingbola,https://www.sports-reference.com/cbb/players/babatunde-akingbola-1.html,Auburn,3.8,0.3,15,1,False
+545,Jalen Harper,https://www.sports-reference.com/cbb/players/jalen-harper-1.html,Auburn,0.5,0.0,1,0,True
+546,Chandler Leopard,https://www.sports-reference.com/cbb/players/chandler-leopard-1.html,Auburn,0.7,0.0,4,0,False
+547,Carter Sobera,https://www.sports-reference.com/cbb/players/carter-sobera-1.html,Auburn,0.7,0.0,2,0,False
+548,Trayce Jackson-Davis,https://www.sports-reference.com/cbb/players/trayce-jackson-davis-1.html,Indiana,34.5,20.9,1105,670,False
+549,Jalen Hood-Schifino,https://www.sports-reference.com/cbb/players/jalen-hood-schifino-1.html,Indiana,33.1,13.5,1058,432,False
+550,Xavier Johnson,https://www.sports-reference.com/cbb/players/xavier-johnson-2.html,Indiana,25.2,9.9,277,109,False
+551,Race Thompson,https://www.sports-reference.com/cbb/players/race-thompson-1.html,Indiana,23.2,8.4,696,251,False
+552,Miller Kopp,https://www.sports-reference.com/cbb/players/miller-kopp-1.html,Indiana,30.3,8.1,1062,282,False
+553,Trey Galloway,https://www.sports-reference.com/cbb/players/trey-galloway-1.html,Indiana,27.7,6.7,886,213,False
+554,Tamar Bates,https://www.sports-reference.com/cbb/players/tamar-bates-1.html,Indiana,20.4,6.1,713,214,False
+555,Malik Reneau,https://www.sports-reference.com/cbb/players/malik-reneau-1.html,Indiana,14.9,6.1,522,215,False
+556,Jordan Geronimo,https://www.sports-reference.com/cbb/players/jordan-geronimo-1.html,Indiana,12.4,4.2,335,113,False
+557,Logan Duncomb,https://www.sports-reference.com/cbb/players/logan-duncomb-1.html,Indiana,5.7,2.9,51,26,False
+558,Kaleb Banks,https://www.sports-reference.com/cbb/players/kaleb-banks-1.html,Indiana,5.6,2.0,135,49,False
+559,CJ Gunn,https://www.sports-reference.com/cbb/players/cj-gunn-1.html,Indiana,7.5,2.0,150,40,False
+560,Anthony Leal,https://www.sports-reference.com/cbb/players/anthony-leal-1.html,Indiana,2.2,0.2,24,2,False
+561,Shaan Burke,https://www.sports-reference.com/cbb/players/shaan-burke-1.html,Indiana,0.0,0.0,0,0,False
+562,Nathan Childress,https://www.sports-reference.com/cbb/players/nathan-childress-1.html,Indiana,2.0,0.0,10,0,False
+563,Hogan Orbaugh,https://www.sports-reference.com/cbb/players/hogan-orbaugh-1.html,Indiana,0.0,0.0,0,0,False
+564,Michael Shipp,https://www.sports-reference.com/cbb/players/michael-shipp-2.html,Indiana,0.7,0.0,2,0,False
+565,Blake Hinson,https://www.sports-reference.com/cbb/players/blake-hinson-1.html,Pitt,31.7,15.3,1142,550,True
+566,Jamarius Burton,https://www.sports-reference.com/cbb/players/jamarius-burton-1.html,Pitt,33.2,15.2,1128,518,False
+567,Nelly Cummings,https://www.sports-reference.com/cbb/players/nelly-cummings-1.html,Pitt,32.3,11.1,1162,401,True
+568,Greg Elliott,https://www.sports-reference.com/cbb/players/greg-elliott-1.html,Pitt,29.3,10.4,1055,373,True
+569,Nike Sibande,https://www.sports-reference.com/cbb/players/nike-sibande-1.html,Pitt,22.5,8.4,810,304,False
+570,John Hugley,https://www.sports-reference.com/cbb/players/john-hugley-1.html,Pitt,18.3,8.0,146,64,False
+571,Federiko Federiko,https://www.sports-reference.com/cbb/players/federiko-federiko-1.html,Pitt,23.4,6.6,818,232,True
+572,Guillermo Diaz Graham,https://www.sports-reference.com/cbb/players/guillermo-diaz-graham-1.html,Pitt,12.0,3.5,396,117,False
+573,Jorge Diaz Graham,https://www.sports-reference.com/cbb/players/jorge-diaz-graham-1.html,Pitt,9.1,2.9,282,91,False
+574,Nate Santos,https://www.sports-reference.com/cbb/players/nate-santos-1.html,Pitt,7.3,1.6,212,46,False
+575,Aidan Fisch,https://www.sports-reference.com/cbb/players/aidan-fisch-1.html,Pitt,2.1,0.4,21,4,False
+576,KJ Marshall,https://www.sports-reference.com/cbb/players/kj-marshall-1.html,Pitt,2.5,0.4,27,4,True
+577,Jalen Pickett,https://www.sports-reference.com/cbb/players/jalen-pickett-1.html,Penn State,36.6,17.7,1353,655,False
+578,Seth Lundy,https://www.sports-reference.com/cbb/players/seth-lundy-1.html,Penn State,31.7,14.2,1141,510,False
+579,Andrew Funk,https://www.sports-reference.com/cbb/players/andrew-funk-1.html,Penn State,34.5,12.5,1275,463,True
+580,Camren Wynter,https://www.sports-reference.com/cbb/players/camren-wynter-1.html,Penn State,28.2,8.9,1044,331,True
+581,Myles Dread,https://www.sports-reference.com/cbb/players/myles-dread-1.html,Penn State,21.5,5.5,795,205,False
+582,Kanye Clary,https://www.sports-reference.com/cbb/players/kanye-clary-1.html,Penn State,10.4,3.7,332,117,False
+583,Kebba Njie,https://www.sports-reference.com/cbb/players/kebba-njie-1.html,Penn State,14.3,3.4,529,127,False
+584,Evan Mahaffey,https://www.sports-reference.com/cbb/players/evan-mahaffey-1.html,Penn State,9.4,2.8,319,94,False
+585,Michael Henn,https://www.sports-reference.com/cbb/players/mikey-henn-1.html,Penn State,8.6,2.4,249,71,True
+586,Caleb Dorsey,https://www.sports-reference.com/cbb/players/caleb-dorsey-1.html,Penn State,12.0,2.3,192,37,False
+587,Dallion Johnson,https://www.sports-reference.com/cbb/players/dallion-johnson-1.html,Penn State,8.7,2.0,200,47,False
+588,Jameel Brown,https://www.sports-reference.com/cbb/players/jameel-brown-1.html,Penn State,4.6,0.9,64,12,False
+589,Demetrius Lilley,https://www.sports-reference.com/cbb/players/demetrius-lilley-1.html,Penn State,2.8,0.8,14,4,False
+590,Andy Christos,https://www.sports-reference.com/cbb/players/andy-christos-1.html,Penn State,1.5,0.0,3,0,False
+591,Dan Conlan,https://www.sports-reference.com/cbb/players/dan-conlan-1.html,Penn State,2.2,0.0,13,0,False
+592,Ishaan Jagiasi,https://www.sports-reference.com/cbb/players/ishaan-jagiasi-1.html,Penn State,1.0,0.0,2,0,False
+593,Marques Warrick,https://www.sports-reference.com/cbb/players/marques-warrick-1.html,Northern Kentucky,34.6,18.8,1212,659,False
+594,Sam Vinson,https://www.sports-reference.com/cbb/players/sam-vinson-1.html,Northern Kentucky,32.8,11.8,1050,378,False
+595,Trevon Faulkner,https://www.sports-reference.com/cbb/players/trevon-faulkner-1.html,Northern Kentucky,24.5,8.4,859,295,False
+596,Xavier Rhodes,https://www.sports-reference.com/cbb/players/xavier-rhodes-1.html,Northern Kentucky,28.2,7.7,958,261,True
+597,Trey Robinson,https://www.sports-reference.com/cbb/players/trey-robinson-1.html,Northern Kentucky,22.2,7.0,756,239,False
+598,Chris Brandon,https://www.sports-reference.com/cbb/players/chris-brandon-1.html,Northern Kentucky,29.1,6.7,1019,236,False
+599,A'lahn Sumler,https://www.sports-reference.com/cbb/players/alahn-sumler-1.html,Northern Kentucky,10.0,2.9,281,81,False
+600,Hubertas Pivorius,https://www.sports-reference.com/cbb/players/hubertas-pivorius-1.html,Northern Kentucky,10.9,2.8,327,85,False
+601,Imanuel Zorgvol,https://www.sports-reference.com/cbb/players/imanuel-zorgvol-1.html,Northern Kentucky,9.0,2.6,287,82,False
+602,LJ Wells,https://www.sports-reference.com/cbb/players/lj-wells-1.html,Northern Kentucky,8.7,1.6,209,39,False
+603,Jake Evans,https://www.sports-reference.com/cbb/players/jake-evans-1.html,Northern Kentucky,6.8,0.7,115,12,False
+604,Isaiah Mason,https://www.sports-reference.com/cbb/players/isaiah-mason-1.html,Northern Kentucky,3.6,0.4,40,4,False
+605,Noah Hupmann,https://www.sports-reference.com/cbb/players/noah-hupmann-1.html,Northern Kentucky,2.0,0.3,6,1,False
+606,Mitchel Minor,https://www.sports-reference.com/cbb/players/mitchel-minor-1.html,Northern Kentucky,1.5,0.0,3,0,False
+607,Cole Sherman,https://www.sports-reference.com/cbb/players/cole-sherman-1.html,Northern Kentucky,1.5,0.0,3,0,False
+608,Kris Murray,https://www.sports-reference.com/cbb/players/kris-murray-1.html,Iowa,34.9,20.2,1011,586,False
+609,Filip Rebraca,https://www.sports-reference.com/cbb/players/filip-rebraca-1.html,Iowa,31.5,14.1,1041,464,False
+610,Tony Perkins,https://www.sports-reference.com/cbb/players/tony-perkins-1.html,Iowa,29.7,12.3,950,395,False
+611,Payton Sandfort,https://www.sports-reference.com/cbb/players/payton-sandfort-1.html,Iowa,20.8,10.3,685,340,False
+612,Patrick McCaffery,https://www.sports-reference.com/cbb/players/patrick-mccaffery-1.html,Iowa,22.4,9.8,604,265,False
+613,Connor McCaffery,https://www.sports-reference.com/cbb/players/connor-mccaffery-1.html,Iowa,30.1,6.5,963,209,False
+614,Ahron Ulis,https://www.sports-reference.com/cbb/players/ahron-ulis-1.html,Iowa,22.6,6.1,722,195,False
+615,Dasonte Bowen,https://www.sports-reference.com/cbb/players/dasonte-bowen-1.html,Iowa,9.3,3.1,243,81,False
+616,Josh Dix,https://www.sports-reference.com/cbb/players/josh-dix-1.html,Iowa,9.2,2.0,285,62,False
+617,Josh Ogundele,https://www.sports-reference.com/cbb/players/josh-ogundele-1.html,Iowa,6.5,1.9,72,21,False
+618,Luc Laketa,https://www.sports-reference.com/cbb/players/luc-laketa-1.html,Iowa,2.5,1.0,10,4,False
+619,Carter Kingsbury,https://www.sports-reference.com/cbb/players/carter-kingsbury-1.html,Iowa,3.9,0.9,31,7,False
+620,Riley Mulvey,https://www.sports-reference.com/cbb/players/riley-mulvey-1.html,Iowa,4.2,0.9,50,11,False
+621,Dante Eldridge,https://www.sports-reference.com/cbb/players/dante-eldridge-1.html,Iowa,3.0,0.7,9,2,True
+622,Tucker DeVries,https://www.sports-reference.com/cbb/players/tucker-devries-1.html,Drake,32.9,18.6,1119,631,False
+623,Roman Penn,https://www.sports-reference.com/cbb/players/roman-penn-1.html,Drake,31.2,12.6,1061,428,False
+624,Garrett Sturtz,https://www.sports-reference.com/cbb/players/garrett-sturtz-1.html,Drake,29.3,9.3,1025,325,False
+625,Darnell Brodie,https://www.sports-reference.com/cbb/players/darnell-brodie-1.html,Drake,24.8,9.1,869,320,False
+626,D.J. Wilkins,https://www.sports-reference.com/cbb/players/dj-wilkins-1.html,Drake,29.0,8.2,1014,286,False
+627,Issa Samake,https://www.sports-reference.com/cbb/players/issa-samake-1.html,Drake,12.0,8.0,12,8,False
+628,Sardaar Calhoun,https://www.sports-reference.com/cbb/players/sardaar-calhoun-1.html,Drake,18.4,7.3,590,234,True
+629,Conor Enright,https://www.sports-reference.com/cbb/players/conor-enright-1.html,Drake,18.6,4.1,650,144,False
+630,Nate Ferguson,https://www.sports-reference.com/cbb/players/nate-ferguson-1.html,Drake,12.1,3.5,328,94,False
+631,Okay Djamgouz,https://www.sports-reference.com/cbb/players/okay-djamgouz-1.html,Drake,7.7,3.1,207,85,False
+632,Eric Northweather,https://www.sports-reference.com/cbb/players/eric-northweather-1.html,Drake,9.3,2.3,215,52,True
+633,Bryceson Burns,https://www.sports-reference.com/cbb/players/bryceson-burns-1.html,Drake,4.0,0.7,60,10,False
+634,Sincere Carry,https://www.sports-reference.com/cbb/players/sincere-carry-1.html,Kent State,36.8,17.5,1287,613,False
+635,Malique Jacobs,https://www.sports-reference.com/cbb/players/malique-jacobs-1.html,Kent State,32.8,12.8,1114,436,False
+636,Miryne Thomas,https://www.sports-reference.com/cbb/players/miryne-thomas-1.html,Kent State,27.1,10.5,949,369,True
+637,Jalen Sullinger,https://www.sports-reference.com/cbb/players/jalen-sullinger-1.html,Kent State,22.3,8.6,779,300,False
+638,Giovanni Santiago,https://www.sports-reference.com/cbb/players/giovanni-santiago-1.html,Kent State,27.1,7.5,623,173,False
+639,Voncameron Davis,https://www.sports-reference.com/cbb/players/voncameron-davis-1.html,Kent State,21.5,6.7,731,229,False
+640,Chris Payton,https://www.sports-reference.com/cbb/players/chris-payton-1.html,Kent State,16.2,6.7,551,227,True
+641,Cli'Ron Hornbeak,https://www.sports-reference.com/cbb/players/cliron-hornbeak-1.html,Kent State,16.4,5.4,556,185,False
+642,Delrecco Gillespie,https://www.sports-reference.com/cbb/players/delrecco-gillespie-1.html,Kent State,5.5,2.4,138,61,False
+643,Julius Rollins,https://www.sports-reference.com/cbb/players/julius-rollins-1.html,Kent State,8.8,2.0,245,57,False
+644,Akeem Odusipe,https://www.sports-reference.com/cbb/players/akeem-odusipe-1.html,Kent State,3.8,1.2,50,15,False
+645,Jaren Holmes,https://www.sports-reference.com/cbb/players/jaren-holmes-1.html,Iowa State,32.2,13.3,1064,440,True
+646,Gabe Kalscheur,https://www.sports-reference.com/cbb/players/gabe-kalscheur-1.html,Iowa State,33.6,12.9,1109,426,False
+647,Caleb Grill,https://www.sports-reference.com/cbb/players/caleb-grill-1.html,Iowa State,31.2,9.5,780,237,False
+648,Osun Osunniyi,https://www.sports-reference.com/cbb/players/osun-osunniyi-1.html,Iowa State,18.3,8.2,604,272,True
+649,Tamin Lipsey,https://www.sports-reference.com/cbb/players/tamin-lipsey-1.html,Iowa State,29.5,7.3,974,241,False
+650,Aljaz Kunc,https://www.sports-reference.com/cbb/players/aljaz-kunc-1.html,Iowa State,24.8,7.1,571,164,False
+651,Tre King,https://www.sports-reference.com/cbb/players/tre-king-1.html,Iowa State,17.9,6.1,412,140,False
+652,Robert Jones,https://www.sports-reference.com/cbb/players/robert-jones-9.html,Iowa State,17.1,5.7,563,187,False
+653,Hason Ward,https://www.sports-reference.com/cbb/players/hason-ward-1.html,Iowa State,8.1,2.8,187,64,True
+654,Demarion Watson,https://www.sports-reference.com/cbb/players/demarion-watson-1.html,Iowa State,11.7,1.7,339,48,False
+655,Eli King,https://www.sports-reference.com/cbb/players/eli-king-1.html,Iowa State,3.3,1.2,30,11,False
+656,Conrad Hawley,https://www.sports-reference.com/cbb/players/conrad-hawley-1.html,Iowa State,1.9,0.1,17,1,True
+657,Chris Youngblood,https://www.sports-reference.com/cbb/players/chris-youngblood-1.html,Kennesaw State,31.4,14.7,1098,513,False
+658,Terrell Burden,https://www.sports-reference.com/cbb/players/terrell-burden-1.html,Kennesaw State,30.1,13.5,1055,472,False
+659,Demond Robinson,https://www.sports-reference.com/cbb/players/demond-robinson-1.html,Kennesaw State,23.0,11.0,804,384,False
+660,Brandon Stroud,https://www.sports-reference.com/cbb/players/brandon-stroud-1.html,Kennesaw State,25.5,9.2,892,321,False
+661,Spencer Rodgers,https://www.sports-reference.com/cbb/players/spencer-rodgers-1.html,Kennesaw State,25.9,6.5,905,227,False
+662,Kasen Jennings,https://www.sports-reference.com/cbb/players/kasen-jennings-1.html,Kennesaw State,23.8,6.2,786,203,False
+663,Alex Peterson,https://www.sports-reference.com/cbb/players/alex-peterson-1.html,Kennesaw State,14.1,4.6,451,147,False
+664,Quincy Ademokoya,https://www.sports-reference.com/cbb/players/quincy-ademokoya-2.html,Kennesaw State,14.7,4.5,515,156,False
+665,Simeon Cottle,https://www.sports-reference.com/cbb/players/simeon-cottle-1.html,Kennesaw State,10.3,3.9,341,130,False
+666,Ahmad Johnson,https://www.sports-reference.com/cbb/players/ahmad-johnson-1.html,Kennesaw State,5.6,2.8,28,14,False
+667,Cole LaRue,https://www.sports-reference.com/cbb/players/cole-larue-1.html,Kennesaw State,6.1,2.2,122,43,False
+668,Yves Nkomba,https://www.sports-reference.com/cbb/players/yves-nkomba-1.html,Kennesaw State,2.8,0.8,25,7,False
+669,Armani Harris,https://www.sports-reference.com/cbb/players/armani-harris-1.html,Kennesaw State,3.2,0.7,19,4,False
+670,Matt Brown,https://www.sports-reference.com/cbb/players/matt-brown-7.html,Kennesaw State,2.0,0.3,12,2,False
+671,Charle Stone,https://www.sports-reference.com/cbb/players/charle-stone-1.html,Kennesaw State,2.0,0.3,12,2,False
+672,Eric Holland,https://www.sports-reference.com/cbb/players/eric-holland-1.html,Kennesaw State,2.0,0.2,12,1,False
+673,Wade Taylor,https://www.sports-reference.com/cbb/players/wade-tayloriv-1.html,Texas A&M,28.7,16.3,1005,572,False
+674,Tyrece Radford,https://www.sports-reference.com/cbb/players/tyrece-radford-1.html,Texas A&M,31.1,13.3,1089,464,False
+675,Dexter Dennis,https://www.sports-reference.com/cbb/players/dexter-dennis-1.html,Texas A&M,28.7,9.5,976,322,True
+676,Julius Marble,https://www.sports-reference.com/cbb/players/julius-marble-2.html,Texas A&M,20.8,9.1,729,320,True
+677,Henry Coleman,https://www.sports-reference.com/cbb/players/henry-coleman-iii-1.html,Texas A&M,27.0,9.0,945,316,False
+678,Manny Obaseki,https://www.sports-reference.com/cbb/players/manny-obaseki-1.html,Texas A&M,13.8,5.2,275,104,False
+679,Hayden Hefner,https://www.sports-reference.com/cbb/players/hayden-hefner-1.html,Texas A&M,10.9,3.4,349,110,False
+680,Andersson Garcia,https://www.sports-reference.com/cbb/players/andersson-garcia-1.html,Texas A&M,16.5,3.2,560,108,True
+681,Solomon Washington,https://www.sports-reference.com/cbb/players/solomon-washington-1.html,Texas A&M,12.3,3.2,381,98,False
+682,Andre Gordon,https://www.sports-reference.com/cbb/players/andre-gordon-1.html,Texas A&M,15.2,2.2,532,76,False
+683,Khalen Robinson,https://www.sports-reference.com/cbb/players/khalen-robinson-1.html,Texas A&M,5.6,1.8,101,33,True
+684,Javonte Brown,https://www.sports-reference.com/cbb/players/javonte-brown-1.html,Texas A&M,3.1,1.7,22,12,False
+685,Erik Pratt,https://www.sports-reference.com/cbb/players/erik-pratt-1.html,Texas A&M,3.7,1.4,33,13,True
+686,Davin Watkins,https://www.sports-reference.com/cbb/players/davin-watkins-1.html,Texas A&M,1.5,0.5,3,1,False
+687,Tucker Richardson,https://www.sports-reference.com/cbb/players/tucker-richardson-1.html,Colgate,34.4,13.7,1203,481,False
+688,Keegan Records,https://www.sports-reference.com/cbb/players/keegan-records-1.html,Colgate,23.3,13.0,817,455,False
+689,Oliver Lynch-Daniels,https://www.sports-reference.com/cbb/players/oliver-lynch-daniels-1.html,Colgate,31.7,12.1,1013,387,False
+690,Braeden Smith,https://www.sports-reference.com/cbb/players/braeden-smith-1.html,Colgate,31.6,11.6,1105,406,False
+691,Ryan Moffatt,https://www.sports-reference.com/cbb/players/ryan-moffatt-1.html,Colgate,30.5,10.6,1008,350,False
+692,Jeff Woodward,https://www.sports-reference.com/cbb/players/jeff-woodward-1.html,Colgate,17.7,6.9,620,243,False
+693,Chandler Baker,https://www.sports-reference.com/cbb/players/chandler-baker-1.html,Colgate,12.3,5.1,430,178,True
+694,Sam Thomson,https://www.sports-reference.com/cbb/players/sam-thomson-1.html,Colgate,15.6,4.3,483,133,False
+695,Malcolm Bailey,https://www.sports-reference.com/cbb/players/malcolm-bailey-1.html,Colgate,10.0,4.0,10,4,False
+696,Nicolas Louis-Jacques,https://www.sports-reference.com/cbb/players/nicolas-louis-jacques-1.html,Colgate,6.3,1.9,200,62,False
+697,Alex Capitano,https://www.sports-reference.com/cbb/players/alex-capitano-1.html,Colgate,3.1,1.6,37,19,False
+698,Brady Cummins,https://www.sports-reference.com/cbb/players/brady-cummins-1.html,Colgate,4.9,1.0,74,15,False
+699,Markquis Nowell,https://www.sports-reference.com/cbb/players/markquis-nowell-1.html,Kansas State,36.9,17.6,1328,633,False
+700,Keyontae Johnson,https://www.sports-reference.com/cbb/players/keyontae-johnson-1.html,Kansas State,34.1,17.4,1228,627,True
+701,Nae'Qwan Tomlin,https://www.sports-reference.com/cbb/players/naeqwan-tomlin-1.html,Kansas State,27.3,10.4,981,375,True
+702,Desi Sills,https://www.sports-reference.com/cbb/players/desi-sills-1.html,Kansas State,29.5,8.7,1031,305,True
+703,Camryn Carter,https://www.sports-reference.com/cbb/players/cam-carter-1.html,Kansas State,26.3,6.5,946,234,True
+704,David N'Guessan,https://www.sports-reference.com/cbb/players/david-nguessan-1.html,Kansas State,19.5,6.4,566,187,True
+705,Ismael Massoud,https://www.sports-reference.com/cbb/players/ismael-massoud-1.html,Kansas State,15.3,5.4,490,174,False
+706,Abayomi Iyiola,https://www.sports-reference.com/cbb/players/abayomi-iyiola-1.html,Kansas State,11.3,3.4,351,106,True
+707,Tykei Greene,https://www.sports-reference.com/cbb/players/tykei-greene-1.html,Kansas State,10.6,2.7,339,86,True
+708,Dorian Finister,https://www.sports-reference.com/cbb/players/dorian-finister-1.html,Kansas State,8.7,2.0,52,12,False
+709,Nate Awbrey,https://www.sports-reference.com/cbb/players/nate-awbrey-1.html,Kansas State,1.2,0.3,12,3,True
+710,Santiago Vescovi,https://www.sports-reference.com/cbb/players/santiago-vescovi-1.html,Tennessee,33.0,12.5,1089,414,False
+711,Olivier Nkamhoua,https://www.sports-reference.com/cbb/players/olivier-nkamhoua-1.html,Tennessee,25.3,10.8,912,390,False
+712,Zakai Zeigler,https://www.sports-reference.com/cbb/players/zakai-zeigler-1.html,Tennessee,28.8,10.7,864,321,False
+713,Josiah-Jordan James,https://www.sports-reference.com/cbb/players/josiah-jordan-james-1.html,Tennessee,25.2,10.0,604,239,False
+714,Julian Phillips,https://www.sports-reference.com/cbb/players/julian-phillips-1.html,Tennessee,24.1,8.3,770,266,False
+715,Tyreke Key,https://www.sports-reference.com/cbb/players/tyreke-key-1.html,Tennessee,24.4,8.2,804,271,False
+716,Jonas Aidoo,https://www.sports-reference.com/cbb/players/jonas-aidoo-1.html,Tennessee,18.3,5.1,639,178,False
+717,Uros Plavsic,https://www.sports-reference.com/cbb/players/uros-plavsic-1.html,Tennessee,13.4,4.9,457,168,False
+718,Jahmai Mashack,https://www.sports-reference.com/cbb/players/jahmai-mashack-1.html,Tennessee,18.1,4.7,653,170,False
+719,Tobe Awaka,https://www.sports-reference.com/cbb/players/tobe-awaka-1.html,Tennessee,10.3,3.2,350,108,False
+720,B.J. Edwards,https://www.sports-reference.com/cbb/players/bj-edwards-2.html,Tennessee,4.1,1.2,58,17,False
+721,Isaiah Sulack,https://www.sports-reference.com/cbb/players/isaiah-sulack-1.html,Tennessee,2.0,1.0,6,3,False
+722,Colin Coyne,https://www.sports-reference.com/cbb/players/colin-coyne-1.html,Tennessee,1.5,0.5,6,2,True
+723,Kent Gilbert,https://www.sports-reference.com/cbb/players/kent-gilbert-1.html,Tennessee,1.8,0.0,11,0,False
+724,Alec Kegler,https://www.sports-reference.com/cbb/players/alec-kegler-1.html,Tennessee,1.5,0.0,3,0,True
+725,Tyson Walker,https://www.sports-reference.com/cbb/players/tyson-walker-1.html,Michigan State,33.9,14.8,1154,504,False
+726,Joey Hauser,https://www.sports-reference.com/cbb/players/joey-hauser-1.html,Michigan State,34.1,14.4,1158,490,False
+727,A.J. Hoggard,https://www.sports-reference.com/cbb/players/aj-hoggard-1.html,Michigan State,30.6,12.9,1041,437,False
+728,Jaden Akins,https://www.sports-reference.com/cbb/players/jaden-akins-1.html,Michigan State,27.4,9.8,823,293,False
+729,Malik Hall,https://www.sports-reference.com/cbb/players/malik-hall-1.html,Michigan State,25.7,8.9,591,204,False
+730,Mady Sissoko,https://www.sports-reference.com/cbb/players/mady-sissoko-1.html,Michigan State,21.4,5.1,729,173,False
+731,Pierre Brooks,https://www.sports-reference.com/cbb/players/pierre-brooks-1.html,Michigan State,14.3,3.6,428,108,False
+732,Jaxon Kohler,https://www.sports-reference.com/cbb/players/jaxon-kohler-1.html,Michigan State,10.8,3.0,367,102,False
+733,Carson Cooper,https://www.sports-reference.com/cbb/players/carson-cooper-1.html,Michigan State,6.6,1.6,197,47,False
+734,Tre Holloman,https://www.sports-reference.com/cbb/players/tre-holloman-1.html,Michigan State,8.6,1.3,292,43,False
+735,Jason Whitens,https://www.sports-reference.com/cbb/players/jason-whitens-1.html,Michigan State,4.2,0.4,79,8,False
+736,Davis Smith,https://www.sports-reference.com/cbb/players/davis-smith-1.html,Michigan State,2.0,0.2,24,2,False
+737,Steven Izzo,https://www.sports-reference.com/cbb/players/steven-izzo-1.html,Michigan State,1.0,0.0,8,0,False
+738,Nick Sanders,https://www.sports-reference.com/cbb/players/nick-sanders-2.html,Michigan State,1.0,0.0,7,0,False
+739,Demetre Roberts,https://www.sports-reference.com/cbb/players/demetre-roberts-1.html,Fairleigh Dickinson,34.5,16.6,1276,614,True
+740,Grant Singleton,https://www.sports-reference.com/cbb/players/grant-singleton-1.html,Fairleigh Dickinson,31.8,13.9,1144,500,True
+741,Ansley Almonor,https://www.sports-reference.com/cbb/players/ansley-almonor-1.html,Fairleigh Dickinson,27.9,13.6,1004,489,False
+742,Joe Munden,https://www.sports-reference.com/cbb/players/joe-mundenjr-1.html,Fairleigh Dickinson,21.8,10.6,655,317,False
+743,Heru Bligen,https://www.sports-reference.com/cbb/players/heru-bligen-1.html,Fairleigh Dickinson,20.6,7.3,576,204,False
+744,Sean Moore,https://www.sports-reference.com/cbb/players/sean-moore-2.html,Fairleigh Dickinson,22.5,7.3,811,262,True
+745,Sebastien Lamaute,https://www.sports-reference.com/cbb/players/sebastien-lamaute-1.html,Fairleigh Dickinson,15.7,3.6,502,116,False
+746,Cameron Tweedy,https://www.sports-reference.com/cbb/players/cameron-tweedy-1.html,Fairleigh Dickinson,9.1,3.5,309,118,True
+747,Jo'el Emanuel,https://www.sports-reference.com/cbb/players/joel-emanuel-1.html,Fairleigh Dickinson,16.5,3.2,609,120,False
+748,Trevon Blassingame,https://www.sports-reference.com/cbb/players/trevon-blassingame-1.html,Fairleigh Dickinson,7.8,2.0,187,48,False
+749,Brayden Reynolds,https://www.sports-reference.com/cbb/players/brayden-reynolds-1.html,Fairleigh Dickinson,10.5,1.7,337,53,False
+750,Brandon Upshaw,https://www.sports-reference.com/cbb/players/brandon-upshaw-1.html,Fairleigh Dickinson,3.0,1.5,6,3,False
+751,Pier-Olivier Racine,https://www.sports-reference.com/cbb/players/pier-olivier-racine-1.html,Fairleigh Dickinson,3.1,1.0,28,9,False
+752,Daniel Rodriguez,https://www.sports-reference.com/cbb/players/daniel-rodriguez-1.html,Fairleigh Dickinson,3.3,1.0,33,10,False
+753,Kyle Filipowski,https://www.sports-reference.com/cbb/players/kyle-filipowski-1.html,Duke,29.1,15.1,1047,543,False
+754,Jeremy Roach,https://www.sports-reference.com/cbb/players/jeremy-roach-2.html,Duke,33.2,13.6,1062,435,False
+755,Tyrese Proctor,https://www.sports-reference.com/cbb/players/tyrese-proctor-1.html,Duke,29.4,9.4,1059,338,False
+756,Mark Mitchell,https://www.sports-reference.com/cbb/players/mark-mitchell-4.html,Duke,27.1,9.1,948,318,False
+757,Dariq Whitehead,https://www.sports-reference.com/cbb/players/dariq-whitehead-1.html,Duke,20.6,8.3,577,231,False
+758,Ryan Young,https://www.sports-reference.com/cbb/players/ryan-young-2.html,Duke,17.6,6.4,635,230,True
+759,Dereck Lively II,https://www.sports-reference.com/cbb/players/dereck-lively-ii-1.html,Duke,20.6,5.2,700,177,False
+760,Jacob Grandison,https://www.sports-reference.com/cbb/players/jacob-grandison-1.html,Duke,15.9,4.4,571,158,True
+761,Jaylen Blakes,https://www.sports-reference.com/cbb/players/jaylen-blakes-1.html,Duke,13.2,3.3,421,105,False
+762,Jaden Schutt,https://www.sports-reference.com/cbb/players/jaden-schutt-1.html,Duke,6.9,2.1,96,29,False
+763,Christian Reeves,https://www.sports-reference.com/cbb/players/christian-reeves-1.html,Duke,3.2,1.5,42,20,False
+764,Kale Catchings,https://www.sports-reference.com/cbb/players/kate-catchings-1.html,Duke,3.3,0.8,33,8,True
+765,Stanley Borden,https://www.sports-reference.com/cbb/players/stanley-borden-1.html,Duke,2.0,0.0,2,0,False
+766,Spencer Hubbard,https://www.sports-reference.com/cbb/players/spencer-hubbard-1.html,Duke,3.0,0.0,9,0,False
+767,Max Johns,https://www.sports-reference.com/cbb/players/max-johns-1.html,Duke,2.9,0.0,26,0,True
+768,Oscar Tshiebwe,https://www.sports-reference.com/cbb/players/oscar-tshiebwe-1.html,Kentucky,33.6,16.5,1075,527,False
+769,Antonio Reeves,https://www.sports-reference.com/cbb/players/antonio-reeves-1.html,Kentucky,27.9,14.4,948,488,True
+770,Jacob Toppin,https://www.sports-reference.com/cbb/players/jacob-toppin-1.html,Kentucky,31.4,12.4,1036,409,False
+771,Cason Wallace,https://www.sports-reference.com/cbb/players/cason-wallace-1.html,Kentucky,32.2,11.7,1030,375,False
+772,Sahvir Wheeler,https://www.sports-reference.com/cbb/players/sahvir-wheeler-1.html,Kentucky,28.6,7.7,600,161,False
+773,Chris Livingston,https://www.sports-reference.com/cbb/players/chris-livingston-1.html,Kentucky,22.4,6.3,762,215,False
+774,CJ Fredrick,https://www.sports-reference.com/cbb/players/cj-fredrick-1.html,Kentucky,22.3,6.1,601,164,False
+775,Ugonna Onyenso,https://www.sports-reference.com/cbb/players/ugonna-onyenso-1.html,Kentucky,6.9,2.5,111,40,False
+776,Adou Thiero,https://www.sports-reference.com/cbb/players/adou-thiero-1.html,Kentucky,9.5,2.3,190,46,False
+777,Lance Ware,https://www.sports-reference.com/cbb/players/lance-ware-1.html,Kentucky,9.8,2.0,274,57,False
+778,Daimion Collins,https://www.sports-reference.com/cbb/players/daimion-collins-1.html,Kentucky,7.9,1.9,198,47,False
+779,Brennan Canada,https://www.sports-reference.com/cbb/players/brennan-canada-1.html,Kentucky,1.8,0.6,9,3,False
+780,Walker Horn,https://www.sports-reference.com/cbb/players/walker-horn-1.html,Kentucky,2.0,0.0,8,0,False
+781,Kareem Watkins,https://www.sports-reference.com/cbb/players/kareem-watkins-1.html,Kentucky,2.0,0.0,8,0,False
+782,Kameron Jones,https://www.sports-reference.com/cbb/players/kam-jones-1.html,Marquette,29.8,15.1,1073,542,False
+783,Tyler Kolek,https://www.sports-reference.com/cbb/players/tyler-kolek-1.html,Marquette,32.3,12.9,1164,466,False
+784,Olivier-Maxence Prosper,https://www.sports-reference.com/cbb/players/olivier-maxence-prosper-1.html,Marquette,29.1,12.5,1049,450,False
+785,Oso Ighodaro,https://www.sports-reference.com/cbb/players/oso-ighodaro-1.html,Marquette,31.1,11.4,1120,412,False
+786,David Joplin,https://www.sports-reference.com/cbb/players/david-joplin-1.html,Marquette,19.0,9.2,685,332,False
+787,Stevie Mitchell,https://www.sports-reference.com/cbb/players/stevie-mitchell-1.html,Marquette,23.4,7.1,841,254,False
+788,Chase Ross,https://www.sports-reference.com/cbb/players/chase-ross-1.html,Marquette,16.4,4.6,589,167,False
+789,Sean Jones,https://www.sports-reference.com/cbb/players/sean-jones-3.html,Marquette,12.2,3.6,403,120,False
+790,Ben Gold,https://www.sports-reference.com/cbb/players/ben-gold-1.html,Marquette,7.9,2.7,286,96,False
+791,Zach Wrightsil,https://www.sports-reference.com/cbb/players/zach-wrightsil-1.html,Marquette,8.7,1.3,26,4,True
+792,Keeyan Itejere,https://www.sports-reference.com/cbb/players/keeyan-itejere-1.html,Marquette,2.2,0.8,29,11,False
+793,Jonah Lucas,https://www.sports-reference.com/cbb/players/jonah-lucas-1.html,Marquette,1.0,0.3,8,2,False
+794,Jake Ciardo,https://www.sports-reference.com/cbb/players/jake-ciardo-1.html,Marquette,1.0,0.0,5,0,False
+795,Michael Kennedy,https://www.sports-reference.com/cbb/players/michael-kennedy-2.html,Marquette,0.9,0.0,10,0,False
+796,Caleb Kozinski,https://www.sports-reference.com/cbb/players/caleb-kozinski-1.html,Marquette,1.0,0.0,5,0,False
+797,RJ Walson,https://www.sports-reference.com/cbb/players/rj-walson-1.html,Marquette,0.9,0.0,8,0,False
+798,Zach Edey,https://www.sports-reference.com/cbb/players/zach-edey-1.html,Purdue,31.7,22.3,1077,757,False
+799,Fletcher Loyer,https://www.sports-reference.com/cbb/players/fletcher-loyer-1.html,Purdue,28.9,11.0,1010,384,False
+800,Braden Smith,https://www.sports-reference.com/cbb/players/braden-smith-1.html,Purdue,30.3,9.7,1061,340,False
+801,Mason Gillis,https://www.sports-reference.com/cbb/players/mason-gillis-1.html,Purdue,20.5,6.8,655,218,False
+802,Brandon Newman,https://www.sports-reference.com/cbb/players/brandon-newman-2.html,Purdue,17.8,6.0,623,210,False
+803,Caleb Furst,https://www.sports-reference.com/cbb/players/caleb-furst-1.html,Purdue,18.4,5.5,644,194,False
+804,Trey Kaufman-Renn,https://www.sports-reference.com/cbb/players/trey-kaufman-renn-1.html,Purdue,11.3,4.5,397,159,False
+805,David Jenkins,https://www.sports-reference.com/cbb/players/david-jenkinsjr-1.html,Purdue,15.1,3.9,515,132,True
+806,Ethan Morton,https://www.sports-reference.com/cbb/players/ethan-morton-1.html,Purdue,25.1,3.8,880,132,False
+807,Carson Barrett,https://www.sports-reference.com/cbb/players/carson-barrett-1.html,Purdue,2.2,1.2,11,6,False
+808,Chase Martin,https://www.sports-reference.com/cbb/players/chase-martin-1.html,Purdue,1.8,0.5,7,2,False
+809,Brian Waddell,https://www.sports-reference.com/cbb/players/brian-waddell-1.html,Purdue,8.1,0.5,138,9,False
+810,Sam King,https://www.sports-reference.com/cbb/players/sam-king-2.html,Purdue,1.8,0.0,7,0,False
+811,Kendric Davis,https://www.sports-reference.com/cbb/players/kendric-davis-1.html,Memphis,34.9,21.9,1187,744,True
+812,Deandre Williams,https://www.sports-reference.com/cbb/players/deandre-williams-1.html,Memphis,31.0,17.7,1085,619,False
+813,Keonte Kennedy,https://www.sports-reference.com/cbb/players/keonte-kennedy-1.html,Memphis,23.1,9.2,577,231,True
+814,Elijah McCadden,https://www.sports-reference.com/cbb/players/elijah-mccadden-1.html,Memphis,24.8,7.6,867,267,True
+815,Alex Lomax,https://www.sports-reference.com/cbb/players/alex-lomax-1.html,Memphis,27.6,6.8,663,164,False
+816,Malcolm Dandridge,https://www.sports-reference.com/cbb/players/malcolm-dandridge-1.html,Memphis,14.5,5.7,290,113,False
+817,Jayden Hardaway,https://www.sports-reference.com/cbb/players/jayden-hardaway-1.html,Memphis,17.0,5.4,492,158,False
+818,Damaria Franklin,https://www.sports-reference.com/cbb/players/damaria-franklin-1.html,Memphis,17.8,5.1,446,127,True
+819,Chandler Lawson,https://www.sports-reference.com/cbb/players/chandler-lawson-1.html,Memphis,19.6,5.0,685,175,False
+820,Johnathan Lawson,https://www.sports-reference.com/cbb/players/johnathan-lawson-1.html,Memphis,15.7,3.4,454,99,False
+821,Kaodirichi Akobundu-Ehiogu,https://www.sports-reference.com/cbb/players/kaodirichi-akobundu-ehiogu-1.html,Memphis,10.5,2.6,315,78,True
+822,Ian Granja,https://www.sports-reference.com/cbb/players/ian-granja-1.html,Memphis,2.4,0.6,12,3,False
+823,Conor Glennon,https://www.sports-reference.com/cbb/players/conor-glennon-1.html,Memphis,3.0,0.0,3,0,False
+824,Max Abmas,https://www.sports-reference.com/cbb/players/max-abmas-1.html,Oral Roberts,36.0,21.9,1224,743,False
+825,Connor Vanover,https://www.sports-reference.com/cbb/players/connor-vanover-1.html,Oral Roberts,25.7,12.7,875,431,True
+826,Issac McBride,https://www.sports-reference.com/cbb/players/issac-mcbride-1.html,Oral Roberts,30.9,11.8,1083,414,False
+827,Carlos Jurgens,https://www.sports-reference.com/cbb/players/carlos-jurgens-1.html,Oral Roberts,25.4,9.0,890,315,False
+828,Kareem Thompson,https://www.sports-reference.com/cbb/players/kareem-thompson-2.html,Oral Roberts,29.9,8.5,1045,296,False
+829,Patrick Mwamba,https://www.sports-reference.com/cbb/players/patrick-mwamba-1.html,Oral Roberts,21.1,7.9,719,268,True
+830,DeShang Weaver,https://www.sports-reference.com/cbb/players/dj-weaver-2.html,Oral Roberts,13.5,6.4,471,224,False
+831,Trey Phipps,https://www.sports-reference.com/cbb/players/trey-phipps-1.html,Oral Roberts,10.9,3.8,370,129,False
+832,Demari Williams,https://www.sports-reference.com/cbb/players/demari-williams-1.html,Oral Roberts,4.9,2.2,93,41,True
+833,Nate Clover,https://www.sports-reference.com/cbb/players/nate-cloveriii-1.html,Oral Roberts,6.2,1.8,99,28,False
+834,Cam Amboree,https://www.sports-reference.com/cbb/players/cam-amboree-1.html,Oral Roberts,5.3,1.1,79,16,False
+835,Jake Shannon,https://www.sports-reference.com/cbb/players/jake-shannon-1.html,Oral Roberts,3.1,0.7,47,10,False
+836,Sir Issac Herron,https://www.sports-reference.com/cbb/players/sir-issac-herron-1.html,Oral Roberts,8.0,0.0,8,0,False
+837,Jordan Brown,https://www.sports-reference.com/cbb/players/jordan-brown-4.html,Louisiana,31.8,19.3,1049,637,False
+838,Greg Williams,https://www.sports-reference.com/cbb/players/greg-williamsjr-1.html,Louisiana,29.2,12.7,992,432,False
+839,Terence Lewis,https://www.sports-reference.com/cbb/players/terence-lewisii-1.html,Louisiana,23.1,10.9,784,370,True
+840,Themus Fulks,https://www.sports-reference.com/cbb/players/themus-fulks-1.html,Louisiana,29.1,9.2,989,314,False
+841,Kentrell Garnett,https://www.sports-reference.com/cbb/players/kentrell-garnett-1.html,Louisiana,27.4,6.5,933,220,False
+842,Jalen Dalcourt,https://www.sports-reference.com/cbb/players/jalen-dalcourt-1.html,Louisiana,16.3,5.9,554,202,False
+843,Joe Charles,https://www.sports-reference.com/cbb/players/joe-charles-2.html,Louisiana,18.9,5.4,625,177,False
+844,Kobe Julien,https://www.sports-reference.com/cbb/players/kobe-julien-1.html,Louisiana,10.3,4.1,226,91,False
+845,Michael Thomas,https://www.sports-reference.com/cbb/players/michael-thomas-2.html,Louisiana,12.2,3.1,342,87,False
+846,Vinny Sigona,https://www.sports-reference.com/cbb/players/vinny-sigona-1.html,Louisiana,6.6,2.8,33,14,False
+847,Chancellor White,https://www.sports-reference.com/cbb/players/chancellor-white-1.html,Louisiana,7.4,2.7,104,38,False
+848,Isaiah Richards,https://www.sports-reference.com/cbb/players/isaiah-richards-1.html,Louisiana,6.1,1.5,195,48,False
+849,Bryce Hopkins,https://www.sports-reference.com/cbb/players/bryce-hopkins-1.html,Providence,34.9,15.8,1153,521,True
+850,Ed Croswell,https://www.sports-reference.com/cbb/players/ed-croswell-1.html,Providence,28.8,13.3,949,438,False
+851,Devin Carter,https://www.sports-reference.com/cbb/players/devin-carter-3.html,Providence,32.0,13.0,1057,430,True
+852,Noah Locke,https://www.sports-reference.com/cbb/players/noah-locke-1.html,Providence,27.8,11.0,918,363,True
+853,Jared Bynum,https://www.sports-reference.com/cbb/players/jared-bynum-1.html,Providence,27.7,10.0,802,289,False
+854,Alyn Breed,https://www.sports-reference.com/cbb/players/alyn-breed-1.html,Providence,18.4,4.8,590,153,False
+855,Clifton Moore,https://www.sports-reference.com/cbb/players/clifton-moore-1.html,Providence,13.2,4.6,435,152,True
+856,Corey Floyd,https://www.sports-reference.com/cbb/players/corey-floyd-jr-1.html,Providence,9.6,2.6,277,74,True
+857,Jayden Pierre,https://www.sports-reference.com/cbb/players/jayden-pierre-1.html,Providence,11.0,2.5,363,84,False
+858,Rafael Castro,https://www.sports-reference.com/cbb/players/rafael-castro-1.html,Providence,6.5,1.8,170,48,False
+859,Luke Fonts,https://www.sports-reference.com/cbb/players/luke-fonts-1.html,Providence,1.3,0.0,5,0,False
+860,Kieran O'Haire,https://www.sports-reference.com/cbb/players/kieran-ohaire-1.html,Providence,1.2,0.0,6,0,False
+861,Raequan Battle,https://www.sports-reference.com/cbb/players/raequan-battle-1.html,Montana State,29.7,17.7,1039,619,False
+862,Jubrile Belo,https://www.sports-reference.com/cbb/players/jubrile-belo-1.html,Montana State,24.5,12.8,857,447,False
+863,Great Osobor,https://www.sports-reference.com/cbb/players/great-osobor-1.html,Montana State,19.0,10.1,645,342,False
+864,Darius Brown,https://www.sports-reference.com/cbb/players/darius-brownii-1.html,Montana State,29.5,9.1,1004,311,True
+865,Caleb Fuller,https://www.sports-reference.com/cbb/players/caleb-fuller-1.html,Montana State,24.5,6.6,832,225,True
+866,Tyler Patterson,https://www.sports-reference.com/cbb/players/tyler-patterson-1.html,Montana State,23.7,5.0,830,174,False
+867,Patrick McMahon,https://www.sports-reference.com/cbb/players/patrick-mcmahon-1.html,Montana State,16.7,4.5,251,67,False
+868,Robert Ford,https://www.sports-reference.com/cbb/players/robert-fordiii-1.html,Montana State,20.7,4.4,725,155,True
+869,Sam Lecholat,https://www.sports-reference.com/cbb/players/sam-lecholat-1.html,Montana State,11.6,3.3,405,115,False
+870,Jed Miller,https://www.sports-reference.com/cbb/players/jed-miller-1.html,Montana State,5.4,2.8,81,42,False
+871,Alex Germer,https://www.sports-reference.com/cbb/players/alex-germer-1.html,Montana State,3.8,2.1,38,21,False
+872,Nick Gazelas,https://www.sports-reference.com/cbb/players/nick-gazelas-1.html,Montana State,9.7,1.6,290,47,False
+873,Carter Ash,https://www.sports-reference.com/cbb/players/carter-ash-1.html,Montana State,3.0,1.5,18,9,False
+874,Luca Colceag,https://www.sports-reference.com/cbb/players/luca-colceag-1.html,Montana State,3.6,1.4,36,14,False
+875,Boogie Ellis,https://www.sports-reference.com/cbb/players/boogie-ellis-1.html,USC,33.1,17.7,1092,583,False
+876,Drew Peterson,https://www.sports-reference.com/cbb/players/drew-peterson-1.html,USC,35.9,13.9,1184,458,False
+877,Reese Dixon-Waters,https://www.sports-reference.com/cbb/players/reese-waters-1.html,USC,25.4,9.8,738,283,False
+878,Kobe Johnson,https://www.sports-reference.com/cbb/players/kobe-johnson-1.html,USC,28.9,9.2,954,302,False
+879,Tre White,https://www.sports-reference.com/cbb/players/tre-white-1.html,USC,26.7,9.0,881,296,False
+880,Joshua Morgan,https://www.sports-reference.com/cbb/players/joshua-morgan-1.html,USC,24.4,7.0,707,202,False
+881,Vincent Iwuchukwu,https://www.sports-reference.com/cbb/players/vincent-iwuchukwu-1.html,USC,13.9,5.4,194,75,False
+882,Malik Thomas,https://www.sports-reference.com/cbb/players/malik-thomas-2.html,USC,8.1,2.4,218,65,False
+883,Kijani Wright,https://www.sports-reference.com/cbb/players/kijani-wright-1.html,USC,9.8,1.9,285,56,False
+884,Harrison Hornery,https://www.sports-reference.com/cbb/players/harrison-hornery-1.html,USC,7.0,1.5,167,35,False
+885,Oziyah Sellers,https://www.sports-reference.com/cbb/players/oziyah-sellers-1.html,USC,5.2,1.1,129,28,False
+886,Iaroslav Niagu,https://www.sports-reference.com/cbb/players/iaroslav-niagu-1.html,USC,4.8,0.4,76,6,False
+887,Zach Brooker,https://www.sports-reference.com/cbb/players/zach-brooker-1.html,USC,0.5,0.0,1,0,False
+888,Dylan Penn,https://www.sports-reference.com/cbb/players/dylan-penn-1.html,Vermont,27.6,13.4,940,455,True
+889,Finn Sullivan,https://www.sports-reference.com/cbb/players/finn-sullivan-1.html,Vermont,29.1,11.7,930,373,False
+890,Aaron Deloney,https://www.sports-reference.com/cbb/players/aaron-deloney-1.html,Vermont,23.0,11.6,783,393,False
+891,Matt Veretto,https://www.sports-reference.com/cbb/players/matt-veretto-1.html,Vermont,22.2,8.9,756,303,True
+892,Robin Duncan,https://www.sports-reference.com/cbb/players/robin-duncan-1.html,Vermont,30.9,7.9,1050,267,False
+893,Kameron Gibson,https://www.sports-reference.com/cbb/players/kameron-gibson-1.html,Vermont,23.7,7.3,783,242,False
+894,TJ Hurley,https://www.sports-reference.com/cbb/players/tj-hurley-1.html,Vermont,16.1,5.1,500,158,False
+895,Nick Fiorillo,https://www.sports-reference.com/cbb/players/nick-fiorillo-1.html,Vermont,16.2,4.1,227,58,False
+896,Ileri Ayo-Faleye,https://www.sports-reference.com/cbb/players/ileri-ayo-faleye-1.html,Vermont,12.3,3.1,357,91,True
+897,Sam Alamutu,https://www.sports-reference.com/cbb/players/sam-alamutu-1.html,Vermont,9.5,2.4,228,57,False
+898,Perry Smith,https://www.sports-reference.com/cbb/players/perry-smith-jr-1.html,Vermont,9.6,1.9,249,50,False
+899,Jorge Ochoa,https://www.sports-reference.com/cbb/players/jorge-ochoa-1.html,Vermont,3.5,1.4,38,15,False
+900,Michel Ndayishimiye,https://www.sports-reference.com/cbb/players/michel-ndayishimiye-1.html,Vermont,2.9,0.6,43,9,False
